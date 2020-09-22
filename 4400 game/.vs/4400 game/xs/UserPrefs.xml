@@ -7,7 +7,13 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="4400 game" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True" selected="True" />
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerMovement.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
