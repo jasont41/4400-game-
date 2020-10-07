@@ -47,7 +47,7 @@ public class RoomMove : MonoBehaviour
     {
         text.SetActive(true);
         placeText.text = placeName;
-        yield return new WaitForSeconds(4f);
+        yield return new WaitForSeconds(3f);
         text.SetActive(false); 
     }
 
