@@ -79,6 +79,7 @@
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
     <Compile Include="Assets\Scripts\Sign.cs" />
     <Compile Include="Assets\Scripts\SceneChange.cs" />
+    <Compile Include="Assets\Scripts\dontDestroy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Tiled2Unity\License.txt" />
