@@ -13,24 +13,24 @@ public class CameraMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        target = dontDestroy.Instance.transform; 
     }
   
     // Update is called once per frame
     void LateUpdate()
     {
-
-        //GameObject temp = GameObject.FindGameObjectWithTag("Player");
-        target.position = new Vector3(dontDestroy.Instance.transform.position.x, dontDestroy.Instance.transform.position.y, -10f);// dontDestroy.Instance.GetCurrentPosition(); //temp.transform.position;
-        Debug.Log(target.position);
-        if (transform.position != target.position)
+        if (target != null)
         {
-           
-            Vector3 target_position = dontDestroy.Instance.GetCurrentPosition();
-            target_position.x = Mathf.Clamp(target_position.x, minPosition.x, maxPosition.x);
-            target_position.y = Mathf.Clamp(target_position.y, minPosition.y, maxPosition.y);
-            transform.position = Vector3.Lerp(transform.position,
-                target_position, smoothing);
+
+
+            //GameObject temp = GameObject.FindGameObjectWithTag("Player");
+            // dontDestroy.Instance.GetCurrentPosition(); //temp.transform.position;
+            Debug.Log(target.position);
+            if (transform.position != target.position)
+            {
+                transform.position = Vector3.Lerp(transform.position,
+                new Vector3(target.position.x, target.position.y, -10f), smoothing);
+            }
         }
     }
 }
