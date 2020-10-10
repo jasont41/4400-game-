@@ -21,15 +21,20 @@ public class CameraMovement : MonoBehaviour
     {
         if (target != null)
         {
-
-
             //GameObject temp = GameObject.FindGameObjectWithTag("Player");
             // dontDestroy.Instance.GetCurrentPosition(); //temp.transform.position;
             Debug.Log(target.position);
             if (transform.position != target.position)
             {
-                transform.position = Vector3.Lerp(transform.position,
-                new Vector3(target.position.x, target.position.y, -10f), smoothing);
+                float curr_x = target.transform.position.x;
+                float curr_y = target.transform.position.y; 
+                curr_x = Mathf.Clamp(curr_x, minPosition.x,maxPosition.x);
+                curr_y = Mathf.Clamp(curr_y, minPosition.y, maxPosition.y);
+                Vector3 temp_pos = new Vector3(curr_x, curr_y, -10f);
+                transform.position = Vector3.Lerp(transform.position, temp_pos, smoothing); 
+                //new Vector3(target.position.x, target.position.y, -10f), smoothing);
+                //transform.position = Vector3.Lerp(transform.position,
+                //new Vector3(target.position.x, target.position.y, -10f), smoothing);
             }
         }
     }
