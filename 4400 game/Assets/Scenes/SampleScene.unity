@@ -5936,7 +5936,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 859436504342616684, guid: f4be1f05d74e4ab4496ea20d4ca3b232, type: 3}
       propertyPath: cameraChange.y
-      value: -15
+      value: -17
       objectReference: {fileID: 0}
     - target: {fileID: 859436504342616684, guid: f4be1f05d74e4ab4496ea20d4ca3b232, type: 3}
       propertyPath: playerChange.y
