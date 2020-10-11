@@ -5,7 +5,10 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
-    public int step_count = 0; 
+    public int step_count = 0;
+    public Vector2 player_pos_before_encounter; 
+    public  int encounter_seed = 5;
+
     public float speed;
     private Rigidbody2D myRigidBody;
     private Vector3 change;
