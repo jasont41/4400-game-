@@ -7750,9 +7750,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af2c0e86ef399144cba202e91656f98e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spawnLocation: {x: -3, y: 3, z: 0}
   random_num: 0
-  encounter_seed: 5
-  encounter_scene: 
+  encounter_seed: 1
+  encounter_scene: encScene
 --- !u!61 &1656758491
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24209,11 +24210,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.81
+      value: 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.82
+      value: 2.11
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.z

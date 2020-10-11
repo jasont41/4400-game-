@@ -7,12 +7,12 @@ public class SceneChange : MonoBehaviour
 {
     [SerializeField] private string newLevel;
     public Vector3 spawnLocation; //tag of sprite in the scene I am moving too 
-    public GameObject _player; // game obj of player  
+   // public GameObject _player; // game obj of player  
   
     private void OnTriggerEnter2D(Collider2D collision)
     {
        if(collision.CompareTag("Player")){
-
+           
             dontDestroy.Instance.transform.position = spawnLocation;  
             SceneManager.LoadScene(newLevel);  // lead new scene 
        }

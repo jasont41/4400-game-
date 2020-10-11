@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
     public int step_count = 0;
-    public Vector2 player_pos_before_encounter; 
+    Vector3 player_pos_enc; 
     public  int encounter_seed = 5;
 
     public float speed;

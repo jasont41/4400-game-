@@ -79,7 +79,7 @@
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\ObjectLayer.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GameObjectExtensions.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
-    <Compile Include="Assets\encounter_trigger.cs" />
+    <Compile Include="Assets\Scripts\encounter_trigger.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Tiled2Unity\License.txt" />
