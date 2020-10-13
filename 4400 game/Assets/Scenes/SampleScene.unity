@@ -366,8 +366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newLevel: house
-  spawnLocation: {x: 0, y: -2, z: 0}
-  _player: {fileID: 848313981}
+  spawnLocation: {x: 2.5, y: -2.5, z: 0}
 --- !u!61 &378945000
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7164,11 +7163,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!1 &848313981 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8950189723702899320, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
-  m_PrefabInstance: {fileID: 8950189723119668842}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &848313988 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
@@ -24210,11 +24204,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.3
+      value: -10.63
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.11
+      value: 6.47
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.z
