@@ -1,0 +1,6361 @@
+fileFormatVersion: 2
+guid: 19b50bdbfb5674c81b5edeea0df459d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8051144237406520957
+    second: old_man_smaller_0
+  - first:
+      213: -6658440202484569878
+    second: old_man_smaller_1
+  - first:
+      213: -331122968319250172
+    second: old_man_smaller_2
+  - first:
+      213: -2790092983032284346
+    second: old_man_smaller_3
+  - first:
+      213: 8313319520293364927
+    second: old_man_smaller_4
+  - first:
+      213: -6817709707040401361
+    second: old_man_smaller_5
+  - first:
+      213: -2192711765333687249
+    second: old_man_smaller_6
+  - first:
+      213: -5934346449238875313
+    second: old_man_smaller_7
+  - first:
+      213: 7985281043818845442
+    second: old_man_smaller_8
+  - first:
+      213: -7090545792868489868
+    second: old_man_smaller_9
+  - first:
+      213: -5368529196537239549
+    second: old_man_smaller_10
+  - first:
+      213: 547378100164747680
+    second: old_man_smaller_11
+  - first:
+      213: -2988515130382113402
+    second: old_man_smaller_12
+  - first:
+      213: 5835765644110005324
+    second: old_man_smaller_13
+  - first:
+      213: 8008363022770259049
+    second: old_man_smaller_14
+  - first:
+      213: 491762062872331337
+    second: old_man_smaller_15
+  - first:
+      213: 9189089475978708133
+    second: old_man_smaller_16
+  - first:
+      213: -5725538564189784613
+    second: old_man_smaller_17
+  - first:
+      213: 6392532338578733119
+    second: old_man_smaller_18
+  - first:
+      213: 4976373355008375981
+    second: old_man_smaller_19
+  - first:
+      213: 906844988729362858
+    second: old_man_smaller_20
+  - first:
+      213: 5667578108414918176
+    second: old_man_smaller_21
+  - first:
+      213: 3700839412797150813
+    second: old_man_smaller_22
+  - first:
+      213: -7886272701155588683
+    second: old_man_smaller_23
+  - first:
+      213: -2464308361940695772
+    second: old_man_smaller_24
+  - first:
+      213: -6225461799269580398
+    second: old_man_smaller_25
+  - first:
+      213: -4741557839969121539
+    second: old_man_smaller_26
+  - first:
+      213: 495944544692192894
+    second: old_man_smaller_27
+  - first:
+      213: -635747911324786542
+    second: old_man_smaller_28
+  - first:
+      213: -1757156831894751467
+    second: old_man_smaller_29
+  - first:
+      213: 5477901064981665978
+    second: old_man_smaller_30
+  - first:
+      213: -4487289494790301252
+    second: old_man_smaller_31
+  - first:
+      213: 1343203802297428030
+    second: old_man_smaller_32
+  - first:
+      213: 7098004465107557684
+    second: old_man_smaller_33
+  - first:
+      213: -7987702596657430440
+    second: old_man_smaller_34
+  - first:
+      213: -184400892913747648
+    second: old_man_smaller_35
+  - first:
+      213: -8729022488617759536
+    second: old_man_smaller_36
+  - first:
+      213: -8739322006134306228
+    second: old_man_smaller_37
+  - first:
+      213: -5536478572520833301
+    second: old_man_smaller_38
+  - first:
+      213: -5748021542554731021
+    second: old_man_smaller_39
+  - first:
+      213: -1122161953033849638
+    second: old_man_smaller_40
+  - first:
+      213: -554537513540366444
+    second: old_man_smaller_41
+  - first:
+      213: -8025692692826231634
+    second: old_man_smaller_42
+  - first:
+      213: -973175976801346533
+    second: old_man_smaller_43
+  - first:
+      213: 3009417679973792336
+    second: old_man_smaller_44
+  - first:
+      213: 7282660530238690190
+    second: old_man_smaller_45
+  - first:
+      213: 3604130688295444224
+    second: old_man_smaller_46
+  - first:
+      213: 6114815673793658424
+    second: old_man_smaller_47
+  - first:
+      213: -2893883173870473829
+    second: old_man_smaller_48
+  - first:
+      213: 253696484817977394
+    second: old_man_smaller_49
+  - first:
+      213: 3645309309039804548
+    second: old_man_smaller_50
+  - first:
+      213: 920305610148836160
+    second: old_man_smaller_51
+  - first:
+      213: -1181018974748054811
+    second: old_man_smaller_52
+  - first:
+      213: 6207947496501677554
+    second: old_man_smaller_53
+  - first:
+      213: -8085452892864887576
+    second: old_man_smaller_54
+  - first:
+      213: -7710894211667635910
+    second: old_man_smaller_55
+  - first:
+      213: 5941467529673535805
+    second: old_man_smaller_56
+  - first:
+      213: 1755410360562376076
+    second: old_man_smaller_57
+  - first:
+      213: 5636985117248236410
+    second: old_man_smaller_58
+  - first:
+      213: -4016928607823127068
+    second: old_man_smaller_59
+  - first:
+      213: 7674566620057195093
+    second: old_man_smaller_60
+  - first:
+      213: 4104070592501684544
+    second: old_man_smaller_61
+  - first:
+      213: -7192006231228180535
+    second: old_man_smaller_62
+  - first:
+      213: -7852459042236448925
+    second: old_man_smaller_63
+  - first:
+      213: -894774157069772014
+    second: old_man_smaller_64
+  - first:
+      213: 2086166410320521847
+    second: old_man_smaller_65
+  - first:
+      213: 7007019699864549978
+    second: old_man_smaller_66
+  - first:
+      213: 829166304307058646
+    second: old_man_smaller_67
+  - first:
+      213: 494869304606142673
+    second: old_man_smaller_68
+  - first:
+      213: -5123562211194969290
+    second: old_man_smaller_69
+  - first:
+      213: 3878512790039758036
+    second: old_man_smaller_70
+  - first:
+      213: 5774547695573749996
+    second: old_man_smaller_71
+  - first:
+      213: -840616713242487188
+    second: old_man_smaller_72
+  - first:
+      213: 6702878665341945590
+    second: old_man_smaller_73
+  - first:
+      213: 5416971466268689632
+    second: old_man_smaller_74
+  - first:
+      213: 7391227521761763291
+    second: old_man_smaller_75
+  - first:
+      213: 4939437337550145497
+    second: old_man_smaller_76
+  - first:
+      213: 560833086165702487
+    second: old_man_smaller_77
+  - first:
+      213: -3954439411224102946
+    second: old_man_smaller_78
+  - first:
+      213: -7478574577580698694
+    second: old_man_smaller_79
+  - first:
+      213: -8395046221783389101
+    second: old_man_smaller_80
+  - first:
+      213: 2432103178172171415
+    second: old_man_smaller_81
+  - first:
+      213: 5593926764972061277
+    second: old_man_smaller_82
+  - first:
+      213: 6243778782752705580
+    second: old_man_smaller_83
+  - first:
+      213: -6251919155178894150
+    second: old_man_smaller_84
+  - first:
+      213: -7547112885178008133
+    second: old_man_smaller_85
+  - first:
+      213: -2254803868462380273
+    second: old_man_smaller_86
+  - first:
+      213: 5048274496859787487
+    second: old_man_smaller_87
+  - first:
+      213: 3845941934296157255
+    second: old_man_smaller_88
+  - first:
+      213: -8650768166564700801
+    second: old_man_smaller_89
+  - first:
+      213: 2490721009989786402
+    second: old_man_smaller_90
+  - first:
+      213: 4258300470063142942
+    second: old_man_smaller_91
+  - first:
+      213: 4154236268852452614
+    second: old_man_smaller_92
+  - first:
+      213: 1762667504524557551
+    second: old_man_smaller_93
+  - first:
+      213: 2701655047945846015
+    second: old_man_smaller_94
+  - first:
+      213: 4701659032672942393
+    second: old_man_smaller_95
+  - first:
+      213: -3490651468008789032
+    second: old_man_smaller_96
+  - first:
+      213: 532811154986883905
+    second: old_man_smaller_97
+  - first:
+      213: 2620573394253840178
+    second: old_man_smaller_98
+  - first:
+      213: -7327638495305150732
+    second: old_man_smaller_99
+  - first:
+      213: 2148259687110103343
+    second: old_man_smaller_100
+  - first:
+      213: -2003583421374033825
+    second: old_man_smaller_101
+  - first:
+      213: -3605609367923147283
+    second: old_man_smaller_102
+  - first:
+      213: -1719863451871858128
+    second: old_man_smaller_103
+  - first:
+      213: 8458386827261489447
+    second: old_man_smaller_104
+  - first:
+      213: 1749330898869367567
+    second: old_man_smaller_105
+  - first:
+      213: -2384144477208636627
+    second: old_man_smaller_106
+  - first:
+      213: -2266783680949857508
+    second: old_man_smaller_107
+  - first:
+      213: -4823341735390085364
+    second: old_man_smaller_108
+  - first:
+      213: -5433131055784220574
+    second: old_man_smaller_109
+  - first:
+      213: 4394306573998129871
+    second: old_man_smaller_110
+  - first:
+      213: 5175221525228363218
+    second: old_man_smaller_111
+  - first:
+      213: 2218844422671580085
+    second: old_man_smaller_112
+  - first:
+      213: 5501145964449356920
+    second: old_man_smaller_113
+  - first:
+      213: 712801282865619663
+    second: old_man_smaller_114
+  - first:
+      213: -2363644405249475009
+    second: old_man_smaller_115
+  - first:
+      213: 8772681332173735586
+    second: old_man_smaller_116
+  - first:
+      213: -4083897692941693417
+    second: old_man_smaller_117
+  - first:
+      213: 3985814360500493562
+    second: old_man_smaller_118
+  - first:
+      213: -4444475336597577647
+    second: old_man_smaller_119
+  - first:
+      213: -609903032605164347
+    second: old_man_smaller_120
+  - first:
+      213: 6618327970160066221
+    second: old_man_smaller_121
+  - first:
+      213: 8625591044392916309
+    second: old_man_smaller_122
+  - first:
+      213: 8468176830390210492
+    second: old_man_smaller_123
+  - first:
+      213: -794345929081840524
+    second: old_man_smaller_124
+  - first:
+      213: 5111393283348416761
+    second: old_man_smaller_125
+  - first:
+      213: -3414664699214164418
+    second: old_man_smaller_126
+  - first:
+      213: 1831693751146568910
+    second: old_man_smaller_127
+  - first:
+      213: -7730586224331962104
+    second: old_man_smaller_128
+  - first:
+      213: -1727583491279420361
+    second: old_man_smaller_129
+  - first:
+      213: 6657393081714778274
+    second: old_man_smaller_130
+  - first:
+      213: -4727676014449217526
+    second: old_man_smaller_131
+  - first:
+      213: 8013484616046360104
+    second: old_man_smaller_132
+  - first:
+      213: -1371747519513050601
+    second: old_man_smaller_133
+  - first:
+      213: -6405626660644105676
+    second: old_man_smaller_134
+  - first:
+      213: -7280040094928357776
+    second: old_man_smaller_135
+  - first:
+      213: -5005186490546972182
+    second: old_man_smaller_136
+  - first:
+      213: 2355347761268573653
+    second: old_man_smaller_137
+  - first:
+      213: -8137390656759995794
+    second: old_man_smaller_138
+  - first:
+      213: -195719243847512426
+    second: old_man_smaller_139
+  - first:
+      213: -4526063530546824889
+    second: old_man_smaller_140
+  - first:
+      213: 362381774989691615
+    second: old_man_smaller_141
+  - first:
+      213: 1580184030994717898
+    second: old_man_smaller_142
+  - first:
+      213: -4089184129518995152
+    second: old_man_smaller_143
+  - first:
+      213: 2543026332924865609
+    second: old_man_smaller_144
+  - first:
+      213: -8859825890809849448
+    second: old_man_smaller_145
+  - first:
+      213: 2476302933821614558
+    second: old_man_smaller_146
+  - first:
+      213: 6356480443363665740
+    second: old_man_smaller_147
+  - first:
+      213: 1715621942270484383
+    second: old_man_smaller_148
+  - first:
+      213: -2542022426623931828
+    second: old_man_smaller_149
+  - first:
+      213: -132765989662249569
+    second: old_man_smaller_150
+  - first:
+      213: 4424844298680630775
+    second: old_man_smaller_151
+  - first:
+      213: 6422098211256169140
+    second: old_man_smaller_152
+  - first:
+      213: -3487953844673154592
+    second: old_man_smaller_153
+  - first:
+      213: -328740993586002037
+    second: old_man_smaller_154
+  - first:
+      213: -3489606734264347498
+    second: old_man_smaller_155
+  - first:
+      213: 7087168022678685986
+    second: old_man_smaller_156
+  - first:
+      213: 3599446785415785233
+    second: old_man_smaller_157
+  - first:
+      213: 8454338123826790597
+    second: old_man_smaller_158
+  - first:
+      213: 1483278659670240520
+    second: old_man_smaller_159
+  - first:
+      213: 9153606981891586831
+    second: old_man_smaller_160
+  - first:
+      213: -4466205942503332161
+    second: old_man_smaller_161
+  - first:
+      213: 3575545128069487007
+    second: old_man_smaller_162
+  - first:
+      213: -1238170349688486179
+    second: old_man_smaller_163
+  - first:
+      213: 7291013747304917678
+    second: old_man_smaller_164
+  - first:
+      213: -7000484410587460108
+    second: old_man_smaller_165
+  - first:
+      213: 6915077559333960295
+    second: old_man_smaller_166
+  - first:
+      213: 2995666192838362403
+    second: old_man_smaller_167
+  - first:
+      213: 2425419320365716744
+    second: old_man_smaller_168
+  - first:
+      213: 685230832655917744
+    second: old_man_smaller_169
+  - first:
+      213: -7134883461965437776
+    second: old_man_smaller_170
+  - first:
+      213: 6645671112927328266
+    second: old_man_smaller_171
+  - first:
+      213: -3662977775817296862
+    second: old_man_smaller_172
+  - first:
+      213: 368879046411983917
+    second: old_man_smaller_173
+  - first:
+      213: -3473772483248355669
+    second: old_man_smaller_174
+  - first:
+      213: 7523369963128583800
+    second: old_man_smaller_175
+  - first:
+      213: 2284391602223627001
+    second: old_man_smaller_176
+  - first:
+      213: -1513190168148002550
+    second: old_man_smaller_177
+  - first:
+      213: -5401412129237947083
+    second: old_man_smaller_178
+  - first:
+      213: -8219183352513588266
+    second: old_man_smaller_179
+  - first:
+      213: 4894765748840778415
+    second: old_man_smaller_180
+  - first:
+      213: 2144771858877493943
+    second: old_man_smaller_181
+  - first:
+      213: -4227212452234649593
+    second: old_man_smaller_182
+  - first:
+      213: -111914478656458541
+    second: old_man_smaller_183
+  - first:
+      213: -7911470829361558081
+    second: old_man_smaller_184
+  - first:
+      213: 7999691479609004347
+    second: old_man_smaller_185
+  - first:
+      213: -7128968815650128920
+    second: old_man_smaller_186
+  - first:
+      213: 5257592092258527068
+    second: old_man_smaller_187
+  - first:
+      213: -5773362446651354837
+    second: old_man_smaller_188
+  - first:
+      213: -4647613491571711243
+    second: old_man_smaller_189
+  - first:
+      213: -5072800359699719687
+    second: old_man_smaller_190
+  - first:
+      213: 1862713840426303642
+    second: old_man_smaller_191
+  - first:
+      213: 580656969143056198
+    second: old_man_smaller_192
+  - first:
+      213: 121807094315219006
+    second: old_man_smaller_193
+  - first:
+      213: -30241310076920068
+    second: old_man_smaller_194
+  - first:
+      213: 6589393845288776512
+    second: old_man_smaller_195
+  - first:
+      213: 6526782894876239386
+    second: old_man_smaller_196
+  - first:
+      213: -4513876140318164284
+    second: old_man_smaller_197
+  - first:
+      213: -5463778642267029565
+    second: old_man_smaller_198
+  - first:
+      213: 4478250721310091574
+    second: old_man_smaller_199
+  - first:
+      213: -8863015030250586235
+    second: old_man_smaller_200
+  - first:
+      213: 6353980230817843994
+    second: old_man_smaller_201
+  - first:
+      213: -5837076685115697756
+    second: old_man_smaller_202
+  - first:
+      213: 627917315137619834
+    second: old_man_smaller_203
+  - first:
+      213: 6954899176086430747
+    second: old_man_smaller_204
+  - first:
+      213: -1434546589545816487
+    second: old_man_smaller_205
+  - first:
+      213: -2002735183875580939
+    second: old_man_smaller_206
+  - first:
+      213: 4969064868492063049
+    second: old_man_smaller_207
+  - first:
+      213: 7704757288960539683
+    second: old_man_smaller_208
+  - first:
+      213: 7094189709157575290
+    second: old_man_smaller_209
+  - first:
+      213: 4004151681205105758
+    second: old_man_smaller_210
+  - first:
+      213: -6264428212553988235
+    second: old_man_smaller_211
+  - first:
+      213: -7650243185368975526
+    second: old_man_smaller_212
+  - first:
+      213: 4850831777546817018
+    second: old_man_smaller_213
+  - first:
+      213: -4231884593644522844
+    second: old_man_smaller_214
+  - first:
+      213: -1101102476472023221
+    second: old_man_smaller_215
+  - first:
+      213: 7776892635404622732
+    second: old_man_smaller_216
+  - first:
+      213: -5414838784906796027
+    second: old_man_smaller_217
+  - first:
+      213: -8969641513315090535
+    second: old_man_smaller_218
+  - first:
+      213: 6854773192478736667
+    second: old_man_smaller_219
+  - first:
+      213: -1859204671605946865
+    second: old_man_smaller_220
+  - first:
+      213: 5687260681988031116
+    second: old_man_smaller_221
+  - first:
+      213: 3665284614695718932
+    second: old_man_smaller_222
+  - first:
+      213: 5816816935745136268
+    second: old_man_smaller_223
+  - first:
+      213: -6068783145393777675
+    second: old_man_smaller_224
+  - first:
+      213: 6303899550181021674
+    second: old_man_smaller_225
+  - first:
+      213: -1790887145897351300
+    second: old_man_smaller_226
+  - first:
+      213: -6891601255164849061
+    second: old_man_smaller_227
+  - first:
+      213: 6176111714173255430
+    second: old_man_smaller_228
+  - first:
+      213: 4395418884322917752
+    second: old_man_smaller_229
+  - first:
+      213: 5039303901544578281
+    second: old_man_smaller_230
+  - first:
+      213: -991207749152670008
+    second: old_man_smaller_231
+  - first:
+      213: -1585074252840550609
+    second: old_man_smaller_232
+  - first:
+      213: -5297845449870628884
+    second: old_man_smaller_233
+  - first:
+      213: -3825482814019853248
+    second: old_man_smaller_234
+  - first:
+      213: 8249401801749936513
+    second: old_man_smaller_235
+  - first:
+      213: -8178455415555245181
+    second: old_man_smaller_236
+  - first:
+      213: 8159529506203555885
+    second: old_man_smaller_237
+  - first:
+      213: 8291138300984844926
+    second: old_man_smaller_238
+  - first:
+      213: 3431610199480620399
+    second: old_man_smaller_239
+  - first:
+      213: 2571489352810211878
+    second: old_man_smaller_240
+  - first:
+      213: 8611741587855018402
+    second: old_man_smaller_241
+  - first:
+      213: -6976235946239306971
+    second: old_man_smaller_242
+  - first:
+      213: 6673429687429506388
+    second: old_man_smaller_243
+  - first:
+      213: -7575887598449192409
+    second: old_man_smaller_244
+  - first:
+      213: -662633776929874566
+    second: old_man_smaller_245
+  - first:
+      213: -4697555505869479090
+    second: old_man_smaller_246
+  - first:
+      213: 245749622457227882
+    second: old_man_smaller_247
+  - first:
+      213: -2445599289197210606
+    second: old_man_smaller_248
+  - first:
+      213: 4382405293561937401
+    second: old_man_smaller_249
+  - first:
+      213: -3225320832864490805
+    second: old_man_smaller_250
+  - first:
+      213: 6416626094733525763
+    second: old_man_smaller_251
+  - first:
+      213: 1338901123244977352
+    second: old_man_smaller_252
+  - first:
+      213: 8114814834418474472
+    second: old_man_smaller_253
+  - first:
+      213: 5221619432410998732
+    second: old_man_smaller_254
+  - first:
+      213: 3497240773894638674
+    second: old_man_smaller_255
+  - first:
+      213: 5556866623047551204
+    second: old_man_smaller_256
+  - first:
+      213: -7728497192720319035
+    second: old_man_smaller_257
+  - first:
+      213: -4772284227564976002
+    second: old_man_smaller_258
+  - first:
+      213: -5158138064385432607
+    second: old_man_smaller_259
+  - first:
+      213: 8804448739298428640
+    second: old_man_smaller_260
+  - first:
+      213: 3585304169036448797
+    second: old_man_smaller_261
+  - first:
+      213: -8211237714415105964
+    second: old_man_smaller_262
+  - first:
+      213: 1389477454538869628
+    second: old_man_smaller_263
+  - first:
+      213: 3999441545405374810
+    second: old_man_smaller_264
+  - first:
+      213: 4009007547283178165
+    second: old_man_smaller_265
+  - first:
+      213: -8134010071187924458
+    second: old_man_smaller_266
+  - first:
+      213: -4124595455765157528
+    second: old_man_smaller_267
+  - first:
+      213: 2557910645049071292
+    second: old_man_smaller_268
+  - first:
+      213: -7068281037939797680
+    second: old_man_smaller_269
+  - first:
+      213: 8977128558599488550
+    second: old_man_smaller_270
+  - first:
+      213: 8241094060844436992
+    second: old_man_smaller_271
+  - first:
+      213: 4161050084000545705
+    second: old_man_smaller_272
+  - first:
+      213: -625617755162841681
+    second: old_man_smaller_273
+  - first:
+      213: -1267892528250887290
+    second: old_man_smaller_274
+  - first:
+      213: -449711079593724791
+    second: old_man_smaller_275
+  - first:
+      213: 4829769916501335825
+    second: old_man_smaller_276
+  - first:
+      213: -1432529718749018993
+    second: old_man_smaller_277
+  - first:
+      213: 1935536482408155169
+    second: old_man_smaller_278
+  - first:
+      213: 8969843892668632749
+    second: old_man_smaller_279
+  - first:
+      213: 1423794541290658343
+    second: old_man_smaller_280
+  - first:
+      213: -5580870339600756761
+    second: old_man_smaller_281
+  - first:
+      213: 3247848596073088543
+    second: old_man_smaller_282
+  - first:
+      213: -1473963208107585577
+    second: old_man_smaller_283
+  - first:
+      213: -770826186126262943
+    second: old_man_smaller_284
+  - first:
+      213: -4728349155399740909
+    second: old_man_smaller_285
+  - first:
+      213: -924632343341854149
+    second: old_man_smaller_286
+  - first:
+      213: 8647796323984868452
+    second: old_man_smaller_287
+  - first:
+      213: -670701104998176845
+    second: old_man_smaller_288
+  - first:
+      213: 6738938810602715260
+    second: old_man_smaller_289
+  - first:
+      213: 8687280925066499984
+    second: old_man_smaller_290
+  - first:
+      213: -8208615466686991196
+    second: old_man_smaller_291
+  - first:
+      213: 1752323489973308363
+    second: old_man_smaller_292
+  - first:
+      213: -5032656919321862290
+    second: old_man_smaller_293
+  - first:
+      213: 1862116597849500618
+    second: old_man_smaller_294
+  - first:
+      213: 5554088373838570231
+    second: old_man_smaller_295
+  - first:
+      213: -7913660077898008316
+    second: old_man_smaller_296
+  - first:
+      213: -2388748789741634878
+    second: old_man_smaller_297
+  - first:
+      213: 721456078539695259
+    second: old_man_smaller_298
+  - first:
+      213: -5088797799368864322
+    second: old_man_smaller_299
+  - first:
+      213: -4108899401712011779
+    second: old_man_smaller_300
+  - first:
+      213: 4132362351457906391
+    second: old_man_smaller_301
+  - first:
+      213: -5262275176609614736
+    second: old_man_smaller_302
+  - first:
+      213: -1964316185525153338
+    second: old_man_smaller_303
+  - first:
+      213: 7044234864320250024
+    second: old_man_smaller_304
+  - first:
+      213: -9168091168303990802
+    second: old_man_smaller_305
+  - first:
+      213: 6436086489716122720
+    second: old_man_smaller_306
+  - first:
+      213: -1673390741927926473
+    second: old_man_smaller_307
+  - first:
+      213: 7499307641290861771
+    second: old_man_smaller_308
+  - first:
+      213: 928697147663288161
+    second: old_man_smaller_309
+  - first:
+      213: 8915347972819916402
+    second: old_man_smaller_310
+  - first:
+      213: 1896691752880573906
+    second: old_man_smaller_311
+  - first:
+      213: 7875845755093489545
+    second: old_man_smaller_312
+  - first:
+      213: -8956125269107493544
+    second: old_man_smaller_313
+  - first:
+      213: -8679839992508033590
+    second: old_man_smaller_314
+  - first:
+      213: 430220107361186547
+    second: old_man_smaller_315
+  - first:
+      213: -6418629288342580627
+    second: old_man_smaller_316
+  - first:
+      213: -4487365431938633298
+    second: old_man_smaller_317
+  - first:
+      213: 4154352578766282771
+    second: old_man_smaller_318
+  - first:
+      213: 836182629108645327
+    second: old_man_smaller_319
+  - first:
+      213: -5939236402426345998
+    second: old_man_smaller_320
+  - first:
+      213: -4066058765143852069
+    second: old_man_smaller_321
+  - first:
+      213: -5756077985200706377
+    second: old_man_smaller_322
+  - first:
+      213: 8516003321854608163
+    second: old_man_smaller_323
+  - first:
+      213: -4735364157699744477
+    second: old_man_smaller_324
+  - first:
+      213: -3749768599087806747
+    second: old_man_smaller_325
+  - first:
+      213: -1593244934675654270
+    second: old_man_smaller_326
+  - first:
+      213: -4176779271184106735
+    second: old_man_smaller_327
+  - first:
+      213: 668705314938193839
+    second: old_man_smaller_328
+  - first:
+      213: 7837444290427807801
+    second: old_man_smaller_329
+  - first:
+      213: -6826004881970668689
+    second: old_man_smaller_330
+  - first:
+      213: -3531810141062687728
+    second: old_man_smaller_331
+  - first:
+      213: 8686631127748437007
+    second: old_man_smaller_332
+  - first:
+      213: 8125654652178573101
+    second: old_man_smaller_333
+  - first:
+      213: -4620262694716171111
+    second: old_man_smaller_334
+  - first:
+      213: -7936467065218486129
+    second: old_man_smaller_335
+  - first:
+      213: 8274086390650154536
+    second: old_man_smaller_336
+  - first:
+      213: 486251206862573984
+    second: old_man_smaller_337
+  - first:
+      213: 2309964013419670414
+    second: old_man_smaller_338
+  - first:
+      213: 1430328010727587035
+    second: old_man_smaller_339
+  - first:
+      213: -4747248744134362561
+    second: old_man_smaller_340
+  - first:
+      213: 5014902817098729055
+    second: old_man_smaller_341
+  - first:
+      213: -3614806286915709403
+    second: old_man_smaller_342
+  - first:
+      213: 560082163181964407
+    second: old_man_smaller_343
+  - first:
+      213: 3558990960381740801
+    second: old_man_smaller_344
+  - first:
+      213: -1148567639291375852
+    second: old_man_smaller_345
+  - first:
+      213: 7605024764113084474
+    second: old_man_smaller_346
+  - first:
+      213: -2195815699977582153
+    second: old_man_smaller_347
+  - first:
+      213: 4243672292702282134
+    second: old_man_smaller_348
+  - first:
+      213: 5576275871291563310
+    second: old_man_smaller_349
+  - first:
+      213: -6589661945123627854
+    second: old_man_smaller_350
+  - first:
+      213: 4819144966290680504
+    second: old_man_smaller_351
+  - first:
+      213: 6079399458022677554
+    second: old_man_smaller_352
+  - first:
+      213: 2876310919328470970
+    second: old_man_smaller_353
+  - first:
+      213: -8299077468818874119
+    second: old_man_smaller_354
+  - first:
+      213: 4095068828164347050
+    second: old_man_smaller_355
+  - first:
+      213: 1964327292552202124
+    second: old_man_smaller_356
+  - first:
+      213: -8730175463269913207
+    second: old_man_smaller_357
+  - first:
+      213: 8377425779285036701
+    second: old_man_smaller_358
+  - first:
+      213: 6601784566653004424
+    second: old_man_smaller_359
+  - first:
+      213: -1131230672894642040
+    second: old_man_smaller_360
+  - first:
+      213: 2953196324795013937
+    second: old_man_smaller_361
+  - first:
+      213: -8179265822365545640
+    second: old_man_smaller_362
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old_man_smaller_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d768c02f6096bbf60800000000000000
+      internalID: 8051144237406520957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82abce9e77893a0800000000000000
+      internalID: -6658440202484569878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401bb582a6d976bf0800000000000000
+      internalID: -331122968319250172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bfc08e6399749d0800000000000000
+      internalID: -2790092983032284346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4286fce08de5370800000000000000
+      internalID: 8313319520293364927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28df1aa421a261a0800000000000000
+      internalID: -6817709707040401361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244774544ce191e0800000000000000
+      internalID: -2192711765333687249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43240f8857f4ada0800000000000000
+      internalID: -5934346449238875313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059b703dca61de60800000000000000
+      internalID: 7985281043818845442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ee603b22599d90800000000000000
+      internalID: -7090545792868489868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a512b3272f75b0800000000000000
+      internalID: -5368529196537239549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e5226b7da89700800000000000000
+      internalID: 547378100164747680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a1bf9259a686d0800000000000000
+      internalID: -2988515130382113402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440b912fedccf050800000000000000
+      internalID: 5835765644110005324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96448943dbb632f60800000000000000
+      internalID: 8008363022770259049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c48f9df613d600800000000000000
+      internalID: 491762062872331337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4cdf84134368f70800000000000000
+      internalID: 9189089475978708133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5faa5d20dca80b0800000000000000
+      internalID: -5725538564189784613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38be28fa46d6b850800000000000000
+      internalID: 6392532338578733119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac3efe4331af0540800000000000000
+      internalID: 4976373355008375981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa98e8b66b2c59c00800000000000000
+      internalID: 906844988729362858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef9d0f24847ae40800000000000000
+      internalID: 5667578108414918176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561a8a86d50c5330800000000000000
+      internalID: 3700839412797150813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5c2c5f2c45e8290800000000000000
+      internalID: -7886272701155588683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425008de9940dcdd0800000000000000
+      internalID: -2464308361940695772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291c5cb3a77ba99a0800000000000000
+      internalID: -6225461799269580398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0ca2344a923eb0800000000000000
+      internalID: -4741557839969121539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76cbae8fe2f1e600800000000000000
+      internalID: 495944544692192894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2902aca94ae5d27f0800000000000000
+      internalID: -635747911324786542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5173344db235d97e0800000000000000
+      internalID: -1757156831894751467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab857f4def9650c40800000000000000
+      internalID: 5477901064981665978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb99eaaaaf1f9b1c0800000000000000
+      internalID: -4487289494790301252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3864e8ddb404a210800000000000000
+      internalID: 1343203802297428030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d5fd4447d218260800000000000000
+      internalID: 7098004465107557684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c4ca1fcaf52190800000000000000
+      internalID: -7987702596657430440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0497c996d50e07df0800000000000000
+      internalID: -184400892913747648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcca818b484cd680800000000000000
+      internalID: -8729022488617759536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a4c9630f0b7b680800000000000000
+      internalID: -8739322006134306228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee7552621a7a23b0800000000000000
+      internalID: -5536478572520833301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7bb28cdcea30b0800000000000000
+      internalID: -5748021542554731021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad475f036a74d60f0800000000000000
+      internalID: -1122161953033849638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4ccac113ed48f0800000000000000
+      internalID: -554537513540366444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace4af84030f9090800000000000000
+      internalID: -8025692692826231634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cdfceea959e72f0800000000000000
+      internalID: -973175976801346533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3e937f6993c920800000000000000
+      internalID: 3009417679973792336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8392a4ca25311560800000000000000
+      internalID: 7282660530238690190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f1fe7f3c1740230800000000000000
+      internalID: 3604130688295444224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e367725703cd450800000000000000
+      internalID: 6114815673793658424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d68f7f59cd6d7d0800000000000000
+      internalID: -2893883173870473829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230475adb9f458300800000000000000
+      internalID: 253696484817977394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4800ebdb08db69230800000000000000
+      internalID: 3645309309039804548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04378b1931595cc00800000000000000
+      internalID: 920305610148836160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea6521ff7d2c9fe0800000000000000
+      internalID: -1181018974748054811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd02416b5f072650800000000000000
+      internalID: 6207947496501677554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e442a8be63bacf80800000000000000
+      internalID: -8085452892864887576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a315fec81966df490800000000000000
+      internalID: -7710894211667635910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3175be2d35547250800000000000000
+      internalID: 5941467529673535805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5c502c687c5810800000000000000
+      internalID: 1755410360562376076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7baebd19189a3e40800000000000000
+      internalID: 5636985117248236410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed199ab6b00148c0800000000000000
+      internalID: -4016928607823127068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525499eda9818a60800000000000000
+      internalID: 7674566620057195093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0499037a57694f830800000000000000
+      internalID: 4104070592501684544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79f35007cd03c90800000000000000
+      internalID: -7192006231228180535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f313eea16760390800000000000000
+      internalID: -7852459042236448925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b18a515af1593f0800000000000000
+      internalID: -894774157069772014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa1851c4d83fc10800000000000000
+      internalID: 2086166410320521847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a3790da4fed3160800000000000000
+      internalID: 7007019699864549978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_67
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d712f35c5ac18b00800000000000000
+      internalID: 829166304307058646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d03b47b2012ed600800000000000000
+      internalID: 494869304606142673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633eb11905375e8b0800000000000000
+      internalID: -5123562211194969290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4012355de33d530800000000000000
+      internalID: 3878512790039758036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05935c880532050800000000000000
+      internalID: 5774547695573749996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66dce69d878554f0800000000000000
+      internalID: -840616713242487188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6404cf1a8650d50800000000000000
+      internalID: 6702878665341945590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44f5529d2fc2b40800000000000000
+      internalID: 5416971466268689632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf53b8454ae29660800000000000000
+      internalID: 7391227521761763291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d74af696186c8440800000000000000
+      internalID: 4939437337550145497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757513f68ba78c700800000000000000
+      internalID: 560833086165702487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_78
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7be289e420f19c0800000000000000
+      internalID: -3954439411224102946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3190d7b04c63890800000000000000
+      internalID: -7478574577580698694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cad9da0fdce7b80800000000000000
+      internalID: -8395046221783389101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_81
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7940d0864f090c120800000000000000
+      internalID: 2432103178172171415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b5bd31ce91ad40800000000000000
+      internalID: 5593926764972061277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_83
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8812d8bb56a650800000000000000
+      internalID: 6243778782752705580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_84
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc0a1707a8bc39a0800000000000000
+      internalID: -6251919155178894150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf03731d4434790800000000000000
+      internalID: -7547112885178008133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b8f1ef3d355b0e0800000000000000
+      internalID: -2254803868462380273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0ddf178e21f0640800000000000000
+      internalID: 5048274496859787487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c408400d78f5530800000000000000
+      internalID: 3845941934296157255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d57adaf2c42f780800000000000000
+      internalID: -8650768166564700801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b1b0bef81d09220800000000000000
+      internalID: 2490721009989786402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181ef057b5881b30800000000000000
+      internalID: 4258300470063142942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_92
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d9efd50efc6a930800000000000000
+      internalID: 4154236268852452614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7f40a1c0467810800000000000000
+      internalID: 1762667504524557551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf37eb3f43e7520800000000000000
+      internalID: 2701655047945846015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9393a71daf5af3140800000000000000
+      internalID: 4701659032672942393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_96
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe3aeebf6be8fc0800000000000000
+      internalID: -3490651468008789032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdb592cece46700800000000000000
+      internalID: 532811154986883905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff6502e952e5420800000000000000
+      internalID: 2620573394253840178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fecbdcac9ffe4a90800000000000000
+      internalID: -7327638495305150732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_100
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f215d7fadc620dd10800000000000000
+      internalID: 2148259687110103343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_101
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5093236e77d134e0800000000000000
+      internalID: -2003583421374033825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedbe1a126d46fdc0800000000000000
+      internalID: -3605609367923147283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03230018d41d128e0800000000000000
+      internalID: -1719863451871858128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721b3c3410a326570800000000000000
+      internalID: 8458386827261489447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0339b52f2fd64810800000000000000
+      internalID: 1749330898869367567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_106
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2315ceca31d9eed0800000000000000
+      internalID: -2384144477208636627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_107
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d45a8044ca80e0800000000000000
+      internalID: -2266783680949857508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_108
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff1cf2f3c001db0800000000000000
+      internalID: -4823341735390085364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_109
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268a6d93714a994b0800000000000000
+      internalID: -5433131055784220574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc282590c86bbfc30800000000000000
+      internalID: 4394306573998129871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd1135ce8412d740800000000000000
+      internalID: 5175221525228363218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb32391f3beace10800000000000000
+      internalID: 2218844422671580085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_113
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd39cbb1ff75c40800000000000000
+      internalID: 5501145964449356920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_114
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2e5ac7df064e900800000000000000
+      internalID: 712801282865619663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_115
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef3c1cfe5a23fd0800000000000000
+      internalID: -2363644405249475009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_116
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68ae32133deb970800000000000000
+      internalID: 8772681332173735586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e4c298fa41357c0800000000000000
+      internalID: -4083897692941693417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_118
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc584a0b05705730800000000000000
+      internalID: 3985814360500493562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ed1daa3d0252c0800000000000000
+      internalID: -4444475336597577647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb22a5c603987f0800000000000000
+      internalID: -609903032605164347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_121
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae3c64393609db50800000000000000
+      internalID: 6618327970160066221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_122
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55594d2ca5144b770800000000000000
+      internalID: 8625591044392916309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_123
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0a9ef5f1058570800000000000000
+      internalID: 8468176830390210492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_124
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9c4c069ae9f4f0800000000000000
+      internalID: -794345929081840524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_125
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8cc412c115fe640800000000000000
+      internalID: 5111393283348416761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e06483c8cac90d0800000000000000
+      internalID: -3414664699214164418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_127
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccd46e03cb7b6910800000000000000
+      internalID: 1831693751146568910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094a2199c077b490800000000000000
+      internalID: -7730586224331962104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_129
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340672c7f36608e0800000000000000
+      internalID: -1727583491279420361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a0c54cbfc36c50800000000000000
+      internalID: 6657393081714778274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_131
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00be9196bbe36eb0800000000000000
+      internalID: -4727676014449217526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_132
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82630801dcd953f60800000000000000
+      internalID: 8013484616046360104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c6e916e296fce0800000000000000
+      internalID: -1371747519513050601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43259889d74aa17a0800000000000000
+      internalID: -6405626660644105676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b13fda1a18fa90800000000000000
+      internalID: -7280040094928357776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_136
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91d5cc7610a8ab0800000000000000
+      internalID: -5005186490546972182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_137
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5cce84f40efa020800000000000000
+      internalID: 2355347761268573653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_138
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ec39bf4e221f80800000000000000
+      internalID: -8137390656759995794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_139
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec2ca726aa84df0800000000000000
+      internalID: -195719243847512426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_140
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749f7e6f2313031c0800000000000000
+      internalID: -4526063530546824889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_141
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda065bed40770500800000000000000
+      internalID: 362381774989691615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_142
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5f270101fde510800000000000000
+      internalID: 1580184030994717898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_143
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fada13bc4047c0800000000000000
+      internalID: -4089184129518995152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_144
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c637ce9f4aa4320800000000000000
+      internalID: 2543026332924865609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899587e2b439b0580800000000000000
+      internalID: -8859825890809849448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_146
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e1b6f5689d5220800000000000000
+      internalID: 2476302933821614558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a8600941c63850800000000000000
+      internalID: 6356480443363665740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_148
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd5e5111d1fc710800000000000000
+      internalID: 1715621942270484383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_149
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a010a321ce8bcd0800000000000000
+      internalID: -2542022426623931828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_150
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dadeb2902582ef0800000000000000
+      internalID: -132765989662249569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_151
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd75412274386d30800000000000000
+      internalID: 4424844298680630775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_152
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b278922c40ef1950800000000000000
+      internalID: 6422098211256169140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_153
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17c4f457c489fc0800000000000000
+      internalID: -3487953844673154592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87823edec3107bf0800000000000000
+      internalID: -328740993586002037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694dc56f92d629fc0800000000000000
+      internalID: -3489606734264347498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_156
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229454764cdaa5260800000000000000
+      internalID: 7087168022678685986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_157
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b21a8d7cdc3f130800000000000000
+      internalID: 3599446785415785233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_158
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c00db90bb7d35570800000000000000
+      internalID: 8454338123826790597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_159
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80def8c051aa59410800000000000000
+      internalID: 1483278659670240520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_160
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bfe295d05280f70800000000000000
+      internalID: 9153606981891586831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_161
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a957bb59d402c0800000000000000
+      internalID: -4466205942503332161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_162
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d5f49953ee9130800000000000000
+      internalID: 3575545128069487007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_163
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6856780a221dee0800000000000000
+      internalID: -1238170349688486179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_164
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa699caf52ee2560800000000000000
+      internalID: 7291013747304917678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_165
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd464bc48849de90800000000000000
+      internalID: -7000484410587460108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_166
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a306e076a47ff50800000000000000
+      internalID: 6915077559333960295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_167
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32507c9d78eb29920800000000000000
+      internalID: 2995666192838362403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_168
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80594cd7502d8a120800000000000000
+      internalID: 2425419320365716744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e991dfcd628900800000000000000
+      internalID: 685230832655917744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_170
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4adb72b4dcbfc90800000000000000
+      internalID: -7134883461965437776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_171
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08bb1cbaaa2a3c50800000000000000
+      internalID: 6645671112927328266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_172
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2247244ce1d7a2dc0800000000000000
+      internalID: -3662977775817296862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_173
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c987ec9858e1500800000000000000
+      internalID: 368879046411983917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_174
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba68471d45eaacfc0800000000000000
+      internalID: -3473772483248355669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_175
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767f16fe11686860800000000000000
+      internalID: 7523369963128583800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_176
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fabc6a1f0ac3bf10800000000000000
+      internalID: 2284391602223627001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_177
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09bced2f81100be0800000000000000
+      internalID: -1513190168148002550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_178
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d294f49445a05b0800000000000000
+      internalID: -5401412129237947083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_179
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d39f99b9489fed80800000000000000
+      internalID: -8219183352513588266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_180
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa4766d383bde340800000000000000
+      internalID: 4894765748840778415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_181
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2b5a464a2c3cd10800000000000000
+      internalID: 2144771858877493943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_182
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7002272ebace555c0800000000000000
+      internalID: -4227212452234649593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_183
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07576ef56627ef0800000000000000
+      internalID: -111914478656458541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_184
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd0a0d823fc43290800000000000000
+      internalID: -7911470829361558081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_185
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3150da340d940f60800000000000000
+      internalID: 7999691479609004347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_186
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb365012a0d01d90800000000000000
+      internalID: -7128968815650128920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_187
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57e8f8e628b6f840800000000000000
+      internalID: 5257592092258527068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_188
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2114cf7175e0efa0800000000000000
+      internalID: -5773362446651354837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_189
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f22e8d472c508fb0800000000000000
+      internalID: -4647613491571711243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_190
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9df9f13fac999b0800000000000000
+      internalID: -5072800359699719687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_191
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9040d86e50b9d910800000000000000
+      internalID: 1862713840426303642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_192
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647702edf68ee0800800000000000000
+      internalID: 580656969143056198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_193
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f7cb28eeb0b100800000000000000
+      internalID: 121807094315219006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_194
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe925f40bf849ff0800000000000000
+      internalID: -30241310076920068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_195
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04335994aca327b50800000000000000
+      internalID: 6589393845288776512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_196
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a137667ac39a50800000000000000
+      internalID: 6526782894876239386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_197
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7930e09d7b51c0800000000000000
+      internalID: -4513876140318164284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_198
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfbe40f542cc24b0800000000000000
+      internalID: -5463778642267029565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_199
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63923d2ed41f52e30800000000000000
+      internalID: 4478250721310091574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_200
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f37fac9ce300580800000000000000
+      internalID: -8863015030250586235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_201
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b80c7ea5fdd2850800000000000000
+      internalID: 6353980230817843994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_202
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d6f85ea98efea0800000000000000
+      internalID: -5837076685115697756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_203
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a774815a87fc6b800800000000000000
+      internalID: 627917315137619834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_204
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e947b3f3c48060800000000000000
+      internalID: 6954899176086430747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_205
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9f543a77771ce0800000000000000
+      internalID: -1434546589545816487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_206
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb5be116fad434e0800000000000000
+      internalID: -2002735183875580939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_207
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b750bb2aa5f440800000000000000
+      internalID: 4969064868492063049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_208
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c3819ceebccea60800000000000000
+      internalID: 7704757288960539683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_209
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa19f24ff937260800000000000000
+      internalID: 7094189709157575290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_210
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5473093dba919730800000000000000
+      internalID: 4004151681205105758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_211
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577c8c52bb74019a0800000000000000
+      internalID: -6264428212553988235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_212
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57baba0b50e4d590800000000000000
+      internalID: -7650243185368975526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_213
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdcad50dcd915340800000000000000
+      internalID: 4850831777546817018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_214
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2be5132635545c0800000000000000
+      internalID: -4231884593644522844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_215
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47059ca12918b0f0800000000000000
+      internalID: -1101102476472023221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_216
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bd4ade5a21deb60800000000000000
+      internalID: 7776892635404622732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_217
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5046f9d60d0aad4b0800000000000000
+      internalID: -5414838784906796027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_218
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fb14c119e658380800000000000000
+      internalID: -8969641513315090535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_219
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c09186eb012f50800000000000000
+      internalID: 6854773192478736667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_220
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064e20a337c236e0800000000000000
+      internalID: -1859204671605946865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_221
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8241f635753dee40800000000000000
+      internalID: 5687260681988031116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_222
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41094a300f4bdd230800000000000000
+      internalID: 3665284614695718932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_223
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86a09a2f2c79b050800000000000000
+      internalID: 5816816935745136268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_224
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31def02e957cba0800000000000000
+      internalID: -6068783145393777675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_225
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7d84ccd33fb7750800000000000000
+      internalID: 6303899550181021674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_226
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a9fb11ad7527e0800000000000000
+      internalID: -1790887145897351300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_227
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b545344fb2d1c50a0800000000000000
+      internalID: -6891601255164849061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_228
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ffc60b1e4f5b550800000000000000
+      internalID: 6176111714173255430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_229
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7c17ff2aaffc30800000000000000
+      internalID: 4395418884322917752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_230
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecfdc6f2343fe540800000000000000
+      internalID: 5039303901544578281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_231
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cef325cdc58e32f0800000000000000
+      internalID: -991207749152670008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_232
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f32d87d5fa00ae0800000000000000
+      internalID: -1585074252840550609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_233
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7aa8de1a54a76b0800000000000000
+      internalID: -5297845449870628884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_234
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0442cff16a729eac0800000000000000
+      internalID: -3825482814019853248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_235
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189b5c24b33cb7270800000000000000
+      internalID: 8249401801749936513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_236
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb570812a408e80800000000000000
+      internalID: -8178455415555245181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_237
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d497dad87c3170800000000000000
+      internalID: 8159529506203555885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_238
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7266dd3b5a001370800000000000000
+      internalID: 8291138300984844926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_239
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6556a38b478f9f20800000000000000
+      internalID: 3431610199480620399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_240
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa3f921f3cfa320800000000000000
+      internalID: 2571489352810211878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_241
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98e81e85d038770800000000000000
+      internalID: 8611741587855018402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_242
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523581b5e5e6f2f90800000000000000
+      internalID: -6976235946239306971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_243
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45528c081f8cc9c50800000000000000
+      internalID: 6673429687429506388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_244
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72216243e5a0dd690800000000000000
+      internalID: -7575887598449192409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old_man_smaller_245
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5be5371addc6f0800000000000000
+      internalID: -662633776929874566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
