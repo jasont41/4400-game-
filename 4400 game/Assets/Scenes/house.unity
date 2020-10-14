@@ -1439,6 +1439,7 @@ MonoBehaviour:
   dialogBox: {fileID: 899696425}
   dialogText: {fileID: 256627474}
   dialog: Get out of my house!
+  s2: test
   playerInRange: 0
 --- !u!1 &828519010
 GameObject:

@@ -9,7 +9,8 @@ public class old_man_in_house : MonoBehaviour
 
     public GameObject dialogBox;
     public Text dialogText;
-    public string dialog;
+    public string dialog, s2;
+
     public bool playerInRange;
 
     // Start is called before the first frame update
@@ -30,10 +31,11 @@ public class old_man_in_house : MonoBehaviour
             else
             {
                 dialogBox.SetActive(true);
-                dialogText.text = dialog; 
+                dialogText.text = dialog;
             }
         }
     }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
@@ -45,7 +47,8 @@ public class old_man_in_house : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            playerInRange = false; 
+            playerInRange = false;
+            dialogBox.SetActive(false); 
         }
     }
 }
