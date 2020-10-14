@@ -11,7 +11,7 @@ public class encounter_trigger : MonoBehaviour
     public int random_num;
     public int encounter_seed = 1;
     int minBound = 1;
-    int maxBound = 6;
+    int maxBound = 3;
     public string encounter_scene;
     private PlayerMovement player;
     // Start is called before the first frame update

@@ -10,11 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 8950189723702899326}
   - component: {fileID: 8950189723702899321}
-  - component: {fileID: 8402428703649499039}
   - component: {fileID: 8950189723702899327}
   - component: {fileID: 8950189723702899324}
   - component: {fileID: 8950189723702899325}
   - component: {fileID: 8950189723702899314}
+  - component: {fileID: 8402428703649499039}
+  - component: {fileID: 651120405}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -30,7 +31,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8950189723702899320}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.5, y: 5.5, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -75,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1785598473
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 7152930139536384079, guid: 834bff45d0106417c9aa2d0fa73a8c1a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -87,18 +88,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8402428703649499039
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8950189723702899320}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2ff09e669f11b9043aea3e8cac23b5f8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &8950189723702899327
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -111,10 +100,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38c5f865ac93b451db3e475837d84d79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start_health: 50
   step_count: 0
   encounter_seed: 5
-  health: 0
   speed: 12
 --- !u!50 &8950189723702899324
 Rigidbody2D:
@@ -182,3 +169,31 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.52677107, y: 0.30989718}
   m_EdgeRadius: 0
+--- !u!114 &8402428703649499039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8950189723702899320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff09e669f11b9043aea3e8cac23b5f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &651120405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8950189723702899320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ec4f19e3aac94cfebcd6392cb2b4624, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitName: Player
+  damage: 10
+  maxHP: 40
+  currentHP: 40

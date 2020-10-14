@@ -366,7 +366,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newLevel: house
-  spawnLocation: {x: 2.5, y: -2.5, z: 0}
+  spawnLocation: {x: 0, y: -2, z: 0}
 --- !u!61 &378945000
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -543,7 +543,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 859436504342616684, guid: f4be1f05d74e4ab4496ea20d4ca3b232, type: 3}
       propertyPath: cameraChange.x
-      value: 26.25
+      value: 26.5
       objectReference: {fileID: 0}
     - target: {fileID: 859436504342616684, guid: f4be1f05d74e4ab4496ea20d4ca3b232, type: 3}
       propertyPath: needText
@@ -24204,11 +24204,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.63
+      value: 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.47
+      value: 2.11
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.z
