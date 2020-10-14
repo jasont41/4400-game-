@@ -111,11 +111,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38c5f865ac93b451db3e475837d84d79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  start_health: 50
+  max_health: 50
   step_count: 0
   encounter_seed: 5
-  health: 0
-  speed: 12
+  current_health: 0
+  speed: 25
+  healthbar: {fileID: 0}
 --- !u!50 &8950189723702899324
 Rigidbody2D:
   serializedVersion: 4
