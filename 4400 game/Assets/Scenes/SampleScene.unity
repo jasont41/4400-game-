@@ -7271,6 +7271,7 @@ GameObject:
   - component: {fileID: 645737835}
   - component: {fileID: 645737834}
   - component: {fileID: 645737833}
+  - component: {fileID: 645737837}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -7360,22 +7361,24 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &645737837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645737832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4be9c55e79f764f8232a6ca00aed46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slider: {fileID: 1127171368}
 --- !u!224 &710493261 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7065296859130456164, guid: 8ff8a55f0bf6d06499c561ac5fa39451, type: 3}
   m_PrefabInstance: {fileID: 7065296859840785449}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &710493262 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7065296859130456167, guid: 8ff8a55f0bf6d06499c561ac5fa39451, type: 3}
-  m_PrefabInstance: {fileID: 7065296859840785449}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4dcdbfe54e391c341b4cfc64a11a63ce, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &714956533
 GameObject:
   m_ObjectHideFlags: 0
@@ -14788,6 +14791,17 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &1127171368 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7065296859130456166, guid: 8ff8a55f0bf6d06499c561ac5fa39451, type: 3}
+  m_PrefabInstance: {fileID: 7065296859840785449}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1184036381
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32271,7 +32285,8 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5022024398065671265, guid: 8ff8a55f0bf6d06499c561ac5fa39451, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 8ff8a55f0bf6d06499c561ac5fa39451, type: 3}
 --- !u!1001 &8950189723119668842
 PrefabInstance:
@@ -32339,7 +32354,7 @@ PrefabInstance:
     - target: {fileID: 8950189723702899327, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: healthbar
       value: 
-      objectReference: {fileID: 710493262}
+      objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899327, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: speed
       value: 25

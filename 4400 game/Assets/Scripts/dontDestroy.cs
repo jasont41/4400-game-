@@ -25,6 +25,7 @@ public class dontDestroy : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    
     public Vector3 GetCurrentPosition()
     {
         return transform.position;

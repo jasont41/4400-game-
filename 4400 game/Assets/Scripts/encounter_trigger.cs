@@ -26,13 +26,13 @@ public class encounter_trigger : MonoBehaviour
         {
 
            
-            dontDestroy.Instance.setPOS(transform.position); 
-            dontDestroy.Instance.transform.position = spawnLocation;
+            PlayerMovement.Instance.setPOS(transform.position);
+            PlayerMovement.Instance.transform.position = spawnLocation;
             SceneManager.LoadScene(encounter_scene);
-            dontDestroy.Instance.getPOS();
+            PlayerMovement.Instance.getPOS();
 
             Debug.Log("it works "); 
-            Debug.Log(dontDestroy.Instance.getPOS()); 
+            Debug.Log(PlayerMovement.Instance.getPOS()); 
         }         
     }
 

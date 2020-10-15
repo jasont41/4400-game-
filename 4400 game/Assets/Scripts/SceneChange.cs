@@ -13,7 +13,7 @@ public class SceneChange : MonoBehaviour
     {
        if(collision.CompareTag("Player")){
             Debug.Log("Got here");
-            dontDestroy.Instance.transform.position = spawnLocation;  
+            PlayerMovement.Instance.transform.position = spawnLocation;  
             SceneManager.LoadScene(newLevel);  // lead new scene 
        }
     }

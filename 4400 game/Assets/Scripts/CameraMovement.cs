@@ -13,7 +13,7 @@ public class CameraMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        target = dontDestroy.Instance.transform; 
+        target = PlayerMovement.Instance.transform; 
     }
   
     // Update is called once per frame
