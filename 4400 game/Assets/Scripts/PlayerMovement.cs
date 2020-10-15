@@ -17,9 +17,8 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 change;
     private Animator animator;
 
-    public HealthBar healthbar;
 
-    
+    public HealthBar healthbar;
 
 
 
@@ -28,24 +27,35 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
         current_health = max_health;
-        healthbar.setMaxHealth(max_health); 
+        if(dontDestroyOnLoad_health_bar.healthBar != null)
+        {
+            dontDestroyOnLoad_health_bar.healthBar.setMaxHealth(max_health); 
+        }
+        
 
     }
 
     // Update is called once per frame
     void Update()
     {
-        healthbar.SetHealth(current_health); 
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
-        UpdateAnimationAndMove(); 
+        UpdateAnimationAndMove();
+        if (dontDestroyOnLoad_health_bar.healthBar != null)
+        {
+            dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+        }
     }
 
-    void takeDamage(int damage)
+    public void takeDamage(int damage)
     {
         current_health -= damage;
-        healthbar.SetHealth(current_health); 
+
+        if (dontDestroyOnLoad_health_bar.healthBar != null)
+        {
+            dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+        }
     }
 
     void UpdateAnimationAndMove()

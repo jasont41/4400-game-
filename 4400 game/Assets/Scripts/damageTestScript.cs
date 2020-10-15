@@ -10,7 +10,7 @@ public class damageTestScript : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            player.current_health -= damage; 
+            player.takeDamage(damage);
         }
     }
 }

@@ -12,7 +12,7 @@ public class SceneChange : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
        if(collision.CompareTag("Player")){
-           
+            Debug.Log("Got here");
             dontDestroy.Instance.transform.position = spawnLocation;  
             SceneManager.LoadScene(newLevel);  // lead new scene 
        }
