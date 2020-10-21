@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.UI; 
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -16,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D myRigidBody;
     private Vector3 change;
     private Animator animator;
+
 
 
     //public HealthBar healthbar;
@@ -60,6 +63,9 @@ public class PlayerMovement : MonoBehaviour
         
 
     }
+
+
+
 
     // Update is called once per frame
     void Update()
