@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
 
-
+    public bool prevent_movement;
     public int max_health = 50; 
     public int step_count = 0;
     Vector3 player_pos_enc; 
@@ -60,7 +60,7 @@ public class PlayerMovement : MonoBehaviour
         {
             dontDestroyOnLoad_health_bar.healthBar.setMaxHealth(max_health); 
         }
-        
+        prevent_movement = true; 
 
     }
 
@@ -73,7 +73,7 @@ public class PlayerMovement : MonoBehaviour
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
-        UpdateAnimationAndMove();
+        if (prevent_movement == true) { UpdateAnimationAndMove(); } // JE added. Prevents movement during combat 
         if (dontDestroyOnLoad_health_bar.healthBar != null)
         {
             dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
@@ -114,5 +114,10 @@ public class PlayerMovement : MonoBehaviour
     public Transform getPlayerPos()
     {
         return transform;
+    }
+
+    public void setMovingFalse()
+    {
+        animator.SetBool("moving", false); 
     }
 }

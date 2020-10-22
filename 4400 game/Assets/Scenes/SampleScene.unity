@@ -16032,7 +16032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af2c0e86ef399144cba202e91656f98e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnLocation: {x: -3, y: 3, z: 0}
+  spawnLocation: {x: -4.5, y: 0, z: 0}
   random_num: 0
   encounter_seed: 1
   encounter_scene: encScene
