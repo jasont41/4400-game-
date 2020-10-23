@@ -25,9 +25,7 @@ public class RoomMove : MonoBehaviour
         text = canvas_dont_destroy.Instance.roomTransferText_theObject;
         placeText = canvas_dont_destroy.Instance.roomTransferText; 
         cam = Camera.main.GetComponent<CameraMovement>();
-       /* text = GameObject.FindGameObjectWithTag("room_transfer_text");
-        placeText = GameObject.FindGameObjectWithTag("room_transfer_text").GetComponent<Text>(); 
-         */
+       
     }
 
     // Update is called once per frame

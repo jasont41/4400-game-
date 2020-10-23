@@ -11,7 +11,6 @@ public class damageTestScript : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             PlayerMovement.Instance.takeDamage(damage); 
-            //player.takeDamage(damage);
         }
     }
 }
