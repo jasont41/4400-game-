@@ -69,8 +69,8 @@ public class BattleSystem : MonoBehaviour
 
     IEnumerator PlayerHeal()
     {
-        //playerUnit.Heal(5);
-        PlayerMovement.Instance.addHealth(heal_val); // JE added 
+        playerUnit.Heal(heal_val);
+        PlayerMovement.Instance.addHealth(5); // JE added 
 
 
         dialogueText.text = "You cast heal on yourself";

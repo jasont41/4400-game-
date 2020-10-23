@@ -11,6 +11,7 @@ TagManager:
   - dialog_box
   - dialog_box_text
   - healthText
+  - room_transfer_text
   layers:
   - Default
   - TransparentFX

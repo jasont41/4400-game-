@@ -82,10 +82,19 @@ public class PlayerMovement : MonoBehaviour
 
     public void addHealth(int heal_amt)
     {
-        current_health += heal_amt;
-        if (dontDestroyOnLoad_health_bar.healthBar != null)
+        //bool heal_full;
+        if ((current_health + heal_amt) > max_health)
         {
+            current_health = max_health;
             dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+        }
+        else
+        {
+            current_health += heal_amt;
+            if (dontDestroyOnLoad_health_bar.healthBar != null)
+            {
+                dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+            }
         }
     }
 

@@ -10,7 +10,8 @@ public class canvas_dont_destroy : MonoBehaviour
     public GameObject dialogBox;
     public GameObject stats_UI;
     public Text dialogBox_text;
-    public Text stats_UI_text; 
+    public Text stats_UI_text;
+    public GameObject roomTransferText; 
     public static canvas_dont_destroy Instance { get; private set; }
     private void Awake()
     {

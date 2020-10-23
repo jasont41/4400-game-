@@ -67,13 +67,14 @@
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\dontDestroyOnLoad_health_bar.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\UI_controller_battle.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs" />
     <Compile Include="Assets\Scripts\NPC scripts\old_man_in_house.cs" />
     <Compile Include="Assets\Scripts\dontDestroy.cs" />
     <Compile Include="Assets\Scripts\encounter_trigger.cs" />
     <Compile Include="Assets\Scripts\BattleSystem.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs" />
-    <Compile Include="Assets\Scripts\damageTestScript.cs" />
+    <Compile Include="Assets\Scripts\test scripts\damageTestScript.cs" />
     <Compile Include="Assets\Scripts\Sign.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\Log.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\PolygonObject.cs" />
@@ -84,11 +85,11 @@
     <Compile Include="Assets\Scripts\SceneChange.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\ObjectLayer.cs" />
+    <Compile Include="Assets\Scripts\canvas_dont_destroy.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GameObjectExtensions.cs" />
     <Compile Include="Assets\Scripts\Unit.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
-    <Compile Include="Assets\Scripts\UI_controller_battle.cs" />
-    <Compile Include="Assets\Scripts\canvas_dont_destroy.cs" />
+    <Compile Include="Assets\Scripts\test scripts\healTestScript.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Tiled2Unity\License.txt" />

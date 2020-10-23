@@ -9,6 +9,7 @@ public class RoomMove : MonoBehaviour
     public Vector2 cameraChange;
     public Vector3 playerChange;
     private CameraMovement cam;
+
     public bool needText;
     public string placeName;
 
@@ -20,6 +21,8 @@ public class RoomMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        text = GameObject.FindGameObjectWithTag("room_transfer_text");
+        placeText = GameObject.FindGameObjectWithTag("room_transfer_text").GetComponent<Text>(); 
         cam = Camera.main.GetComponent<CameraMovement>(); 
     }
 
