@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -18,6 +19,11 @@ public class BattleSystem : MonoBehaviour
     public int heal_val; //JE added. DONT HARDCODE VALUES
     public Text dialogueText;
     public BattleState state;
+
+    private bool attackSuccess;
+    public int hitSuccessRate; //going to be the high number in random chance, a 20 here would give the attack a 95% hit rate
+    int min_num; 
+
 
     void Start()
     {
@@ -50,11 +56,20 @@ public class BattleSystem : MonoBehaviour
 
     IEnumerator PlayerAttack()
     {
-        bool isDeAD = enemyUnit.TakeDamage(playerUnit.damage);
-        dialogueText.text = "You dealt " + playerUnit.damage + " demage";
 
+        doesAttackHit();
+
+        if (attackSuccess) { 
+            bool isDeAD = enemyUnit.TakeDamage(playerUnit.damage);
+            dialogueText.text = "You dealt " + playerUnit.damage + " demage";
+        }
+
+        else if (!attackSuccess)
+        {
+            dialogueText.text = "Your attack missed!";
+        }
         yield return new WaitForSeconds(2f);
-        if(isDeAD)
+        if(enemyUnit.currentHP <= 0) //changed from isDead to playerUnit.currentHealth =< 0 because isDead is now out of scope 
         {
             state = BattleState.WON;
             EndBattle();
@@ -89,13 +104,20 @@ public class BattleSystem : MonoBehaviour
         dialogueText.text = enemyUnit.unitName + " attacks!";
 
         yield return new WaitForSeconds(1f);
+        doesAttackHit();
+        if (attackSuccess)
+        {
+            bool isDead = playerUnit.TakeDamage(enemyUnit.damage);
 
-        bool isDead = playerUnit.TakeDamage(enemyUnit.damage);
+            dialogueText.text = enemyUnit.unitName + " dealt " + enemyUnit.damage + " damage";
+            yield return new WaitForSeconds(1f);
+        }
+        else if (!attackSuccess)
+        {
+            dialogueText.text = enemyUnit.unitName + "'s Attack Missed!";
+        }
 
-        dialogueText.text = enemyUnit.unitName + " dealt " + enemyUnit.damage + " damage";
-        yield return new WaitForSeconds(1f);
-
-        if (isDead)
+        if (playerUnit.currentHP <= 0) //changed from isDead to playerUnit.currentHealth =< 0 because isDead is now out of scope 
         {
             state = BattleState.LOST;
             EndBattle();
@@ -121,7 +143,7 @@ public class BattleSystem : MonoBehaviour
 
     void PlayerTurn()
     {
-        dialogueText.text = "Choose an action:";
+        dialogueText.text = "Choose an action: ";
     }
 
     public void OnAttackButton()
@@ -144,8 +166,17 @@ public class BattleSystem : MonoBehaviour
     }
 
 
-
-
-
+    private void doesAttackHit()
+    {
+        int random_num = UnityEngine.Random.Range(min_num, hitSuccessRate); 
+        if(random_num == min_num) 
+        {
+            attackSuccess = false; 
+        }
+        else
+        {
+            attackSuccess = true;
+        }
+    }
 
 }

@@ -11,7 +11,8 @@ public class canvas_dont_destroy : MonoBehaviour
     public GameObject stats_UI;
     public Text dialogBox_text;
     public Text stats_UI_text;
-    public GameObject roomTransferText; 
+    public GameObject roomTransferText_theObject; 
+    public Text roomTransferText; 
     public static canvas_dont_destroy Instance { get; private set; }
     private void Awake()
     {
@@ -19,8 +20,10 @@ public class canvas_dont_destroy : MonoBehaviour
         dialogBox_text = GameObject.FindGameObjectWithTag("dialog_box_text").GetComponent<Text>();
         stats_UI = GameObject.FindGameObjectWithTag("stats_UI");
         stats_UI_text = GameObject.FindGameObjectWithTag("stats_UI_text").GetComponent<Text>();
-       
+        roomTransferText_theObject = GameObject.FindGameObjectWithTag("room_transfer_text");
+        roomTransferText = GameObject.FindGameObjectWithTag("room_transfer_text").GetComponent<Text>(); 
 
+        roomTransferText_theObject.SetActive(false); 
         dialogBox.SetActive(false);
         stats_UI.SetActive(false);
         if (Instance == null)

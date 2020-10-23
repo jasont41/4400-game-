@@ -21,9 +21,13 @@ public class RoomMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        text = GameObject.FindGameObjectWithTag("room_transfer_text");
+
+        text = canvas_dont_destroy.Instance.roomTransferText_theObject;
+        placeText = canvas_dont_destroy.Instance.roomTransferText; 
+        cam = Camera.main.GetComponent<CameraMovement>();
+       /* text = GameObject.FindGameObjectWithTag("room_transfer_text");
         placeText = GameObject.FindGameObjectWithTag("room_transfer_text").GetComponent<Text>(); 
-        cam = Camera.main.GetComponent<CameraMovement>(); 
+         */
     }
 
     // Update is called once per frame

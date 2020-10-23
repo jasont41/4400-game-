@@ -1001,9 +1001,10 @@ MonoBehaviour:
   enemyPrefab: {fileID: 2755810813303179368, guid: b99d41add65d0488a9c002b94a3c775a, type: 3}
   playerSpawn: {fileID: 609939867}
   enemySpawn: {fileID: 1961412081}
-  heal_val: 20
+  heal_val: 10
   dialogueText: {fileID: 151302723}
   state: 0
+  hitSuccessRate: 3
 --- !u!4 &567808951
 Transform:
   m_ObjectHideFlags: 0
