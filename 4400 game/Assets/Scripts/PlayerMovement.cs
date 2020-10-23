@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 change;
     private Animator animator;
 
-
+    public int base_attack; 
 
     //public HealthBar healthbar;
 
@@ -80,6 +80,16 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void addHealth(int heal_amt)
+    {
+        current_health += heal_amt;
+        if (dontDestroyOnLoad_health_bar.healthBar != null)
+        {
+            dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+        }
+    }
+
+
     public void takeDamage(int damage)
     {
         current_health -= damage;
@@ -115,9 +125,18 @@ public class PlayerMovement : MonoBehaviour
     {
         return transform;
     }
-
+    public void setMovingTrue()
+    {
+        animator.SetBool("moving", true); 
+    }
     public void setMovingFalse()
     {
-        animator.SetBool("moving", false); 
+        animator.SetBool("moving", false);
+        animator.SetFloat("moveX", 0.01f);
+        animator.SetFloat("moveY", 0f);
+
+        /*this is a little ghetto but it works. What's going on here is simple:
+        I am changing the animator inputs ever so slightly to the right, and no change on the y axis 
+        and preventing any movement so once it moves a little bit to the right it stays in the idle right position.*/    
     }
 }

@@ -7,7 +7,7 @@ public enum BattleState { START, PLAYERTURN, ENEMYTURN, WON, LOST }
 
 public class BattleSystem : MonoBehaviour
 {
-    public GameObject playerPrefab;
+    public GameObject playerPrefab; 
     public GameObject enemyPrefab;
 
     public Transform playerSpawn;
@@ -15,21 +15,29 @@ public class BattleSystem : MonoBehaviour
 
     Unit playerUnit;
     Unit enemyUnit;
-
+    public int heal_val; //JE added. DONT HARDCODE VALUES
     public Text dialogueText;
     public BattleState state;
 
     void Start()
     {
+        
         state = BattleState.START;
         StartCoroutine(SetupBattle());
+        
     }
+
+    private void Update()
+    {
+        set_equal_to_player_instance();
+    }
+
 
     IEnumerator SetupBattle()
     { 
         GameObject playerGo = Instantiate(playerPrefab, playerSpawn);
         playerUnit = playerGo.GetComponent<Unit>();
-
+        playerUnit.currentHP = PlayerMovement.Instance.current_health; // JE added. Gets players health before battle 
         GameObject enemyGo = Instantiate(enemyPrefab, enemySpawn);
         enemyUnit = enemyGo.GetComponent<Unit>();
 
@@ -61,12 +69,14 @@ public class BattleSystem : MonoBehaviour
 
     IEnumerator PlayerHeal()
     {
-        playerUnit.Heal(5);
+        //playerUnit.Heal(5);
+        PlayerMovement.Instance.addHealth(heal_val); // JE added 
+
 
         dialogueText.text = "You cast heal on yourself";
         yield return new WaitForSeconds(1f);
 
-        dialogueText.text = "You healed for 5 health";
+        dialogueText.text = "You healed for" + heal_val + " health";
         yield return new WaitForSeconds(1f);
 
         state = BattleState.ENEMYTURN;
@@ -128,4 +138,14 @@ public class BattleSystem : MonoBehaviour
             return;
         StartCoroutine(PlayerHeal());
     }
+    public void set_equal_to_player_instance()
+    {
+        PlayerMovement.Instance.current_health =  playerUnit.currentHP;
+    }
+
+
+
+
+
+
 }

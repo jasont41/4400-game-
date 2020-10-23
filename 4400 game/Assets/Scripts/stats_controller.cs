@@ -5,15 +5,16 @@ using UnityEngine.UI;
 
 public class stats_controller : MonoBehaviour
 {
-    public GameObject stats_ui;
-    public Text healthText; 
+   //GameObject stats_ui;
+   //Text healthText;
 
 
 
     // Start is called before the first frame update
     void Start()
     {
-        
+       // stats_ui = GameObject.FindGameObjectWithTag("stats_UI");
+        //healthText = GameObject.FindGameObjectWithTag("stats_UI_text").GetComponent<Text>(); 
     }
 
     // Update is called once per frame
@@ -21,13 +22,13 @@ public class stats_controller : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (stats_ui.activeInHierarchy)
+            if (canvas_dont_destroy.Instance.stats_UI.activeInHierarchy)
             {
-                stats_ui.SetActive(false);
+                canvas_dont_destroy.Instance.stats_UI.SetActive(false);
             }
             else
             {
-                stats_ui.SetActive(true);
+                canvas_dont_destroy.Instance.stats_UI.SetActive(true);
                 printStats();
             }
         }
@@ -35,7 +36,7 @@ public class stats_controller : MonoBehaviour
 
     private void printStats()
     {
-        healthText.text = "Current Health " + PlayerMovement.Instance.current_health.ToString() + " / " + "Max Health " 
+        canvas_dont_destroy.Instance.stats_UI_text.text = "Current Health " + PlayerMovement.Instance.current_health.ToString() + " / " + "Max Health " 
             + PlayerMovement.Instance.max_health.ToString(); 
     }
 }

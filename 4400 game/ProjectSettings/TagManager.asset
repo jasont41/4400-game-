@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - player_spawn_home
+  - stats_UI
+  - stats_UI_text
+  - Undefined
+  - dialog_box
+  - dialog_box_text
+  - healthText
   layers:
   - Default
   - TransparentFX
