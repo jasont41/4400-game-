@@ -62,13 +62,15 @@ public class BattleSystem : MonoBehaviour
         if (attackSuccess) { 
             bool isDeAD = enemyUnit.TakeDamage(playerUnit.damage);
             dialogueText.text = "You dealt " + playerUnit.damage + " demage";
+            yield return new WaitForSeconds(1f);
         }
 
         else if (!attackSuccess)
         {
             dialogueText.text = "Your attack missed!";
+            yield return new WaitForSeconds(1f);
         }
-        yield return new WaitForSeconds(2f);
+        
         if(enemyUnit.currentHP <= 0) //changed from isDead to playerUnit.currentHealth =< 0 because isDead is now out of scope 
         {
             state = BattleState.WON;
@@ -115,6 +117,7 @@ public class BattleSystem : MonoBehaviour
         else if (!attackSuccess)
         {
             dialogueText.text = enemyUnit.unitName + "'s Attack Missed!";
+            yield return new WaitForSeconds(1f);
         }
 
         if (playerUnit.currentHP <= 0) //changed from isDead to playerUnit.currentHealth =< 0 because isDead is now out of scope 
