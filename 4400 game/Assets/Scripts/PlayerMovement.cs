@@ -19,9 +19,11 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 change;
     private Animator animator;
 
-    public int base_attack; 
+    public int base_attack;
+    //turn based combat stats 
 
-    //public HealthBar healthbar;
+
+    public int attack_damage;  
 
     public static PlayerMovement Instance { get; private set; }
     private Vector3 player_pos_before_encounter;
@@ -53,6 +55,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Start()
     {
+        attack_damage = 5; 
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
         current_health = max_health;

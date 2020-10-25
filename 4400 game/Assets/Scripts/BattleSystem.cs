@@ -59,9 +59,10 @@ public class BattleSystem : MonoBehaviour
 
         doesAttackHit();
 
-        if (attackSuccess) { 
-            bool isDeAD = enemyUnit.TakeDamage(playerUnit.damage);
-            dialogueText.text = "You dealt " + playerUnit.damage + " demage";
+        if (attackSuccess) {
+            int player_current_damage_after_randomization = attack_value_variance(PlayerMovement.Instance.attack_damage);
+            bool isDeAD = enemyUnit.TakeDamage(player_current_damage_after_randomization); //grabbing this from the player singleton and that function so it can be changed once a level and experience system is implemented 
+            dialogueText.text = "You dealt " + player_current_damage_after_randomization + " demage";
             yield return new WaitForSeconds(1f);
         }
 
@@ -171,15 +172,29 @@ public class BattleSystem : MonoBehaviour
 
     private void doesAttackHit()
     {
-        int random_num = UnityEngine.Random.Range(min_num, hitSuccessRate); 
-        if(random_num == min_num) 
+        int random_num = UnityEngine.Random.Range(min_num, hitSuccessRate);
+        if (random_num == min_num)
         {
-            attackSuccess = false; 
+            attackSuccess = false;
         }
         else
         {
             attackSuccess = true;
         }
+    }
+
+
+    public int attack_value_variance(int unit_damage_val)
+    {
+        int new_attack_damage_val;
+        int orig_atttack_val = unit_damage_val; 
+        int half_of_attack_damage = orig_atttack_val / 2;
+        int attack_high = orig_atttack_val + half_of_attack_damage;
+        int attack_low = orig_atttack_val - half_of_attack_damage;
+
+        new_attack_damage_val = UnityEngine.Random.Range(attack_low, attack_high);
+
+        return new_attack_damage_val; 
     }
 
 }
