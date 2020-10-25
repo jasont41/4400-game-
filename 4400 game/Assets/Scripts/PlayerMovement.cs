@@ -10,10 +10,18 @@ public class PlayerMovement : MonoBehaviour
 
     public bool prevent_movement;
     public int max_health = 50; 
-    public int step_count = 0;
+    //public int step_count = 0; // uncomment for persistence debugging
     Vector3 player_pos_enc; 
-    public  int encounter_seed = 5;
-    public int current_health; 
+    public int encounter_seed = 5;
+
+    public int current_health;
+    public int player_experience;
+    public int player_tier;
+    public int experienceForNextTier = 100; //base, will increase for each tier
+
+
+
+    //basic variables 
     public float speed;
     private Rigidbody2D myRigidBody;
     private Vector3 change;
@@ -63,6 +71,10 @@ public class PlayerMovement : MonoBehaviour
         if(dontDestroyOnLoad_health_bar.healthBar != null)
         {
             dontDestroyOnLoad_health_bar.healthBar.setMaxHealth(max_health); 
+        }
+        if(experience_bar.exp_bar != null)
+        {
+            experience_bar.exp_bar.setMaxExperience(experienceForNextTier); 
         }
         prevent_movement = true; 
 
@@ -117,7 +129,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (change != Vector3.zero)
         {
-            step_count++; 
+            //step_count++; //debug for persistence testing 
             MoveCharacter();
             animator.SetFloat("moveX", change.x);
             animator.SetFloat("moveY", change.y);
@@ -151,5 +163,11 @@ public class PlayerMovement : MonoBehaviour
         /*this is a little ghetto but it works. What's going on here is simple:
         I am changing the animator inputs ever so slightly to the right, and no change on the y axis 
         and preventing any movement so once it moves a little bit to the right it stays in the idle right position.*/    
+    }
+
+    public void add_experience(int more_experience)
+    {
+        player_experience += more_experience;
+
     }
 }

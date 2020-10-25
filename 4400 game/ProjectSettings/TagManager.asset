@@ -13,6 +13,7 @@ TagManager:
   - healthText
   - room_transfer_text
   - enemy_health_bar
+  - exp_bar
   layers:
   - Default
   - TransparentFX

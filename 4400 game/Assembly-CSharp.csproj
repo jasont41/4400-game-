@@ -91,6 +91,7 @@
     <Compile Include="Assets/Scripts/Unit.cs" />
     <Compile Include="Assets/Tiled2Unity/Scripts/Runtime/TmxObject.cs" />
     <Compile Include="Assets/Scripts/enemyHealthBar.cs" />
+    <Compile Include="Assets/Scripts/experience_bar.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Tiled2Unity/License.txt" />

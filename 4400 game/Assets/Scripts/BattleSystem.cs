@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement; 
 
 public enum BattleState { START, PLAYERTURN, ENEMYTURN, WON, LOST }
 
@@ -24,7 +25,7 @@ public class BattleSystem : MonoBehaviour
     public int hitSuccessRate; //going to be the high number in random chance, a 20 here would give the attack a 95% hit rate
     int min_num;
 
-
+    public string NewLevel = "SampleScene"; 
     public enemyHealthBar enemyHealthBar; 
     //public Slider enemyHealthBar;
 
@@ -145,6 +146,8 @@ public class BattleSystem : MonoBehaviour
         if (state == BattleState.WON)
         {
             dialogueText.text = "You won the battle!";
+            PlayerMovement.Instance.add_experience(enemyUnit.exp_given);
+            SceneManager.LoadScene(NewLevel); 
         }
         else if (state == BattleState.LOST)
         {
