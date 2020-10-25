@@ -12,6 +12,7 @@ TagManager:
   - dialog_box_text
   - healthText
   - room_transfer_text
+  - enemy_health_bar
   layers:
   - Default
   - TransparentFX

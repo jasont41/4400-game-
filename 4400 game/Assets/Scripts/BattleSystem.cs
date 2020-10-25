@@ -22,20 +22,23 @@ public class BattleSystem : MonoBehaviour
 
     private bool attackSuccess;
     public int hitSuccessRate; //going to be the high number in random chance, a 20 here would give the attack a 95% hit rate
-    int min_num; 
+    int min_num;
 
+
+    public enemyHealthBar enemyHealthBar; 
+    //public Slider enemyHealthBar;
 
     void Start()
     {
-        
         state = BattleState.START;
         StartCoroutine(SetupBattle());
-        
+        enemyHealthBar.setMaxHealth(enemyUnit.currentHP); 
     }
 
     private void Update()
     {
         set_equal_to_player_instance();
+        enemyHealthBar.SetHealth(enemyUnit.currentHP); 
     }
 
 
@@ -60,10 +63,11 @@ public class BattleSystem : MonoBehaviour
         doesAttackHit();
 
         if (attackSuccess) {
-            int player_current_damage_after_randomization = attack_value_variance(PlayerMovement.Instance.attack_damage);
+            int player_current_damage_after_randomization = val_variance(PlayerMovement.Instance.attack_damage);
             bool isDeAD = enemyUnit.TakeDamage(player_current_damage_after_randomization); //grabbing this from the player singleton and that function so it can be changed once a level and experience system is implemented 
-            dialogueText.text = "You dealt " + player_current_damage_after_randomization + " demage";
+            dialogueText.text = "You dealt " + player_current_damage_after_randomization + " damage";
             yield return new WaitForSeconds(1f);
+
         }
 
         else if (!attackSuccess)
@@ -87,14 +91,15 @@ public class BattleSystem : MonoBehaviour
 
     IEnumerator PlayerHeal()
     {
-        playerUnit.Heal(heal_val);
-        PlayerMovement.Instance.addHealth(5); // JE added 
+        int player_current_heal_after_randomization = val_variance(PlayerMovement.Instance.heal_value);
+        playerUnit.Heal(player_current_heal_after_randomization);
+        PlayerMovement.Instance.addHealth(player_current_heal_after_randomization); // JE added 
 
 
         dialogueText.text = "You cast heal on yourself";
         yield return new WaitForSeconds(1f);
 
-        dialogueText.text = "You healed for" + heal_val + " health";
+        dialogueText.text = "You healed for" + player_current_heal_after_randomization + " health";
         yield return new WaitForSeconds(1f);
 
         state = BattleState.ENEMYTURN;
@@ -110,9 +115,11 @@ public class BattleSystem : MonoBehaviour
         doesAttackHit();
         if (attackSuccess)
         {
-            bool isDead = playerUnit.TakeDamage(enemyUnit.damage);
 
-            dialogueText.text = enemyUnit.unitName + " dealt " + enemyUnit.damage + " damage";
+            int enemeyRandomizedDamage = val_variance(enemyUnit.damage); 
+            bool isDead = playerUnit.TakeDamage(enemeyRandomizedDamage);
+
+            dialogueText.text = enemyUnit.unitName + " dealt " + enemeyRandomizedDamage + " damage";
             yield return new WaitForSeconds(1f);
         }
         else if (!attackSuccess)
@@ -184,17 +191,17 @@ public class BattleSystem : MonoBehaviour
     }
 
 
-    public int attack_value_variance(int unit_damage_val)
+    public int val_variance(int unit_damage_val)
     {
-        int new_attack_damage_val;
-        int orig_atttack_val = unit_damage_val; 
-        int half_of_attack_damage = orig_atttack_val / 2;
-        int attack_high = orig_atttack_val + half_of_attack_damage;
-        int attack_low = orig_atttack_val - half_of_attack_damage;
+        int new_val;
+        int orig_val = unit_damage_val; 
+        int half_orig_val = orig_val / 2;
+        int high_val = orig_val + half_orig_val;
+        int low_val = orig_val - half_orig_val;
 
-        new_attack_damage_val = UnityEngine.Random.Range(attack_low, attack_high);
+        new_val = UnityEngine.Random.Range(low_val, high_val);
 
-        return new_attack_damage_val; 
+        return new_val; 
     }
 
 }

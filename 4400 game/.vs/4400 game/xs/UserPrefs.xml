@@ -1,15 +1,20 @@
 ﻿<Properties StartupConfiguration="{A5D2153D-E3F8-6890-2EA3-68C6D8CD833F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPC scripts/old_man_in_house.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealthBar.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="8" Column="24" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="8" Column="2" />
       <File FileName="Assets/Scripts/CameraMovement.cs" />
-      <File FileName="Assets/Scripts/NPC scripts/old_man_in_house.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/NPC scripts/old_man_in_house.cs" />
       <File FileName="Assets/Scripts/Sign.cs" />
+      <File FileName="Assets/Scripts/BattleSystem.cs" />
+      <File FileName="Assets/Scripts/UI_controller_battle.cs" />
+      <File FileName="Assets/Scripts/dontDestroyOnLoad_health_bar.cs" />
+      <File FileName="Assets/Scripts/enemyHealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8041c169-9525-407f-a1db-a830fdbc08b4" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fbae3a02-f9b9-4952-b34d-898e67987899" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -5,11 +5,12 @@ using UnityEngine.SceneManagement;
 public class UI_controller_battle : MonoBehaviour
 {
     public string newLevel;
-    public Vector3 spawnLocation; 
+    public Vector3 spawnLocation;
+    public GameObject enemyHealthBar; 
     // Start is called before the first frame update
     void Start()
     {
-        
+        //enemyHealthBar.SetActive(false); 
     }
     
     // Update is called once per frame

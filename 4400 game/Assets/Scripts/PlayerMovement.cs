@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     public int base_attack;
     //turn based combat stats 
 
-
+    public int heal_value; 
     public int attack_damage;  
 
     public static PlayerMovement Instance { get; private set; }
@@ -55,7 +55,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Start()
     {
-        attack_damage = 5; 
+        attack_damage = 5;
+        heal_value = 5; 
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
         current_health = max_health;
