@@ -8,10 +8,14 @@ public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
 
+    // This is to disallow player from moving at all, whenever that would be applicable 
     public bool prevent_movement;
+
     public int max_health = 50; 
     //public int step_count = 0; // uncomment for persistence debugging
     Vector3 player_pos_enc; 
+
+    // For the randomized encounter trigger. A 5 here would mean a 1 in 5 chance of a random battle at each time 
     public int encounter_seed = 5;
 
     public int current_health;
@@ -19,30 +23,42 @@ public class PlayerMovement : MonoBehaviour
     public int player_tier;
     public int experienceForNextTier = 100; //base, will increase for each tier
 
-
-
     //basic variables 
     public float speed;
     private Rigidbody2D myRigidBody;
     private Vector3 change;
     private Animator animator;
 
-    public int base_attack;
+   
     //turn based combat stats 
-
+    public int base_attack;
     public int heal_value; 
-    public int attack_damage;  
-
-    public static PlayerMovement Instance { get; private set; }
+    public int attack_damage;
     private Vector3 player_pos_before_encounter;
-    public void setPOS(Vector3 temp)
+
+    //Starting values for all player functions. Will certainly add this as the game gets larger 
+    void Start()
     {
-        player_pos_before_encounter = temp;
+        attack_damage = 5;
+        heal_value = 5;
+        animator = GetComponent<Animator>();
+        myRigidBody = GetComponent<Rigidbody2D>();
+        current_health = max_health;
+        if (dontDestroyOnLoad_health_bar.healthBar != null)
+        {
+            dontDestroyOnLoad_health_bar.healthBar.setMaxHealth(max_health);
+        }
+        if (experience_bar.exp_bar != null)
+        {
+            experience_bar.exp_bar.setMaxExperience(experienceForNextTier);
+        }
+        prevent_movement = true;
     }
-    public Vector3 getPOS()
-    {
-        return player_pos_before_encounter;
-    }
+    // Singleton Instance
+    // Allows other scripts to use any public function or variable using this method: PlayerMovement.Instance.<Whatever you need> 
+    public static PlayerMovement Instance { get; private set; }
+   
+    
     private void Awake()
     {
         if (Instance == null)
@@ -55,35 +71,7 @@ public class PlayerMovement : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
-    public Vector3 GetCurrentPosition()
-    {
-        return transform.position;
-    }
-
-    void Start()
-    {
-        attack_damage = 5;
-        heal_value = 5; 
-        animator = GetComponent<Animator>();
-        myRigidBody = GetComponent<Rigidbody2D>();
-        current_health = max_health;
-        if(dontDestroyOnLoad_health_bar.healthBar != null)
-        {
-            dontDestroyOnLoad_health_bar.healthBar.setMaxHealth(max_health); 
-        }
-        if(experience_bar.exp_bar != null)
-        {
-            experience_bar.exp_bar.setMaxExperience(experienceForNextTier); 
-        }
-        prevent_movement = true; 
-
-    }
-
-
-
-
-    // Update is called once per frame
+    // End of the code that makes this instance a singleton 
     void Update()
     {
         change = Vector3.zero;
@@ -96,35 +84,23 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    public void addHealth(int heal_amt)
+    public Vector3 GetCurrentPosition()
     {
-        //bool heal_full;
-        if ((current_health + heal_amt) > max_health)
-        {
-            current_health = max_health;
-            dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
-        }
-        else
-        {
-            current_health += heal_amt;
-            if (dontDestroyOnLoad_health_bar.healthBar != null)
-            {
-                dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
-            }
-        }
+        return transform.position;
     }
 
-
-    public void takeDamage(int damage)
+    //Referenced by EncounterTrigger.cs to store player position so the player spawns at the each place the battle started 
+    public void setPOS(Vector3 temp) 
     {
-        current_health -= damage;
-
-        if (dontDestroyOnLoad_health_bar.healthBar != null)
-        {
-            dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
-        }
+        player_pos_before_encounter = temp;
+    }
+    //Reference twice by Encounter Trigger
+    public Vector3 getPOS()
+    {
+        return player_pos_before_encounter;
     }
 
+    // All movement scripts 
     void UpdateAnimationAndMove()
     {
         if (change != Vector3.zero)
@@ -165,9 +141,43 @@ public class PlayerMovement : MonoBehaviour
         and preventing any movement so once it moves a little bit to the right it stays in the idle right position.*/    
     }
 
+    //End of movement scripts 
+
+
+    //Start of battle functions
+    //referenced by damage test script and will likely be referenced by battlesystem to make things simpler 
+    public void takeDamage(int damage)
+    {
+        current_health -= damage;
+
+        if (dontDestroyOnLoad_health_bar.healthBar != null)
+        {
+            dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+        }
+    }
     public void add_experience(int more_experience)
     {
         player_experience += more_experience;
 
     }
+
+    //Referenced by BattleSystem and HealTest scripts to be able to add health to player 
+    public void addHealth(int heal_amt)
+    {
+        //bool heal_full;
+        if ((current_health + heal_amt) > max_health) //This makes sure a healing event doesn't bring the player health above max_health 
+        {
+            current_health = max_health;
+            dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+        }
+        else
+        {
+            current_health += heal_amt;
+            if (dontDestroyOnLoad_health_bar.healthBar != null)
+            {
+                dontDestroyOnLoad_health_bar.healthBar.SetHealth(current_health);
+            }
+        }
+    }
+    //End of battle scripts 
 }
