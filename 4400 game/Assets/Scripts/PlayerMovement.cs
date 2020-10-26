@@ -35,6 +35,9 @@ public class PlayerMovement : MonoBehaviour
     public int heal_value; 
     public int attack_damage;
     private Vector3 player_pos_before_encounter;
+
+    //Below is a holder for the enemy prefab that is chosen in the previous scene
+    public GameObject enemyPrefab; 
     
     //level up stuff 
     bool level_up = false; 
@@ -214,17 +217,17 @@ public class PlayerMovement : MonoBehaviour
 
         experienceForNextTier = (int)((100) + 4 * (math.pow(player_tier, 2))); // This is the function y = 100+4x^2 
         /*
-         * The experience need for each level sould be as followed
-         * Tier 1: 100
-         * Tier 2: 116
-         * Tier 3: 136
-         * Tier 4: 164
-         * Tier 5: 200
-         * Tier 6: 244
-         * Tier 7: 296
-         * Tier 8: 356
-         * Tier 9: 424
-         * Tier 10:500
+         * The experience need for each level should be: 
+         * Tier 1:  100
+         * Tier 2:  116
+         * Tier 3:  136
+         * Tier 4:  164
+         * Tier 5:  200
+         * Tier 6:  244
+         * Tier 7:  296
+         * Tier 8:  356
+         * Tier 9:  424
+         * Tier 10: 500
          * 
          * Need to implement this stat into the stat menu and make sure that function is correct
          */

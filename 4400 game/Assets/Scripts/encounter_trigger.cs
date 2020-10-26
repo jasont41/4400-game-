@@ -14,7 +14,8 @@ public class encounter_trigger : MonoBehaviour
     int minBound = 1;
     int maxBound = 3;
     public string encounter_scene;
-    private PlayerMovement player;
+    //private PlayerMovement player;
+    public encounterControllerMainRoom encounterCont; 
     // Start is called before the first frame update
     void Start()
     {
@@ -26,7 +27,7 @@ public class encounter_trigger : MonoBehaviour
         if (random_num == encounter_seed && other.CompareTag("Player"))
         {
 
-           
+            PlayerMovement.Instance.enemyPrefab = encounterCont.enemyPrefab1; 
             PlayerMovement.Instance.setPOS(transform.position);
             PlayerMovement.Instance.transform.position = spawnLocation;
             SceneManager.LoadScene(encounter_scene);
