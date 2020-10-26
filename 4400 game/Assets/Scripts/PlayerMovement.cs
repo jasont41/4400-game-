@@ -34,7 +34,7 @@ public class PlayerMovement : MonoBehaviour
     public int base_attack;
     public int heal_value; 
     public int attack_damage;
-    private Vector3 player_pos_before_encounter;
+    public Vector3 player_pos_before_encounter;
 
     //Below is a holder for the enemy prefab that is chosen in the previous scene
     public GameObject enemyPrefab; 

@@ -151,7 +151,8 @@ public class BattleSystem : MonoBehaviour
             PlayerMovement.Instance.add_experience(enemyUnit.exp_given);
             dialogueText.text = "You gained " + enemyUnit.exp_given + " experience!";
             PlayerMovement.Instance.checkLevelUP();
-            //Need to print a message aboout level up and the new base damage stat and heal stat 
+            //Need to print a message aboout level up and the new base damage stat and heal stat
+            PlayerMovement.Instance.transform.position = PlayerMovement.Instance.player_pos_before_encounter; 
             SceneManager.LoadScene(NewLevel);
 
         }
