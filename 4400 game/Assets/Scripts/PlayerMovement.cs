@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.UI; 
@@ -20,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
 
     public int current_health;
     public int player_experience;
-    public int player_tier;
+    public int player_tier; // Tier == level 
     public int experienceForNextTier = 100; //base, will increase for each tier
 
     //basic variables 
@@ -29,12 +30,14 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 change;
     private Animator animator;
 
-   
     //turn based combat stats 
     public int base_attack;
     public int heal_value; 
     public int attack_damage;
     private Vector3 player_pos_before_encounter;
+    
+    //level up stuff 
+    bool level_up = false; 
 
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
@@ -58,7 +61,6 @@ public class PlayerMovement : MonoBehaviour
     // Allows other scripts to use any public function or variable using this method: PlayerMovement.Instance.<Whatever you need> 
     public static PlayerMovement Instance { get; private set; }
    
-    
     private void Awake()
     {
         if (Instance == null)
@@ -180,4 +182,66 @@ public class PlayerMovement : MonoBehaviour
         }
     }
     //End of battle scripts 
+
+
+    //Start of level up scripts 
+    public void checkLevelUP()
+    {
+        int left_over_exp = 0;
+        if (player_experience > experienceForNextTier)
+        {
+            left_over_exp -= experienceForNextTier;
+            level_up = true;
+        }
+        else if (player_experience == experienceForNextTier)
+        {
+            level_up = true;
+        }
+        if(level_up == true)
+        {
+            changePlayerStatsOnLevelUP(); 
+        }
+    }
+
+    public void changePlayerStatsOnLevelUP()
+    {
+        level_up = false; // MUST reset this value 
+        attack_damage += val_variance(attack_damage); //adds a randomISH value to the attack. Will do the same for healVal
+        heal_value += val_variance(heal_value);
+        //Changing experience needed for next level here 
+        player_tier++; 
+        experienceForNextTier = 0; //null it out just to be safe 
+
+        experienceForNextTier = (int)((100) + 4 * (math.pow(player_tier, 2))); // This is the function y = 100+4x^2 
+        /*
+         * The experience need for each level sould be as followed
+         * Tier 1: 100
+         * Tier 2: 116
+         * Tier 3: 136
+         * Tier 4: 164
+         * Tier 5: 200
+         * Tier 6: 244
+         * Tier 7: 296
+         * Tier 8: 356
+         * Tier 9: 424
+         * Tier 10:500
+         * 
+         * Need to implement this stat into the stat menu and make sure that function is correct
+         */
+    }
+
+    public int val_variance(int unit_val)
+    {
+        int new_val;
+        int orig_val = unit_val;
+        int half_orig_val = orig_val / 2;
+        int high_val = orig_val + half_orig_val;
+        int low_val = orig_val - half_orig_val;
+
+        new_val = UnityEngine.Random.Range(low_val, high_val);
+
+        return new_val;
+    }
+
+
 }

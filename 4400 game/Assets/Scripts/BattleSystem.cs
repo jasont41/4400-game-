@@ -147,6 +147,9 @@ public class BattleSystem : MonoBehaviour
         {
             dialogueText.text = "You won the battle!";
             PlayerMovement.Instance.add_experience(enemyUnit.exp_given);
+            dialogueText.text = "You gained " + enemyUnit.exp_given + " experience!";
+            PlayerMovement.Instance.checkLevelUP(); 
+            //Need to print a message aboout level up and the new base damage stat and heal stat 
             SceneManager.LoadScene(NewLevel); 
         }
         else if (state == BattleState.LOST)
