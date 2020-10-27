@@ -9,8 +9,8 @@ public enum BattleState { START, PLAYERTURN, ENEMYTURN, WON, LOST }
 
 public class BattleSystem : MonoBehaviour
 {
-    public GameObject playerPrefab; 
-    public GameObject enemyPrefab;
+    public GameObject playerPrefab;
+    private GameObject enemyPrefab = PlayerMovement.Instance.enemyPrefab;
 
     public Transform playerSpawn;
     public Transform enemySpawn;
@@ -34,6 +34,7 @@ public class BattleSystem : MonoBehaviour
     {
         state = BattleState.START;
         StartCoroutine(SetupBattle());
+      //  enemyPrefab = PlayerMovement.Instance.enemyPrefab; 
         enemyHealthBar.setMaxHealth(enemyUnit.currentHP); 
     }
 
