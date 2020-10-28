@@ -10,8 +10,8 @@ public enum BattleState { START, PLAYERTURN, ENEMYTURN, WON, LOST }
 public class BattleSystem : MonoBehaviour
 {
     public GameObject playerPrefab;
-    private GameObject enemyPrefab = PlayerMovement.Instance.enemyPrefab;
 
+    private GameObject enemyPrefab = PlayerMovement.Instance.enemyPrefab;
     public Transform playerSpawn;
     public Transform enemySpawn;
 
@@ -25,13 +25,17 @@ public class BattleSystem : MonoBehaviour
     public int hitSuccessRate; //going to be the high number in random chance, a 20 here would give the attack a 95% hit rate
     int min_num;
 
-    public string NewLevel = "SampleScene";
+    public string NewLevel;
 
     public enemyHealthBar enemyHealthBar; 
     //public Slider enemyHealthBar;
 
     void Start()
     {
+        if(enemyPrefab == null)
+        {
+            Debug.Log("Shits broken"); 
+        }
         state = BattleState.START;
         StartCoroutine(SetupBattle());
       //  enemyPrefab = PlayerMovement.Instance.enemyPrefab; 

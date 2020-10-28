@@ -27,7 +27,7 @@ public class encounter_trigger : MonoBehaviour
         if (random_num == encounter_seed && other.CompareTag("Player"))
         {
 
-            PlayerMovement.Instance.enemyPrefab = encounterCont.enemyPrefab1; 
+            PlayerMovement.Instance.enemyPrefab = encounterCont.enemyPrefab2; //= encounterCont.chosePrefab(); 
             PlayerMovement.Instance.setPOS(transform.position);
             PlayerMovement.Instance.transform.position = spawnLocation;
             SceneManager.LoadScene(encounter_scene);

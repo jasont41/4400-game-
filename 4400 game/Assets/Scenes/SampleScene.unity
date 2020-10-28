@@ -16963,8 +16963,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyLevel: 0
+  selectedPrefab: {fileID: 0}
   enemyPrefab1: {fileID: 2755810813303179368, guid: b99d41add65d0488a9c002b94a3c775a, type: 3}
-  random_val: 0
+  enemyPrefab2: {fileID: 368766919633243838, guid: ea0881cd66ab5624292638f3ec894058, type: 3}
 --- !u!4 &1595488034
 Transform:
   m_ObjectHideFlags: 0
