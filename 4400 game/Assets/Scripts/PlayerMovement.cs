@@ -45,6 +45,7 @@ public class PlayerMovement : MonoBehaviour
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
     {
+        player_tier = 1; 
         attack_damage = 5;
         heal_value = 5;
         animator = GetComponent<Animator>();
@@ -202,11 +203,12 @@ public class PlayerMovement : MonoBehaviour
         }
         if(level_up == true)
         {
-            changePlayerStatsOnLevelUP(); 
+            player_experience = 0; 
+            changePlayerStatsOnLevelUP(left_over_exp); 
         }
     }
 
-    public void changePlayerStatsOnLevelUP()
+    public void changePlayerStatsOnLevelUP(int leftOver)
     {
         level_up = false; // MUST reset this value 
         attack_damage += val_variance(attack_damage); //adds a randomISH value to the attack. Will do the same for healVal
@@ -214,7 +216,7 @@ public class PlayerMovement : MonoBehaviour
         //Changing experience needed for next level here 
         player_tier++; 
         experienceForNextTier = 0; //null it out just to be safe 
-
+        add_experience(leftOver); 
         experienceForNextTier = (int)((100) + 4 * (math.pow(player_tier, 2))); // This is the function y = 100+4x^2 
         /*
          * The experience need for each level should be: 

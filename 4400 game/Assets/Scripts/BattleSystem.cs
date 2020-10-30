@@ -23,7 +23,7 @@ public class BattleSystem : MonoBehaviour
 
     private bool attackSuccess;
     public int hitSuccessRate; //going to be the high number in random chance, a 20 here would give the attack a 95% hit rate
-    int min_num;
+    private int min_num = 0;
 
     public string NewLevel;
 

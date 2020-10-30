@@ -94,6 +94,7 @@
     <Compile Include="Assets\Scripts\enemies\Unit.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
     <Compile Include="Assets\Scripts\enemies\wormEnemy.cs" />
+    <Compile Include="Assets\Scripts\test scripts\level_up_script.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Tiled2Unity\License.txt" />

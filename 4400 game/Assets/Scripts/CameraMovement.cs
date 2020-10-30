@@ -23,7 +23,7 @@ public class CameraMovement : MonoBehaviour
         {
             //GameObject temp = GameObject.FindGameObjectWithTag("Player");
             // dontDestroy.Instance.GetCurrentPosition(); //temp.transform.position;
-            Debug.Log(target.position);
+            //Debug.Log(target.position);
             if (transform.position != target.position)
             {
                 float curr_x = target.transform.position.x;

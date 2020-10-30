@@ -14,6 +14,9 @@ TagManager:
   - room_transfer_text
   - enemy_health_bar
   - exp_bar
+  - tier_text
+  - experience_text
+  - attack_damage_text
   layers:
   - Default
   - TransparentFX

@@ -13,7 +13,11 @@ public class canvas_dont_destroy : MonoBehaviour
     public Text stats_UI_text;
     public GameObject roomTransferText_theObject; 
     public Text roomTransferText;
-    public GameObject exp_bar; 
+    public GameObject exp_bar;
+    public Text tier_text;
+    public Text exp_text;
+    public Text attack_damage_text; 
+
     public static canvas_dont_destroy Instance { get; private set; }
     private void Awake()
     {
@@ -23,8 +27,10 @@ public class canvas_dont_destroy : MonoBehaviour
         stats_UI = GameObject.FindGameObjectWithTag("stats_UI");
         stats_UI_text = GameObject.FindGameObjectWithTag("stats_UI_text").GetComponent<Text>();
         roomTransferText_theObject = GameObject.FindGameObjectWithTag("room_transfer_text");
-        roomTransferText = GameObject.FindGameObjectWithTag("room_transfer_text").GetComponent<Text>(); 
-
+        roomTransferText = GameObject.FindGameObjectWithTag("room_transfer_text").GetComponent<Text>();
+        tier_text = GameObject.FindGameObjectWithTag("tier_text").GetComponent<Text>();
+        exp_text = GameObject.FindGameObjectWithTag("experience_text").GetComponent<Text>();
+        attack_damage_text = GameObject.FindGameObjectWithTag("attack_damage_text").GetComponent<Text>(); 
         roomTransferText_theObject.SetActive(false); 
         dialogBox.SetActive(false);
         stats_UI.SetActive(false);
