@@ -1021,6 +1021,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textBox: {fileID: 1719988057}
   text: {fileID: 1539847875}
+  tier_minimum: 2
+  barrier: {fileID: 443162781}
   warningString: 'Get fucked '
 --- !u!61 &443162785
 BoxCollider2D:

@@ -10,8 +10,8 @@ public class roomBarrierScript : MonoBehaviour
 {
     public GameObject textBox;
     public Text text;
-
-
+    public int tier_minimum;
+    public GameObject barrier; 
     private void Awake()
     {
     }
@@ -23,8 +23,15 @@ public class roomBarrierScript : MonoBehaviour
         text = canvas_dont_destroy.Instance.dialogBox_text; 
         if (collision.CompareTag("Player"))
         {
-            text.text = warningString; 
-            textBox.SetActive(true); 
+            if (PlayerMovement.Instance.player_tier >= tier_minimum)
+            {
+                barrier.SetActive(false);
+            }
+            else
+            {
+                text.text = warningString;
+                textBox.SetActive(true);
+            }
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
