@@ -234,6 +234,8 @@ public class PlayerMovement : MonoBehaviour
          * Need to implement this stat into the stat menu and make sure that function is correct
          */
     }
+     
+    //end of level up scripts
 
     public int val_variance(int unit_val)
     {

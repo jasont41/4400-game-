@@ -11,7 +11,7 @@ public class InventoryUI : MonoBehaviour
     {
         for(int i = 0; i < inventoryContents.Length; i++)
         {
-            if(inventoryContents[i].name == null)
+            if(inventoryContents[i].name == null) //for finding the next empty inventory slot
             {
                 inventoryIndex = i; 
             }
