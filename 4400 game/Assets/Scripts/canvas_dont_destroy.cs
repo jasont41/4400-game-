@@ -34,6 +34,8 @@ public class canvas_dont_destroy : MonoBehaviour
         roomTransferText_theObject.SetActive(false); 
         dialogBox.SetActive(false);
         stats_UI.SetActive(false);
+
+
         if (Instance == null)
         {
             DontDestroyOnLoad(gameObject);

@@ -92,12 +92,14 @@
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs" />
     <Compile Include="Assets\Scripts\DialogManager.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\ObjectLayer.cs" />
+    <Compile Include="Assets\Scripts\dialogueTrigger.cs" />
     <Compile Include="Assets\Scripts\canvas_dont_destroy.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GameObjectExtensions.cs" />
     <Compile Include="Assets\Scripts\test scripts\healTestScript.cs" />
     <Compile Include="Assets\Scripts\enemies\Unit.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
-    <Compile Include="Assets\Scripts\dialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\InventoryUI.cs" />
+    <Compile Include="Assets\Inventory.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Tiled2Unity\License.txt" />
