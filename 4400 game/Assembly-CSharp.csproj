@@ -99,7 +99,11 @@
     <Compile Include="Assets\Scripts\enemies\Unit.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
     <Compile Include="Assets\Scripts\InventoryUI.cs" />
-    <Compile Include="Assets\Inventory.cs" />
+    <Compile Include="Assets\Scripts\Inventory.cs" />
+    <Compile Include="Assets\Scripts\ItemManagement.cs" />
+    <Compile Include="Assets\Scripts\Items\Items.cs" />
+    <Compile Include="Assets\Scripts\Items\HealthPotion.cs" />
+    <Compile Include="Assets\Scripts\healthPotion.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Tiled2Unity\License.txt" />
