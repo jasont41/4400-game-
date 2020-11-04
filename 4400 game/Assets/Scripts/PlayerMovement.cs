@@ -40,11 +40,25 @@ public class PlayerMovement : MonoBehaviour
     public GameObject enemyPrefab; 
     
     //level up stuff 
-    bool level_up = false; 
+    bool level_up = false;
+
+    //Inventory variables 
+    public string[] inventoryItemNames;
+    public bool[] hasSeenInventoryItemsBefore;
+    public int[] inventoryItemQuantity;
+
+    //Inventory Icons 
+    public GameObject healthPotionIcon;
+
 
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
     {
+        healthPotionIcon = GameObject.FindGameObjectWithTag("healPotionIcon");
+        if (healthPotionIcon == null)
+            Debug.Log("errored out");
+        inventoryItemNames[0] = "Normal Potion";
+        hasSeenInventoryItemsBefore[0] = false; 
         player_tier = 1; 
         attack_damage = 5;
         heal_value = 5;
@@ -249,6 +263,23 @@ public class PlayerMovement : MonoBehaviour
 
         return new_val;
     }
+    public void addNormalPotion()
+    {
+        inventoryItemQuantity[0]++;
+        healthPotionIcon.SetActive(true); 
 
-
+    }
+    public bool checkIfPlayerHasSeenItemBefore(int index)
+    {
+        if (hasSeenInventoryItemsBefore[index])
+        {
+            return true; 
+        }
+        else
+        {
+            hasSeenInventoryItemsBefore[index] = true;
+            return false; 
+        }
+        
+    }
 }

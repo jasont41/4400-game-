@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class healthPotion : MonoBehaviour
 {
-    // Start is called before the first frame update
+    Items itemParent; 
+
+
     void Start()
     {
         

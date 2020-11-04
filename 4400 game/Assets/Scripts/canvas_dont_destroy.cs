@@ -16,11 +16,13 @@ public class canvas_dont_destroy : MonoBehaviour
     public GameObject exp_bar;
     public Text tier_text;
     public Text exp_text;
-    public Text attack_damage_text; 
+    public Text attack_damage_text;
+    public GameObject HealPotionIcon; 
 
     public static canvas_dont_destroy Instance { get; private set; }
     private void Awake()
     {
+        HealPotionIcon = GameObject.FindGameObjectWithTag("healPotionIcon"); 
         exp_bar = GameObject.FindGameObjectWithTag("exp_bar"); 
         dialogBox = GameObject.FindGameObjectWithTag("dialog_box");
         dialogBox_text = GameObject.FindGameObjectWithTag("dialog_box_text").GetComponent<Text>();
@@ -34,7 +36,7 @@ public class canvas_dont_destroy : MonoBehaviour
         roomTransferText_theObject.SetActive(false); 
         dialogBox.SetActive(false);
         stats_UI.SetActive(false);
-
+        //HealPotionIcon.SetActive(false);
 
         if (Instance == null)
         {

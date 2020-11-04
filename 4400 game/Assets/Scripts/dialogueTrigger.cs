@@ -30,7 +30,7 @@ public class dialogueTrigger : MonoBehaviour
             else
             {
                 dialogue_text.text = sentences[0];
-                //sentence_index++; 
+                PlayerMovement.Instance.addNormalPotion(); 
                 dialogue_box.SetActive(true);
                 displayDialogue(); 
             }
