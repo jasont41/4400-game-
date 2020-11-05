@@ -54,9 +54,7 @@ public class PlayerMovement : MonoBehaviour
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
     {
-        healthPotionIcon = GameObject.FindGameObjectWithTag("healPotionIcon");
-        if (healthPotionIcon == null)
-            Debug.Log("errored out");
+        healthPotionIcon = canvas_dont_destroy.Instance.HealPotionIcon;
         inventoryItemNames[0] = "Normal Potion";
         hasSeenInventoryItemsBefore[0] = false; 
         player_tier = 1; 
