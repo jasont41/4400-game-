@@ -18,6 +18,7 @@ TagManager:
   - experience_text
   - attack_damage_text
   - healPotionIcon
+  - potionCount
   layers:
   - Default
   - TransparentFX

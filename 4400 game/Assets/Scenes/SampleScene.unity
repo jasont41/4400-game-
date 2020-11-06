@@ -8024,6 +8024,7 @@ MonoBehaviour:
   exp_text: {fileID: 0}
   attack_damage_text: {fileID: 0}
   HealPotionIcon: {fileID: 0}
+  potionCount: {fileID: 0}
 --- !u!114 &645737839
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34347,6 +34348,10 @@ PrefabInstance:
     - target: {fileID: 3918127981958819890, guid: fce013a70a616754da3798b55eaa1873, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213790961154821457, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_TagString
+      value: potionCount
       objectReference: {fileID: 0}
     - target: {fileID: 7858186227675805468, guid: fce013a70a616754da3798b55eaa1873, type: 3}
       propertyPath: m_LocalPosition.x
