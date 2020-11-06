@@ -55,6 +55,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         healthPotionIcon = canvas_dont_destroy.Instance.HealPotionIcon;
+        canvas_dont_destroy.Instance.potionCount.text = inventoryItemQuantity[0].ToString(); 
         inventoryItemNames[0] = "Normal Potion";
         hasSeenInventoryItemsBefore[0] = false; 
         player_tier = 1; 
@@ -92,6 +93,7 @@ public class PlayerMovement : MonoBehaviour
     // End of the code that makes this instance a singleton 
     void Update()
     {
+        canvas_dont_destroy.Instance.potionCount.text = inventoryItemQuantity[0].ToString();
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
@@ -264,6 +266,7 @@ public class PlayerMovement : MonoBehaviour
     public void addNormalPotion()
     {
         inventoryItemQuantity[0]++;
+
         healthPotionIcon.SetActive(true); 
 
     }
