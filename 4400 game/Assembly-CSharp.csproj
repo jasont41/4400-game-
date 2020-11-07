@@ -106,6 +106,7 @@
     <Compile Include="Assets/Tiled2Unity/Scripts/Runtime/TmxObject.cs" />
     <Compile Include="Assets/Scripts/oldManRoomOne.cs" />
     <Compile Include="Assets/Scripts/roomOneBarrierVarSetting.cs" />
+    <Compile Include="Assets/Scripts/oldManInForest.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Tiled2Unity/License.txt" />

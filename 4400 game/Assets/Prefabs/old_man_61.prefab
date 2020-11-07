@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5946178250399453419}
   - component: {fileID: 5946178250399453418}
   - component: {fileID: 5946178250399453417}
+  - component: {fileID: 6682811877601314750}
   m_Layer: 0
   m_Name: old_man_61
   m_TagString: Untagged
@@ -136,3 +137,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2, y: 6.0558777}
   m_EdgeRadius: 0
+--- !u!114 &6682811877601314750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5946178250399453416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f905be6dd39f8a74db1017dfcd31e9b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerInRange: 0
+  dialogue_box: {fileID: 0}
+  dialogue_text: {fileID: 0}
+  sentences: []

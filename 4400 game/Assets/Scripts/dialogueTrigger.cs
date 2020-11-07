@@ -22,22 +22,27 @@ public class dialogueTrigger : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space) && playerInRange)
         {
-            
+
             if (dialogue_box.activeInHierarchy)
             {
-                dialogue_box.SetActive(false); 
+                dialogue_box.SetActive(false);
             }
+           
             else
             {
                 dialogue_text.text = sentences[0];
-                PlayerMovement.Instance.addNormalPotion(); 
+                PlayerMovement.Instance.addNormalPotion();
                 dialogue_box.SetActive(true);
-                displayDialogue(); 
+                displayDialogue();
             }
-        }
+         }
+        if (Input.GetKeyDown(KeyCode.Return))
+                {
+                nextSentence(); 
+                }
     }
 
-
+    
     private void displayDialogue()
     {
         if (sentence_index == sentences.Length)
