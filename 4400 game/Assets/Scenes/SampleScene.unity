@@ -761,6 +761,7 @@ GameObject:
   - component: {fileID: 443162783}
   - component: {fileID: 443162784}
   - component: {fileID: 443162785}
+  - component: {fileID: 443162786}
   m_Layer: 0
   m_Name: 'room to the right barrier '
   m_TagString: Untagged
@@ -851,6 +852,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4658661, y: 2.2242537}
   m_EdgeRadius: 0
+--- !u!114 &443162786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 443162781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea525e847cc394226b0d35d0733af1e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &460770714
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16408,6 +16421,7 @@ GameObject:
   - component: {fileID: 1539688590}
   - component: {fileID: 1539688589}
   - component: {fileID: 1539688588}
+  - component: {fileID: 1539688593}
   m_Layer: 0
   m_Name: old_man_61
   m_TagString: Untagged
@@ -16550,6 +16564,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1539688593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539688587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2513202bb6d3f4f6c9f73bbe61d02e15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  oldman: {fileID: 1539688587}
 --- !u!1 &1539847873
 GameObject:
   m_ObjectHideFlags: 0
@@ -34096,6 +34123,34 @@ PrefabInstance:
     - target: {fileID: 3918127980468524521, guid: fce013a70a616754da3798b55eaa1873, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3918127980468524533, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3918127980468524533, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3918127980468524533, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3918127980468524533, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 189220592}
+    - target: {fileID: 3918127980468524533, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PlayerMovement, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3918127980468524533, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: useHealthPotion
+      objectReference: {fileID: 0}
+    - target: {fileID: 3918127980468524533, guid: fce013a70a616754da3798b55eaa1873, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 3918127980666674043, guid: fce013a70a616754da3798b55eaa1873, type: 3}
       propertyPath: m_AnchorMin.y

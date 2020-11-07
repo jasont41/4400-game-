@@ -51,6 +51,12 @@ public class PlayerMovement : MonoBehaviour
     public GameObject healthPotionIcon;
 
 
+    //Room one variables
+
+    public bool hasSpokenToOldMan;
+    public bool hasLeftRoomOneForFirstTime; 
+
+
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
     {
@@ -282,5 +288,13 @@ public class PlayerMovement : MonoBehaviour
             return false; 
         }
         
+    }
+    public void useHealthPotion()
+    {
+        if(inventoryItemQuantity[0] != 0)
+        {
+            inventoryItemQuantity[0]--; //decrementing regular potion quantity
+            addHealth(10); 
+        }
     }
 }
