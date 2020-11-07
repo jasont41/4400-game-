@@ -272,7 +272,7 @@ public class PlayerMovement : MonoBehaviour
     public void addNormalPotion()
     {
         inventoryItemQuantity[0]++;
-
+        checkIfPlayerHasSeenItemBefore(0); 
         healthPotionIcon.SetActive(true); 
 
     }
