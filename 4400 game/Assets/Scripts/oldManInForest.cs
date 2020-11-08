@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement; 
 
 
 [System.Serializable]
 public class oldManInForest : MonoBehaviour
 {
+    public Vector3 spawnLocation; 
     public GameObject oldMan; 
     public bool playerInRange;
     public GameObject dialogue_box;
@@ -16,6 +17,8 @@ public class oldManInForest : MonoBehaviour
     int sentence_index = 0;
     public string[] sentences;
 
+
+    public string NewScene; 
     //public Queue<string> sentences; 
 
 
@@ -36,6 +39,11 @@ public class oldManInForest : MonoBehaviour
                 displayDialogue();
             }
         }
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            nextSentence();
+        }
+
     }
 
 
@@ -43,7 +51,16 @@ public class oldManInForest : MonoBehaviour
     {
         if (sentence_index == sentences.Length)
         {
-            PlayerMovement.Instance.enemyPrefab = oldMan; 
+            PlayerMovement.Instance.enemyPrefab = oldMan;
+            PlayerMovement.Instance.setPOS(transform.position);
+            PlayerMovement.Instance.transform.position = spawnLocation;
+            PlayerMovement.Instance.getPOS();
+            PlayerMovement.Instance.prevent_movement = false; // prevents player from walking around the scene 
+            PlayerMovement.Instance.setMovingFalse(); //stops player from moving in place
+            Debug.Log("it works ");
+            Debug.Log(PlayerMovement.Instance.getPOS());
+
+            SceneManager.LoadScene(NewScene); 
             dialogue_box.SetActive(false);
             return;
         }
