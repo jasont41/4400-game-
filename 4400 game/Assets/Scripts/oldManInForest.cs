@@ -54,13 +54,15 @@ public class oldManInForest : MonoBehaviour
             PlayerMovement.Instance.enemyPrefab = oldMan;
             PlayerMovement.Instance.setPOS(transform.position);
             PlayerMovement.Instance.transform.position = spawnLocation;
+            SceneManager.LoadScene(NewScene);
             PlayerMovement.Instance.getPOS();
             PlayerMovement.Instance.prevent_movement = false; // prevents player from walking around the scene 
             PlayerMovement.Instance.setMovingFalse(); //stops player from moving in place
             Debug.Log("it works ");
             Debug.Log(PlayerMovement.Instance.getPOS());
-
-            SceneManager.LoadScene(NewScene); 
+            
+            
+            //SceneManager.LoadScene(NewScene); 
             dialogue_box.SetActive(false);
             return;
         }
