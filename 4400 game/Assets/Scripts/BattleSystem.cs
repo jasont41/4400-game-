@@ -157,16 +157,20 @@ public class BattleSystem : MonoBehaviour
             dialogueText.text = "You gained " + enemyUnit.exp_given + " experience!";
             PlayerMovement.Instance.checkLevelUP();
             //Need to print a message aboout level up and the new base damage stat and heal stat
-            PlayerMovement.Instance.transform.position = PlayerMovement.Instance.player_pos_before_encounter; 
+           
+            
             SceneManager.LoadScene(NewLevel);
-
+            PlayerMovement.Instance.transform.position = PlayerMovement.Instance.player_pos_before_encounter;
+            if(PlayerMovement.Instance.transform.position != PlayerMovement.Instance.player_pos_before_encounter)
+            {
+                Debug.Log("For fucks sake"); 
+            }
         }
         else if (state == BattleState.LOST)
         {
             dialogueText.text = "You were defeated.";
         }
     }
-
     void PlayerTurn()
     {
         dialogueText.text = "Choose an action: ";

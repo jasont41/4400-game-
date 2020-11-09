@@ -19,6 +19,8 @@ TagManager:
   - attack_damage_text
   - healPotionIcon
   - potionCount
+  - NPCDialogBox
+  - NPCTextBox
   layers:
   - Default
   - TransparentFX

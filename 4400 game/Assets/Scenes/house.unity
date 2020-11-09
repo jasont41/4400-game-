@@ -1137,7 +1137,7 @@ GameObject:
   - component: {fileID: 248246214}
   m_Layer: 5
   m_Name: NPCText
-  m_TagString: Untagged
+  m_TagString: NPCTextBox
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1510,7 +1510,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &363759284
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2154,6 +2154,8 @@ MonoBehaviour:
   attack_damage_text: {fileID: 0}
   HealPotionIcon: {fileID: 0}
   potionCount: {fileID: 0}
+  NPCdialogue: {fileID: 0}
+  NPCText: {fileID: 0}
 --- !u!1 &803785003
 GameObject:
   m_ObjectHideFlags: 0
@@ -3175,11 +3177,11 @@ GameObject:
   - component: {fileID: 1386167220}
   m_Layer: 5
   m_Name: dialogBox
-  m_TagString: Untagged
+  m_TagString: NPCDialogBox
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1386167219
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4247,7 +4249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newLevel: SampleScene
-  spawnLocation: {x: 0, y: 0, z: 0}
+  spawnLocation: {x: -10.6, y: 6, z: 0}
 --- !u!61 &1566470303
 BoxCollider2D:
   m_ObjectHideFlags: 0

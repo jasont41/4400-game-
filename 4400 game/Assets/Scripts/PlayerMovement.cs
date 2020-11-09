@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Rendering;
-using UnityEngine.UI; 
-
+using UnityEngine.UI;
+using UnityEngine.SceneManagement; 
 public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -54,9 +54,10 @@ public class PlayerMovement : MonoBehaviour
     //Room one variables
 
     public bool hasSpokenToOldMan;
-    public bool hasLeftRoomOneForFirstTime; 
+    public bool hasLeftRoomOneForFirstTime;
 
-
+    public Vector2 maxPosition;
+    public Vector2 minPosition;
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
     {
@@ -83,7 +84,14 @@ public class PlayerMovement : MonoBehaviour
     // Singleton Instance
     // Allows other scripts to use any public function or variable using this method: PlayerMovement.Instance.<Whatever you need> 
     public static PlayerMovement Instance { get; private set; }
-   
+    private void OnEnable()
+    {
+        if (player_pos_before_encounter != Vector3.zero)
+        {
+            transform.position = player_pos_before_encounter;
+            player_pos_before_encounter = Vector3.zero; 
+        }
+    }
     private void Awake()
     {
         if (Instance == null)

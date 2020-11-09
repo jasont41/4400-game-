@@ -13,10 +13,14 @@ public class dialogueTrigger : MonoBehaviour
     public GameObject dialogue_box;
     public Text dialogue_text;
     int sentence_index = 0; 
-    public string[] sentences;  
-    
-    //public Queue<string> sentences; 
+    public string[] sentences;
 
+    //public Queue<string> sentences; 
+    private void Start()
+    {
+        dialogue_box = canvas_dont_destroy.Instance.NPCdialogue;
+        dialogue_text = canvas_dont_destroy.Instance.NPCText; 
+    }
 
     private void Update()
     {

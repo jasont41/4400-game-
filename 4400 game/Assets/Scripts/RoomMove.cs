@@ -40,6 +40,8 @@ public class RoomMove : MonoBehaviour
         {
             cam.minPosition += cameraChange;
             cam.maxPosition += cameraChange;
+            PlayerMovement.Instance.minPosition = cam.minPosition;
+            PlayerMovement.Instance.maxPosition = cam.maxPosition; 
             other.transform.position += playerChange;
             if (needText)
             {

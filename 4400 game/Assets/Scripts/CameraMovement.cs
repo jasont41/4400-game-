@@ -13,6 +13,12 @@ public class CameraMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        if (PlayerMovement.Instance.minPosition == null && 
+            PlayerMovement.Instance.maxPosition == null)
+        {
+            maxPosition = PlayerMovement.Instance.maxPosition;
+            minPosition = PlayerMovement.Instance.minPosition;
+        }
         target = PlayerMovement.Instance.transform; 
     }
   
@@ -36,6 +42,10 @@ public class CameraMovement : MonoBehaviour
                 //transform.position = Vector3.Lerp(transform.position,
                 //new Vector3(target.position.x, target.position.y, -10f), smoothing);
             }
+        }
+        else
+        {
+            Debug.Log("don't have player transform"); 
         }
     }
 }

@@ -15,13 +15,18 @@ public class oldManInForest : MonoBehaviour
     public GameObject dialogue_box;
     public Text dialogue_text;
     int sentence_index = 0;
-    public string[] sentences;
+    public string[] forest_sentences;
 
 
-    public string NewScene; 
+    public string NewScene;
     //public Queue<string> sentences; 
 
 
+    private void Start()
+    {
+        dialogue_box = canvas_dont_destroy.Instance.NPCdialogue;
+        dialogue_text = canvas_dont_destroy.Instance.NPCText;
+    }
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) && playerInRange)
@@ -33,7 +38,7 @@ public class oldManInForest : MonoBehaviour
             }
             else
             {
-                dialogue_text.text = sentences[0];
+                dialogue_text.text = forest_sentences[0];
                 PlayerMovement.Instance.addNormalPotion();
                 dialogue_box.SetActive(true);
                 displayDialogue();
@@ -49,26 +54,39 @@ public class oldManInForest : MonoBehaviour
 
     private void displayDialogue()
     {
-        if (sentence_index == sentences.Length)
+        if (sentence_index == forest_sentences.Length)
         {
-            PlayerMovement.Instance.enemyPrefab = oldMan;
+
+            sentence_index = 0; 
+           // PlayerMovement.Instance.enemyPrefab = encounterCont.chosePrefab();
             PlayerMovement.Instance.setPOS(transform.position);
+            Debug.Log(PlayerMovement.Instance.player_pos_before_encounter); 
+            PlayerMovement.Instance.transform.position = spawnLocation;
+            SceneManager.LoadScene("encScene");
+            PlayerMovement.Instance.getPOS();
+            PlayerMovement.Instance.prevent_movement = false; // prevents player from walking around the scene 
+            PlayerMovement.Instance.setMovingFalse(); //stops player from moving in place
+            Debug.Log("it works ");
+            Debug.Log(PlayerMovement.Instance.getPOS());
+            PlayerMovement.Instance.enemyPrefab = oldMan;
+            /*PlayerMovement.Instance.setPOS(PlayerMovement.Instance.transform.position) ;
+           // PlayerMovement.Instance.setPOS(new Vector3(14, 3, 0));
             PlayerMovement.Instance.transform.position = spawnLocation;
             SceneManager.LoadScene(NewScene);
-            PlayerMovement.Instance.getPOS();
+            //PlayerMovement.Instance.getPOS();
             PlayerMovement.Instance.prevent_movement = false; // prevents player from walking around the scene 
             PlayerMovement.Instance.setMovingFalse(); //stops player from moving in place
             Debug.Log("it works ");
             Debug.Log(PlayerMovement.Instance.getPOS());
             
             
-            //SceneManager.LoadScene(NewScene); 
+            //SceneManager.LoadScene(NewScene); */
             dialogue_box.SetActive(false);
             return;
         }
         else
         {
-            dialogue_text.text = sentences[sentence_index];
+            dialogue_text.text = forest_sentences[sentence_index];
         }
     }
     public void nextSentence()

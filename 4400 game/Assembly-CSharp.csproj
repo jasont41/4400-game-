@@ -107,6 +107,7 @@
     <Compile Include="Assets\Scripts\test scripts\healTestScript.cs" />
     <Compile Include="Assets\Scripts\enemies\Unit.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
+    <Compile Include="Assets\Scripts\RandomEncounterTest.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Tiled2Unity\License.txt" />
