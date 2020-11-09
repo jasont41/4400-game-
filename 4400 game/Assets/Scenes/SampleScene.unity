@@ -35924,6 +35924,22 @@ PrefabInstance:
       propertyPath: hasSeenInventoryItemsBefore.Array.data[0]
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8950189723702899327, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
+      propertyPath: maxPosition.x
+      value: 3.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8950189723702899327, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
+      propertyPath: maxPosition.y
+      value: 6.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8950189723702899327, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
+      propertyPath: minPosition.x
+      value: -7.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 8950189723702899327, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
+      propertyPath: minPosition.y
+      value: 0.62
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
 --- !u!1001 &9004037688376652792

@@ -19,12 +19,24 @@ public class CameraMovement : MonoBehaviour
             maxPosition = PlayerMovement.Instance.maxPosition;
             minPosition = PlayerMovement.Instance.minPosition;
         }
+        //else 
         target = PlayerMovement.Instance.transform; 
     }
   
     // Update is called once per frame
     void LateUpdate()
     {
+        if(PlayerMovement.Instance.minPosition == null)
+        {
+            Debug.Log("Found the error"); 
+        }
+       if(PlayerMovement.Instance.minPosition != minPosition ||
+            PlayerMovement.Instance.maxPosition != maxPosition)
+        {
+            maxPosition = PlayerMovement.Instance.maxPosition;
+            minPosition = PlayerMovement.Instance.minPosition;
+        }
+       
         if (target != null)
         {
             //GameObject temp = GameObject.FindGameObjectWithTag("Player");

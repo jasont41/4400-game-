@@ -107,6 +107,7 @@ public class PlayerMovement : MonoBehaviour
     // End of the code that makes this instance a singleton 
     void Update()
     {
+        SceneManager.sceneLoaded += OnSceneLoaded; 
         canvas_dont_destroy.Instance.potionCount.text = inventoryItemQuantity[0].ToString();
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
@@ -118,6 +119,10 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        transform.position = player_pos_before_encounter; 
+    }
     public Vector3 GetCurrentPosition()
     {
         return transform.position;
