@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A5D2153D-E3F8-6890-2EA3-68C6D8CD833F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RandomEncounterTest.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="31" Column="31" />
       <File FileName="Assets/Scripts/CameraMovement.cs" />
@@ -13,13 +13,14 @@
       <File FileName="Assets/Scripts/canvas_dont_destroy.cs" />
       <File FileName="Assets/Scripts/roomOneBarrierVarSetting.cs" />
       <File FileName="Assets/Scripts/oldManRoomOne.cs" />
-      <File FileName="Assets/Scripts/dialogueTrigger.cs" Line="45" Column="5" />
+      <File FileName="Assets/Scripts/dialogueTrigger.cs" />
       <File FileName="Assets/Scripts/oldManInForest.cs" />
+      <File FileName="Assets/Scripts/RandomEncounterTest.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="074cf5a0-61d1-4b36-9a34-87e32b30f076" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e6751e17-6338-4258-b045-5d569f2e463a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
