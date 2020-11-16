@@ -13,8 +13,8 @@ public class RandomEncounterTest : MonoBehaviour
     int maxBound = 4;
     public string encounter_scene;
     public GameObject EnemyPrefab; 
-    //private PlayerMovement player;
-    //public encounterControllerMainRoom encounterCont;
+    
+    public encounterControllerMainRoom encounterCont;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,7 +25,8 @@ public class RandomEncounterTest : MonoBehaviour
         random_num = UnityEngine.Random.Range(minBound, maxBound);
         if (random_num == encounter_seed && other.CompareTag("Player"))
         {
-            PlayerMovement.Instance.enemyPrefab = EnemyPrefab;
+            PlayerMovement.Instance.enemyPrefab = encounterCont.selectedPrefab;
+            PlayerMovement.Instance.enemyLevel = encounterCont.enemyLevel; 
             PlayerMovement.Instance.player_pos_before_encounter = PlayerMovement.Instance.transform.position;
             PlayerMovement.Instance.transform.position = spawnLocation;
             PlayerMovement.Instance.prevent_movement = false;

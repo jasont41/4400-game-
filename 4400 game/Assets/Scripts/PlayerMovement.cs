@@ -50,6 +50,7 @@ public class PlayerMovement : MonoBehaviour
     //Inventory Icons 
     public GameObject healthPotionIcon;
 
+    public int enemyLevel = 1; 
 
     //Room one variables
 
