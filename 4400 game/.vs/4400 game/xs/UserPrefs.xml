@@ -5,7 +5,7 @@
       <File FileName="Assets/Scripts/CameraMovement.cs" />
       <File FileName="Assets/Scripts/NPC scripts/old_man_in_house.cs" />
       <File FileName="Assets/Scripts/Sign.cs" />
-      <File FileName="Assets/Scripts/BattleSystem.cs" />
+      <File FileName="Assets/Scripts/BattleSystem.cs" Line="39" Column="1" />
       <File FileName="Assets/Scripts/UI_controller_battle.cs" />
       <File FileName="Assets/Scripts/dontDestroyOnLoad_health_bar.cs" />
       <File FileName="Assets/Scripts/enemyHealthBar.cs" />
@@ -16,13 +16,13 @@
       <File FileName="Assets/Scripts/dialogueTrigger.cs" />
       <File FileName="Assets/Scripts/oldManInForest.cs" />
       <File FileName="Assets/Scripts/RandomEncounterTest.cs" />
-      <File FileName="Assets/Scripts/encounterControllers/encounterControllerMainRoom.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/enemies/Unit.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/encounterControllers/encounterControllerMainRoom.cs" />
+      <File FileName="Assets/Scripts/enemies/Unit.cs" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e70d188e-b697-406b-b7f4-4b6e913e7468" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c6d793ae-9402-40a3-a3e9-57553cb77c85" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

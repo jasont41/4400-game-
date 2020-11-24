@@ -21,6 +21,7 @@ TagManager:
   - potionCount
   - NPCDialogBox
   - NPCTextBox
+  - EnemyTier
   layers:
   - Default
   - TransparentFX

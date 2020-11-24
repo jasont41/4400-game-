@@ -14,7 +14,7 @@ public class BattleSystem : MonoBehaviour
     private GameObject enemyPrefab = PlayerMovement.Instance.enemyPrefab;
     public Transform playerSpawn;
     public Transform enemySpawn;
-
+    public Text enemyTierText; 
     Unit playerUnit;
     Unit enemyUnit;
     public int heal_val; //JE added. DONT HARDCODE VALUES
@@ -32,10 +32,12 @@ public class BattleSystem : MonoBehaviour
 
     void Start()
     {
+
         if(enemyPrefab == null)
         {
             Debug.Log("Shits broken"); 
         }
+       // enemyTierText.text = enemyUnit.level.ToString() ; 
         state = BattleState.START;
         StartCoroutine(SetupBattle());
       //  enemyPrefab = PlayerMovement.Instance.enemyPrefab; 

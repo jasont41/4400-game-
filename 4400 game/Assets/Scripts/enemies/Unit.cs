@@ -4,21 +4,19 @@ using UnityEngine;
 
 public class Unit : MonoBehaviour
 {
-
+    
     public string unitName;
-
     public int damage;
     public int level; 
     public int maxHP;
     public int currentHP;
     public int exp_given = 5;
-    private void Start()
-    {
- 
-        for(int i = 1; i < level; i++)
+    public void Start()
+    { 
+        for (int i = 1; i < level; i++)
         {
             damage = (int)(damage + (damage * 0.2f)); // adding 20% of value for each level enemy is above base stats
-            maxHP = (int)(maxHP + (maxHP * 0.2f)); 
+            maxHP = (int)(maxHP + (maxHP * 0.2f));
         }
     }
     public bool TakeDamage(int dmg)
