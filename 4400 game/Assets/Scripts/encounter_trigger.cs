@@ -15,7 +15,7 @@ public class encounter_trigger : MonoBehaviour
     int maxBound = 10;
     public string encounter_scene;
     //private PlayerMovement player;
-    public encounterControllerMainRoom encounterCont; 
+    public EncounterManager encounterCont; 
     // Start is called before the first frame update
     void Start()
     {
