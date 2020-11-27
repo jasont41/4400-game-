@@ -17,14 +17,14 @@
       <File FileName="Assets/Scripts/oldManInForest.cs" />
       <File FileName="Assets/Scripts/RandomEncounterTest.cs" />
       <File FileName="Assets/Scripts/enemies/Unit.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/EncounterManager.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/dontDestroy.cs" />
+      <File FileName="Assets/Scripts/EncounterManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/encounterControllers/encounterControllerMainRoom.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/encounter_trigger.cs" Line="30" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54897250-ce8c-4da7-839c-e1ab38e10d67" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eeca7f65-a096-43b7-866b-8f1fe3faf2e4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
