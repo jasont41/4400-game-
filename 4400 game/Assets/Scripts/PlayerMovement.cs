@@ -35,6 +35,7 @@ public class PlayerMovement : MonoBehaviour
     public int heal_value; 
     public int attack_damage;
     public Vector3 player_pos_before_encounter;
+    public Vector3 player_battle_pos = new Vector3(-4, 0, 0); 
 
     //Below is a holder for the enemy prefab that is chosen in the previous scene
     public GameObject enemyPrefab; 
@@ -310,5 +311,9 @@ public class PlayerMovement : MonoBehaviour
             inventoryItemQuantity[0]--; //decrementing regular potion quantity
             addHealth(10); 
         }
+    }
+    public void setBattlePOS()
+    {
+        transform.position = player_battle_pos; 
     }
 }

@@ -9527,7 +9527,7 @@ MonoBehaviour:
   random_num: 0
   encounter_seed: 1
   encounter_scene: encScene
-  encounterCont: {fileID: 0}
+  encounterCont: {fileID: 1595488033}
 --- !u!61 &519357872
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15269,7 +15269,7 @@ MonoBehaviour:
   random_num: 0
   encounter_seed: 1
   encounter_scene: encScene
-  encounterCont: {fileID: 0}
+  encounterCont: {fileID: 1595488033}
 --- !u!61 &928264361
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18832,7 +18832,7 @@ MonoBehaviour:
   random_num: 0
   encounter_seed: 1
   encounter_scene: encScene
-  encounterCont: {fileID: 0}
+  encounterCont: {fileID: 1595488033}
 --- !u!61 &1186757923
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19040,7 +19040,7 @@ MonoBehaviour:
   random_num: 0
   encounter_seed: 1
   encounter_scene: encScene
-  encounterCont: {fileID: 0}
+  encounterCont: {fileID: 1595488033}
 --- !u!61 &1257987741
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19719,7 +19719,7 @@ MonoBehaviour:
   - {fileID: 2755810813303179368, guid: b99d41add65d0488a9c002b94a3c775a, type: 3}
   - {fileID: 7671162403377680312, guid: 72c695b8de2dd464c915ecd058e4d0a8, type: 3}
   selectedEnemy: {fileID: 0}
-  level: 0
+  level: 2
 --- !u!4 &1595488034
 Transform:
   m_ObjectHideFlags: 0
@@ -19955,7 +19955,7 @@ MonoBehaviour:
   random_num: 0
   encounter_seed: 1
   encounter_scene: encScene
-  encounterCont: {fileID: 0}
+  encounterCont: {fileID: 1595488033}
 --- !u!61 &1656758491
 BoxCollider2D:
   m_ObjectHideFlags: 0

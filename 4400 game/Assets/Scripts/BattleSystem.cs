@@ -27,12 +27,14 @@ public class BattleSystem : MonoBehaviour
 
     public string NewLevel;
 
-    public enemyHealthBar enemyHealthBar; 
+    public enemyHealthBar enemyHealthBar;
     //public Slider enemyHealthBar;
 
+
+    
     void Start()
     {
-
+        //  PlayerMovement.Instance.setPOS(new Vector3(-4, 0, 0)); 
         if(enemyPrefab == null)
         {
             Debug.Log("Shits broken"); 
@@ -46,10 +48,12 @@ public class BattleSystem : MonoBehaviour
 
     private void Update()
     {
+        PlayerMovement.Instance.setBattlePOS();
         set_equal_to_player_instance();
         enemyHealthBar.SetHealth(enemyUnit.currentHP); 
     }
 
+    
 
     IEnumerator SetupBattle()
     { 
