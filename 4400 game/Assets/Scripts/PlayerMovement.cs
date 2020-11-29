@@ -66,13 +66,21 @@ public class PlayerMovement : MonoBehaviour
         healthPotionIcon = canvas_dont_destroy.Instance.HealPotionIcon;
         canvas_dont_destroy.Instance.potionCount.text = inventoryItemQuantity[0].ToString(); 
         inventoryItemNames[0] = "Normal Potion";
-        hasSeenInventoryItemsBefore[0] = false; 
-        player_tier = 1; 
-        attack_damage = 5;
-        heal_value = 5;
+        if (PlayerPrefs.GetString("PreviousScene") == "LoadSave")
+        {
+            playerLoad();
+        }
+        else
+        {
+            hasSeenInventoryItemsBefore[0] = false;
+            player_tier = 1;
+            attack_damage = 5;
+            heal_value = 5;
+            current_health = max_health;
+        }
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
-        current_health = max_health;
+        
         if (dontDestroyOnLoad_health_bar.healthBar != null)
         {
             dontDestroyOnLoad_health_bar.healthBar.setMaxHealth(max_health);
@@ -343,7 +351,7 @@ public class PlayerMovement : MonoBehaviour
         max_health = PlayerPrefs.GetInt("MaxHealth");
         current_health = PlayerPrefs.GetInt("CurrentHealth");
         player_tier = PlayerPrefs.GetInt("PlayerTier");
-        attack_damage = PlayerPrefs.GetInt("PlayerTier");
+        attack_damage = PlayerPrefs.GetInt("AttackDamage");
         base_attack = PlayerPrefs.GetInt("base_attack");
         heal_value = PlayerPrefs.GetInt("heal_value");
         player_experience = PlayerPrefs.GetInt("player_experience");
@@ -354,6 +362,11 @@ public class PlayerMovement : MonoBehaviour
 
         hasSeenInventoryItemsBefore[0] = intToBool(PlayerPrefs.GetInt("firstItemInArray"));
 
+    }
+
+    public void startNewGame()
+    {
+        SceneManager.LoadScene("SampleScene"); 
     }
     public bool intToBool(int val)
     {
