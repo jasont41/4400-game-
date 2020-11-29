@@ -337,8 +337,34 @@ public class PlayerMovement : MonoBehaviour
 
         PlayerPrefs.SetInt("firstItemInArray", boolToInt(hasSeenInventoryItemsBefore[0]));
         PlayerPrefs.SetInt("ItemOneQuan", inventoryItemQuantity[0]);
+    }
+    public void playerLoad()
+    {
+        max_health = PlayerPrefs.GetInt("MaxHealth");
+        current_health = PlayerPrefs.GetInt("CurrentHealth");
+        player_tier = PlayerPrefs.GetInt("PlayerTier");
+        attack_damage = PlayerPrefs.GetInt("PlayerTier");
+        base_attack = PlayerPrefs.GetInt("base_attack");
+        heal_value = PlayerPrefs.GetInt("heal_value");
+        player_experience = PlayerPrefs.GetInt("player_experience");
+        experienceForNextTier = PlayerPrefs.GetInt("experienceForNextTier");
 
+        hasSpokenToOldMan = intToBool(PlayerPrefs.GetInt("HasSpokenToOldMan"));
+        hasLeftRoomOneForFirstTime = intToBool(PlayerPrefs.GetInt("hasLeftRoomOneBefore"));
 
+        hasSeenInventoryItemsBefore[0] = intToBool(PlayerPrefs.GetInt("firstItemInArray"));
+
+    }
+    public bool intToBool(int val)
+    {
+        if(val == 0)
+        {
+            return false; 
+        }
+        else
+        {
+            return true; 
+        }
     }
     public int boolToInt(bool val)
     {
