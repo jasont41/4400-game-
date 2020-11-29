@@ -323,8 +323,31 @@ public class PlayerMovement : MonoBehaviour
         PlayerPrefs.SetInt("CurrentHealth", current_health);
         PlayerPrefs.SetInt("PlayerTier", player_tier);
         PlayerPrefs.SetInt("AttackDamage", attack_damage);
+        PlayerPrefs.SetInt("base_attack", base_attack); 
         PlayerPrefs.SetInt("HealAmount", heal_value);
         PlayerPrefs.SetInt("PlayerExperience", player_experience);
-        PlayerPrefs.SetInt("ExperienceForNextTier", experienceForNextTier); 
+        PlayerPrefs.SetInt("ExperienceForNextTier", experienceForNextTier);
+
+        PlayerPrefs.SetInt("HasSpokenToOldMan", boolToInt(hasSpokenToOldMan));
+
+        
+
+        PlayerPrefs.SetInt("hasLeftRoomOneBefore", boolToInt(hasLeftRoomOneForFirstTime)); 
+        // below will expand as more items are added
+
+        PlayerPrefs.SetInt("firstItemInArray", boolToInt(hasSeenInventoryItemsBefore[0]));
+        PlayerPrefs.SetInt("ItemOneQuan", inventoryItemQuantity[0]);
+
+
+    }
+    public int boolToInt(bool val)
+    {
+        if(val == true){
+            return 1; 
+        }
+        else
+        {
+            return 0; 
+        }
     }
 }
