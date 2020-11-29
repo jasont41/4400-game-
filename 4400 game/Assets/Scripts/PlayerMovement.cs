@@ -316,4 +316,15 @@ public class PlayerMovement : MonoBehaviour
     {
         transform.position = player_battle_pos; 
     }
+
+    public void playerSave()
+    {
+        PlayerPrefs.SetInt("MaxHealth", max_health);
+        PlayerPrefs.SetInt("CurrentHealth", current_health);
+        PlayerPrefs.SetInt("PlayerTier", player_tier);
+        PlayerPrefs.SetInt("AttackDamage", attack_damage);
+        PlayerPrefs.SetInt("HealAmount", heal_value);
+        PlayerPrefs.SetInt("PlayerExperience", player_experience);
+        PlayerPrefs.SetInt("ExperienceForNextTier", experienceForNextTier); 
+    }
 }
