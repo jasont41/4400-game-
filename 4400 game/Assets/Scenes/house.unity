@@ -152,7 +152,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.672
+      value: -2.14
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4250,6 +4250,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   newLevel: SampleScene
   spawnLocation: {x: -10.6, y: 6, z: 0}
+  previousLevel: Cabin
 --- !u!61 &1566470303
 BoxCollider2D:
   m_ObjectHideFlags: 0

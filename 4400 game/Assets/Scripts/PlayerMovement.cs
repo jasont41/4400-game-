@@ -35,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
     public int heal_value; 
     public int attack_damage;
     public Vector3 player_pos_before_encounter;
-    public Vector3 player_battle_pos = new Vector3(-4, 0, 0); 
+    public Vector3 player_battle_pos = new Vector3(-4, 0, 0);
 
     //Below is a holder for the enemy prefab that is chosen in the previous scene
     public GameObject enemyPrefab; 
@@ -58,11 +58,15 @@ public class PlayerMovement : MonoBehaviour
     public bool hasSpokenToOldMan;
     public bool hasLeftRoomOneForFirstTime;
 
+    public Vector3 locationOutsideHouse = new Vector3(-10.5f, 6, 0);
+    public Vector3 playerCabinLocation = new Vector3(2.5f, -2.14f, 0); 
+
     public Vector2 maxPosition;
     public Vector2 minPosition;
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
     {
+
         healthPotionIcon = canvas_dont_destroy.Instance.HealPotionIcon;
         canvas_dont_destroy.Instance.potionCount.text = inventoryItemQuantity[0].ToString(); 
         inventoryItemNames[0] = "Normal Potion";
@@ -131,7 +135,23 @@ public class PlayerMovement : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        transform.position = player_pos_before_encounter; 
+
+        
+        if(PlayerPrefs.GetString("PreviousScene") == "Cabin")
+        {
+            transform.position = locationOutsideHouse;
+            PlayerPrefs.DeleteKey("PreivousScene");
+        }
+        else if(PlayerPrefs.GetString("PreviousScene") == "Encounter")
+        {
+            transform.position = player_pos_before_encounter;
+            PlayerPrefs.DeleteKey("PreviousScene"); 
+        }
+        else if(PlayerPrefs.GetString("PreviousScene") == "Main")
+        {
+            transform.position = playerCabinLocation;
+            PlayerPrefs.DeleteKey("PreivousScene"); 
+        }
     }
     public Vector3 GetCurrentPosition()
     {
@@ -361,6 +381,8 @@ public class PlayerMovement : MonoBehaviour
         hasLeftRoomOneForFirstTime = intToBool(PlayerPrefs.GetInt("hasLeftRoomOneBefore"));
 
         hasSeenInventoryItemsBefore[0] = intToBool(PlayerPrefs.GetInt("firstItemInArray"));
+
+        PlayerPrefs.DeleteKey("PreviousScene"); 
 
     }
 

@@ -568,6 +568,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   newLevel: house
   spawnLocation: {x: 2.5, y: -1.5, z: 0}
+  previousLevel: Main
 --- !u!61 &378945000
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -46279,11 +46280,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.29
+      value: -10.56
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.26
+      value: 6.19
       objectReference: {fileID: 0}
     - target: {fileID: 8950189723702899326, guid: cde136e39484fb943bd5aae9051b73bd, type: 3}
       propertyPath: m_LocalPosition.z
