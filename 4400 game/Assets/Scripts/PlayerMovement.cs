@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
     public int player_experience;
     public int player_tier; // Tier == level 
     public int experienceForNextTier = 100; //base, will increase for each tier
-
+    public int player_money; 
     //basic variables 
     public float speed;
     private Rigidbody2D myRigidBody;
@@ -81,6 +81,7 @@ public class PlayerMovement : MonoBehaviour
             attack_damage = 5;
             heal_value = 5;
             current_health = max_health;
+            player_money = 50; 
         }
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -345,6 +346,18 @@ public class PlayerMovement : MonoBehaviour
         transform.position = player_battle_pos; 
     }
 
+    public void addMoney(int val)
+    {
+        player_money += val; 
+    }
+    public void removeMoney(int val)
+    {
+        player_money -= val; 
+    }
+    public int returnMoneyAmt()
+    {
+        return player_money; 
+    }
     public void playerSave()
     {
         PlayerPrefs.SetInt("MaxHealth", max_health);
@@ -355,11 +368,10 @@ public class PlayerMovement : MonoBehaviour
         PlayerPrefs.SetInt("HealAmount", heal_value);
         PlayerPrefs.SetInt("PlayerExperience", player_experience);
         PlayerPrefs.SetInt("ExperienceForNextTier", experienceForNextTier);
-
+        PlayerPrefs.SetInt("PlayerMoney", player_money); 
         PlayerPrefs.SetInt("HasSpokenToOldMan", boolToInt(hasSpokenToOldMan));
 
         
-
         PlayerPrefs.SetInt("hasLeftRoomOneBefore", boolToInt(hasLeftRoomOneForFirstTime)); 
         // below will expand as more items are added
 
@@ -368,6 +380,7 @@ public class PlayerMovement : MonoBehaviour
     }
     public void playerLoad()
     {
+        player_money = PlayerPrefs.GetInt("PlayerMoney", 0); 
         max_health = PlayerPrefs.GetInt("MaxHealth");
         current_health = PlayerPrefs.GetInt("CurrentHealth");
         player_tier = PlayerPrefs.GetInt("PlayerTier");
@@ -383,7 +396,6 @@ public class PlayerMovement : MonoBehaviour
         hasSeenInventoryItemsBefore[0] = intToBool(PlayerPrefs.GetInt("firstItemInArray"));
 
         PlayerPrefs.DeleteKey("PreviousScene"); 
-
     }
 
     public void startNewGame()
