@@ -11,6 +11,7 @@ public class Unit : MonoBehaviour
     public int maxHP;
     public int currentHP;
     public int exp_given = 5;
+    public int money_given = 2; 
     public void Start()
     {
         EncounterManager encMan = gameObject.GetComponentInParent<EncounterManager>();
@@ -24,6 +25,7 @@ public class Unit : MonoBehaviour
         {
             damage = (int)(damage + (damage * 0.2f)); // adding 20% of value for each level enemy is above base stats
             maxHP = (int)(maxHP + (maxHP * 0.2f));
+            money_given = (int)(money_given + (money_given * 0.2f)); 
         }
     }
     public bool TakeDamage(int dmg)
