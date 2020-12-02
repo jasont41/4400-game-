@@ -10,7 +10,7 @@ public enum BattleState { START, PLAYERTURN, ENEMYTURN, WON, LOST }
 public class BattleSystem : MonoBehaviour
 {
     public GameObject playerPrefab;
-
+    public int enemy_level;
     private GameObject enemyPrefab = PlayerMovement.Instance.enemyPrefab;
     public Transform playerSpawn;
     public Transform enemySpawn;
@@ -34,6 +34,10 @@ public class BattleSystem : MonoBehaviour
     
     void Start()
     {
+
+        enemy_level = PlayerPrefs.GetInt("EnemyLevel", 1); 
+        enemyTierText.text = enemy_level.ToString();
+        PlayerPrefs.DeleteKey("EnemyLevel"); 
         //  PlayerMovement.Instance.setPOS(new Vector3(-4, 0, 0)); 
         if(enemyPrefab == null)
         {
@@ -43,14 +47,16 @@ public class BattleSystem : MonoBehaviour
         state = BattleState.START;
         StartCoroutine(SetupBattle());
       //  enemyPrefab = PlayerMovement.Instance.enemyPrefab; 
-        enemyHealthBar.setMaxHealth(enemyUnit.currentHP); 
+        enemyHealthBar.setMaxHealth(enemyUnit.currentHP);
+        
     }
 
     private void Update()
     {
         PlayerMovement.Instance.setBattlePOS();
         set_equal_to_player_instance();
-        enemyHealthBar.SetHealth(enemyUnit.currentHP); 
+        enemyHealthBar.SetHealth(enemyUnit.currentHP);
+        
     }
 
     
@@ -62,9 +68,9 @@ public class BattleSystem : MonoBehaviour
         playerUnit.currentHP = PlayerMovement.Instance.current_health; // JE added. Gets players health before battle 
         GameObject enemyGo = Instantiate(enemyPrefab, enemySpawn);
         enemyUnit = enemyGo.GetComponent<Unit>();
-
+        enemyUnit.setStats(enemy_level); 
         dialogueText.text = "A " + enemyUnit.unitName + " wants to fight";
-
+        
         yield return new WaitForSeconds(2f);
         state = BattleState.PLAYERTURN;
         PlayerTurn();

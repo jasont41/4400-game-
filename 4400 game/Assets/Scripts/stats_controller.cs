@@ -41,9 +41,9 @@ public class stats_controller : MonoBehaviour
 
         canvas_dont_destroy.Instance.tier_text.text = "Tier = " + PlayerMovement.Instance.player_tier.ToString() ;
 
-        canvas_dont_destroy.Instance.exp_text.text = "PF: " + PlayerPrefs.GetInt("PlayerTier"); /*"Experience = " + PlayerMovement.Instance.player_experience.ToString() +
+        canvas_dont_destroy.Instance.exp_text.text = "PF: " + "Experience = " + PlayerMovement.Instance.player_experience.ToString() +
             "\nExperience left until next tier: " + (PlayerMovement.Instance.experienceForNextTier - PlayerMovement.Instance.player_experience).ToString();
-            */
+        canvas_dont_destroy.Instance.MoneyText.text = "$" + PlayerMovement.Instance.returnMoneyAmt(); 
         canvas_dont_destroy.Instance.attack_damage_text.text = "Attack Damage = " + PlayerMovement.Instance.attack_damage.ToString(); 
     }
 }

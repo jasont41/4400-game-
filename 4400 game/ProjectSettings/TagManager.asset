@@ -22,6 +22,7 @@ TagManager:
   - NPCDialogBox
   - NPCTextBox
   - EnemyTier
+  - MoneyText
   layers:
   - Default
   - TransparentFX

@@ -12,7 +12,7 @@ public class encounter_trigger : MonoBehaviour
     public int random_num;
     public int encounter_seed = 1;
     int minBound = 1;
-    int maxBound = 10;
+    int maxBound = 4;
     public string encounter_scene;
     //private PlayerMovement player;
     public EncounterManager encounterCont; 
@@ -26,7 +26,7 @@ public class encounter_trigger : MonoBehaviour
         random_num = UnityEngine.Random.Range(minBound, maxBound);
         if (random_num == encounter_seed && other.CompareTag("Player"))
         {
-            
+            PlayerPrefs.SetInt("EnemyLevel", encounterCont.level); 
             PlayerMovement.Instance.enemyPrefab = encounterCont.chosePrefab();
             //PlayerMovement.Instance.setPOS(transform.position);
             PlayerMovement.Instance.player_pos_before_encounter = PlayerMovement.Instance.transform.position; 

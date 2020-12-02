@@ -20,11 +20,12 @@ public class canvas_dont_destroy : MonoBehaviour
     public GameObject HealPotionIcon;
     public Text potionCount;
     public GameObject NPCdialogue;
-    public Text NPCText; 
-
+    public Text NPCText;
+    public Text MoneyText; 
     public static canvas_dont_destroy Instance { get; private set; }
     private void Awake()
     {
+        MoneyText = GameObject.FindGameObjectWithTag("MoneyText").GetComponent<Text>(); 
         HealPotionIcon = GameObject.FindGameObjectWithTag("healPotionIcon");
         if (HealPotionIcon == null) { Debug.Log("erroed out");  }
         exp_bar = GameObject.FindGameObjectWithTag("exp_bar"); 

@@ -12,15 +12,9 @@ public class Unit : MonoBehaviour
     public int currentHP;
     public int exp_given = 5;
     public int money_given = 2; 
-    public void Start()
+    public void setStats(int val)
     {
-        EncounterManager encMan = gameObject.GetComponentInParent<EncounterManager>();
-        if(encMan != null)
-            level = encMan.level;
-        else
-        {
-            level = 1; 
-        }
+        level = val; 
         for (int i = 1; i < level; i++)
         {
             damage = (int)(damage + (damage * 0.2f)); // adding 20% of value for each level enemy is above base stats
