@@ -169,7 +169,8 @@ public class BattleSystem : MonoBehaviour
             dialogueText.text = "You gained " + enemyUnit.exp_given + " experience!";
             PlayerMovement.Instance.checkLevelUP();
             //Need to print a message aboout level up and the new base damage stat and heal stat
-            PlayerMovement.Instance.addMoney(enemyUnit.money_given); 
+            PlayerMovement.Instance.addMoney(enemyUnit.money_given);
+            dialogueText.text = "You recieved $" + enemyUnit.money_given;  
             PlayerPrefs.SetString("PreviousScene", "Encounter");
             SceneManager.LoadScene(NewLevel);
             PlayerMovement.Instance.transform.position = PlayerMovement.Instance.player_pos_before_encounter;
