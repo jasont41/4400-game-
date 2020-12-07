@@ -1,0 +1,6754 @@
+fileFormatVersion: 2
+guid: f8aa3733a3d434cbda4d6858ae459531
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3037493752759961683
+    second: femaleTraderSprite_0
+  - first:
+      213: 39009631404305982
+    second: femaleTraderSprite_1
+  - first:
+      213: 3033934531604096174
+    second: femaleTraderSprite_2
+  - first:
+      213: 2667433777980753494
+    second: femaleTraderSprite_3
+  - first:
+      213: 3662675043556842270
+    second: femaleTraderSprite_4
+  - first:
+      213: -6054838182578575409
+    second: femaleTraderSprite_5
+  - first:
+      213: -3856161417368514870
+    second: femaleTraderSprite_6
+  - first:
+      213: -7603323093747624770
+    second: femaleTraderSprite_7
+  - first:
+      213: -4163325488868170581
+    second: femaleTraderSprite_8
+  - first:
+      213: -4373255421234955591
+    second: femaleTraderSprite_9
+  - first:
+      213: 8413241985070437622
+    second: femaleTraderSprite_10
+  - first:
+      213: 8195781640160786549
+    second: femaleTraderSprite_11
+  - first:
+      213: 7849736331790875946
+    second: femaleTraderSprite_12
+  - first:
+      213: 3075307908870230706
+    second: femaleTraderSprite_13
+  - first:
+      213: -1724704631776446177
+    second: femaleTraderSprite_14
+  - first:
+      213: -8120515798860751970
+    second: femaleTraderSprite_15
+  - first:
+      213: 7399622523288558501
+    second: femaleTraderSprite_16
+  - first:
+      213: -2459562982188467814
+    second: femaleTraderSprite_17
+  - first:
+      213: -7574853860027350237
+    second: femaleTraderSprite_18
+  - first:
+      213: -8062865803216946786
+    second: femaleTraderSprite_19
+  - first:
+      213: 1771816885009113361
+    second: femaleTraderSprite_20
+  - first:
+      213: 6515307878726047563
+    second: femaleTraderSprite_21
+  - first:
+      213: -2003156663345631875
+    second: femaleTraderSprite_22
+  - first:
+      213: -2928049094271827982
+    second: femaleTraderSprite_23
+  - first:
+      213: 6767353772725277514
+    second: femaleTraderSprite_24
+  - first:
+      213: -2390997372299085910
+    second: femaleTraderSprite_25
+  - first:
+      213: -6389091410469674870
+    second: femaleTraderSprite_26
+  - first:
+      213: 1340875175691333391
+    second: femaleTraderSprite_27
+  - first:
+      213: -3032482210947628399
+    second: femaleTraderSprite_28
+  - first:
+      213: -6573199486100287884
+    second: femaleTraderSprite_29
+  - first:
+      213: 2073039301743821789
+    second: femaleTraderSprite_30
+  - first:
+      213: 5466562400380816181
+    second: femaleTraderSprite_31
+  - first:
+      213: -8807684218289296140
+    second: femaleTraderSprite_32
+  - first:
+      213: -2616212948369056090
+    second: femaleTraderSprite_33
+  - first:
+      213: -15689919954093415
+    second: femaleTraderSprite_34
+  - first:
+      213: 9074287641987204510
+    second: femaleTraderSprite_35
+  - first:
+      213: 6103028009226773604
+    second: femaleTraderSprite_36
+  - first:
+      213: 8180470342302308477
+    second: femaleTraderSprite_37
+  - first:
+      213: -5676141350965962291
+    second: femaleTraderSprite_38
+  - first:
+      213: 3414015053284185622
+    second: femaleTraderSprite_39
+  - first:
+      213: 8486907773330037778
+    second: femaleTraderSprite_40
+  - first:
+      213: 2187694853849808848
+    second: femaleTraderSprite_41
+  - first:
+      213: 2140471141572873576
+    second: femaleTraderSprite_42
+  - first:
+      213: 3246924561224640853
+    second: femaleTraderSprite_43
+  - first:
+      213: -8137779781154380144
+    second: femaleTraderSprite_44
+  - first:
+      213: 140122492222474235
+    second: femaleTraderSprite_45
+  - first:
+      213: 2604427691761354169
+    second: femaleTraderSprite_46
+  - first:
+      213: 4013546411928803234
+    second: femaleTraderSprite_47
+  - first:
+      213: -1000067322614308186
+    second: femaleTraderSprite_48
+  - first:
+      213: -4734659130284699391
+    second: femaleTraderSprite_49
+  - first:
+      213: -2275783504001466823
+    second: femaleTraderSprite_50
+  - first:
+      213: 9058196633806185387
+    second: femaleTraderSprite_51
+  - first:
+      213: 3039687157327460626
+    second: femaleTraderSprite_52
+  - first:
+      213: -5932969290252730085
+    second: femaleTraderSprite_53
+  - first:
+      213: 8965140589887583466
+    second: femaleTraderSprite_54
+  - first:
+      213: -6557599740873033762
+    second: femaleTraderSprite_55
+  - first:
+      213: 8837545130770818362
+    second: femaleTraderSprite_56
+  - first:
+      213: 5108447364821233957
+    second: femaleTraderSprite_57
+  - first:
+      213: 427803486747611468
+    second: femaleTraderSprite_58
+  - first:
+      213: -9187953008382855044
+    second: femaleTraderSprite_59
+  - first:
+      213: -6922954204141080273
+    second: femaleTraderSprite_60
+  - first:
+      213: 2712406274779028515
+    second: femaleTraderSprite_61
+  - first:
+      213: 114215040752419366
+    second: femaleTraderSprite_62
+  - first:
+      213: 5138794871645287972
+    second: femaleTraderSprite_63
+  - first:
+      213: 3979610463289104440
+    second: femaleTraderSprite_64
+  - first:
+      213: -8169844466606494097
+    second: femaleTraderSprite_65
+  - first:
+      213: -4879368772994911256
+    second: femaleTraderSprite_66
+  - first:
+      213: 228238248462529207
+    second: femaleTraderSprite_67
+  - first:
+      213: -4010089972183274427
+    second: femaleTraderSprite_68
+  - first:
+      213: -9186975027820645090
+    second: femaleTraderSprite_69
+  - first:
+      213: -457992605581058049
+    second: femaleTraderSprite_70
+  - first:
+      213: -9104040083210777577
+    second: femaleTraderSprite_71
+  - first:
+      213: 5469432006531475572
+    second: femaleTraderSprite_72
+  - first:
+      213: -5462807658937622505
+    second: femaleTraderSprite_73
+  - first:
+      213: -2453455193794375685
+    second: femaleTraderSprite_74
+  - first:
+      213: -6377605380459228216
+    second: femaleTraderSprite_75
+  - first:
+      213: 8259284009556161432
+    second: femaleTraderSprite_76
+  - first:
+      213: -2723728498618887600
+    second: femaleTraderSprite_77
+  - first:
+      213: 4857709202444169160
+    second: femaleTraderSprite_78
+  - first:
+      213: -5800907929309959864
+    second: femaleTraderSprite_79
+  - first:
+      213: 3803401980025305671
+    second: femaleTraderSprite_80
+  - first:
+      213: 5738379434376017565
+    second: femaleTraderSprite_81
+  - first:
+      213: 3454565772560883473
+    second: femaleTraderSprite_82
+  - first:
+      213: -1240000323095607454
+    second: femaleTraderSprite_83
+  - first:
+      213: -7513018323132849994
+    second: femaleTraderSprite_84
+  - first:
+      213: -8895881940451549747
+    second: femaleTraderSprite_85
+  - first:
+      213: -4302615185930268162
+    second: femaleTraderSprite_86
+  - first:
+      213: -4268578608120356140
+    second: femaleTraderSprite_87
+  - first:
+      213: -95969624751342011
+    second: femaleTraderSprite_88
+  - first:
+      213: -6159494581769521684
+    second: femaleTraderSprite_89
+  - first:
+      213: 8185865691269544406
+    second: femaleTraderSprite_90
+  - first:
+      213: 3167496439935421217
+    second: femaleTraderSprite_91
+  - first:
+      213: -7146527241496466237
+    second: femaleTraderSprite_92
+  - first:
+      213: 6787585125129509759
+    second: femaleTraderSprite_93
+  - first:
+      213: 7324035596435894405
+    second: femaleTraderSprite_94
+  - first:
+      213: -8272174556319714172
+    second: femaleTraderSprite_95
+  - first:
+      213: -1864743508276597630
+    second: femaleTraderSprite_96
+  - first:
+      213: 2511080525450709860
+    second: femaleTraderSprite_97
+  - first:
+      213: -7565341315918400884
+    second: femaleTraderSprite_98
+  - first:
+      213: 1861072327359668099
+    second: femaleTraderSprite_99
+  - first:
+      213: -1614741810668660703
+    second: femaleTraderSprite_100
+  - first:
+      213: 2121084699650885264
+    second: femaleTraderSprite_101
+  - first:
+      213: 4113521250033088268
+    second: femaleTraderSprite_102
+  - first:
+      213: 1382894871167269460
+    second: femaleTraderSprite_103
+  - first:
+      213: 2693854809672840245
+    second: femaleTraderSprite_104
+  - first:
+      213: -7649268562065916990
+    second: femaleTraderSprite_105
+  - first:
+      213: 1807429615275360902
+    second: femaleTraderSprite_106
+  - first:
+      213: -3422226915567562323
+    second: femaleTraderSprite_107
+  - first:
+      213: -2566857273661638245
+    second: femaleTraderSprite_108
+  - first:
+      213: -2164212948029289587
+    second: femaleTraderSprite_109
+  - first:
+      213: 5724681453397378092
+    second: femaleTraderSprite_110
+  - first:
+      213: -7436916228138038077
+    second: femaleTraderSprite_111
+  - first:
+      213: 7800145007800814934
+    second: femaleTraderSprite_112
+  - first:
+      213: -8924410863598416987
+    second: femaleTraderSprite_113
+  - first:
+      213: -940996483121365371
+    second: femaleTraderSprite_114
+  - first:
+      213: 648752153367449907
+    second: femaleTraderSprite_115
+  - first:
+      213: 413930586056557136
+    second: femaleTraderSprite_116
+  - first:
+      213: 4705990604415330694
+    second: femaleTraderSprite_117
+  - first:
+      213: -5137619154723417521
+    second: femaleTraderSprite_118
+  - first:
+      213: 6513687115956173581
+    second: femaleTraderSprite_119
+  - first:
+      213: -8417575386324243841
+    second: femaleTraderSprite_120
+  - first:
+      213: 6254938185826291373
+    second: femaleTraderSprite_121
+  - first:
+      213: 8769715417887191196
+    second: femaleTraderSprite_122
+  - first:
+      213: -4007799242763054453
+    second: femaleTraderSprite_123
+  - first:
+      213: 4766997459819165480
+    second: femaleTraderSprite_124
+  - first:
+      213: -156494396929637402
+    second: femaleTraderSprite_125
+  - first:
+      213: -3233687257387815264
+    second: femaleTraderSprite_126
+  - first:
+      213: 7093478102622598870
+    second: femaleTraderSprite_127
+  - first:
+      213: 6906352342311330532
+    second: femaleTraderSprite_128
+  - first:
+      213: 1147676417749754402
+    second: femaleTraderSprite_129
+  - first:
+      213: 2720954322055983635
+    second: femaleTraderSprite_130
+  - first:
+      213: -1189568625206081846
+    second: femaleTraderSprite_131
+  - first:
+      213: 299056580395969453
+    second: femaleTraderSprite_132
+  - first:
+      213: 8346574836310586069
+    second: femaleTraderSprite_133
+  - first:
+      213: -2367533101852325253
+    second: femaleTraderSprite_134
+  - first:
+      213: 7187366004409745648
+    second: femaleTraderSprite_135
+  - first:
+      213: -926676861234554168
+    second: femaleTraderSprite_136
+  - first:
+      213: -2376490453918516441
+    second: femaleTraderSprite_137
+  - first:
+      213: 2672892776608887190
+    second: femaleTraderSprite_138
+  - first:
+      213: 4561256764301595428
+    second: femaleTraderSprite_139
+  - first:
+      213: -6367600877734669521
+    second: femaleTraderSprite_140
+  - first:
+      213: 8266780286581852554
+    second: femaleTraderSprite_141
+  - first:
+      213: 8227815756119069590
+    second: femaleTraderSprite_142
+  - first:
+      213: -4319843346225646875
+    second: femaleTraderSprite_143
+  - first:
+      213: -2842892642690776735
+    second: femaleTraderSprite_144
+  - first:
+      213: 7295765685078950194
+    second: femaleTraderSprite_145
+  - first:
+      213: 4449469481248251050
+    second: femaleTraderSprite_146
+  - first:
+      213: 6164404349619557011
+    second: femaleTraderSprite_147
+  - first:
+      213: -4407547728253145
+    second: femaleTraderSprite_148
+  - first:
+      213: -1558069916294132090
+    second: femaleTraderSprite_149
+  - first:
+      213: -6501196125023492407
+    second: femaleTraderSprite_150
+  - first:
+      213: 8769495612223378246
+    second: femaleTraderSprite_151
+  - first:
+      213: -5355201499662627350
+    second: femaleTraderSprite_152
+  - first:
+      213: -3711734510875890321
+    second: femaleTraderSprite_153
+  - first:
+      213: -8356300087447164737
+    second: femaleTraderSprite_154
+  - first:
+      213: 1248010966363853078
+    second: femaleTraderSprite_155
+  - first:
+      213: 4088228203547954325
+    second: femaleTraderSprite_156
+  - first:
+      213: -7898495227051423912
+    second: femaleTraderSprite_157
+  - first:
+      213: 7526090794333898951
+    second: femaleTraderSprite_158
+  - first:
+      213: 949155881502619885
+    second: femaleTraderSprite_159
+  - first:
+      213: -5712238721474068065
+    second: femaleTraderSprite_160
+  - first:
+      213: 8076659143250036312
+    second: femaleTraderSprite_161
+  - first:
+      213: 7559384649695990239
+    second: femaleTraderSprite_162
+  - first:
+      213: -7274740778010733157
+    second: femaleTraderSprite_163
+  - first:
+      213: -5486264199596750138
+    second: femaleTraderSprite_164
+  - first:
+      213: 8930517992399792589
+    second: femaleTraderSprite_165
+  - first:
+      213: -5916697526026814506
+    second: femaleTraderSprite_166
+  - first:
+      213: -8507275155224598214
+    second: femaleTraderSprite_167
+  - first:
+      213: -7930665582252250382
+    second: femaleTraderSprite_168
+  - first:
+      213: 6586101909437606986
+    second: femaleTraderSprite_169
+  - first:
+      213: -6334010846432972672
+    second: femaleTraderSprite_170
+  - first:
+      213: -8897996855278816694
+    second: femaleTraderSprite_171
+  - first:
+      213: -5667503362666166821
+    second: femaleTraderSprite_172
+  - first:
+      213: 7288794840375746562
+    second: femaleTraderSprite_173
+  - first:
+      213: 1270866753055468685
+    second: femaleTraderSprite_174
+  - first:
+      213: 1196810758636884516
+    second: femaleTraderSprite_175
+  - first:
+      213: 8263952410636683460
+    second: femaleTraderSprite_176
+  - first:
+      213: -8949444884060394579
+    second: femaleTraderSprite_177
+  - first:
+      213: 6710912225277561750
+    second: femaleTraderSprite_178
+  - first:
+      213: 4988155451797637191
+    second: femaleTraderSprite_179
+  - first:
+      213: -7578887303398340148
+    second: femaleTraderSprite_180
+  - first:
+      213: 923656333716257928
+    second: femaleTraderSprite_181
+  - first:
+      213: 3678488668382897386
+    second: femaleTraderSprite_182
+  - first:
+      213: -597425719981827466
+    second: femaleTraderSprite_183
+  - first:
+      213: 3501453305965885144
+    second: femaleTraderSprite_184
+  - first:
+      213: 7644929869729175245
+    second: femaleTraderSprite_185
+  - first:
+      213: -3266226896777914541
+    second: femaleTraderSprite_186
+  - first:
+      213: 5504717556871145736
+    second: femaleTraderSprite_187
+  - first:
+      213: 6546560841359329942
+    second: femaleTraderSprite_188
+  - first:
+      213: 1743451447082827699
+    second: femaleTraderSprite_189
+  - first:
+      213: -1405987986410225503
+    second: femaleTraderSprite_190
+  - first:
+      213: -6626246400809601290
+    second: femaleTraderSprite_191
+  - first:
+      213: -9013525658660204751
+    second: femaleTraderSprite_192
+  - first:
+      213: 5247911570206201425
+    second: femaleTraderSprite_193
+  - first:
+      213: 6280356557472464182
+    second: femaleTraderSprite_194
+  - first:
+      213: 625388612086393271
+    second: femaleTraderSprite_195
+  - first:
+      213: -826113478361727311
+    second: femaleTraderSprite_196
+  - first:
+      213: 2314607666738525663
+    second: femaleTraderSprite_197
+  - first:
+      213: 6194342776848288268
+    second: femaleTraderSprite_198
+  - first:
+      213: 2995308955062531809
+    second: femaleTraderSprite_199
+  - first:
+      213: -604756928068974536
+    second: femaleTraderSprite_200
+  - first:
+      213: 3355732725772873560
+    second: femaleTraderSprite_201
+  - first:
+      213: -1484996946408576250
+    second: femaleTraderSprite_202
+  - first:
+      213: 4406716862823933043
+    second: femaleTraderSprite_203
+  - first:
+      213: 8526319559284164286
+    second: femaleTraderSprite_204
+  - first:
+      213: 335457169448700674
+    second: femaleTraderSprite_205
+  - first:
+      213: 1141918686449174302
+    second: femaleTraderSprite_206
+  - first:
+      213: 2937960894217101340
+    second: femaleTraderSprite_207
+  - first:
+      213: -1976774531070493519
+    second: femaleTraderSprite_208
+  - first:
+      213: -7238675082438095740
+    second: femaleTraderSprite_209
+  - first:
+      213: -5957688555956002081
+    second: femaleTraderSprite_210
+  - first:
+      213: 5640541205565277526
+    second: femaleTraderSprite_211
+  - first:
+      213: -598216384226185718
+    second: femaleTraderSprite_212
+  - first:
+      213: 315319953599677328
+    second: femaleTraderSprite_213
+  - first:
+      213: -2333210562761375269
+    second: femaleTraderSprite_214
+  - first:
+      213: -3298139647553504214
+    second: femaleTraderSprite_215
+  - first:
+      213: 5483277812151921882
+    second: femaleTraderSprite_216
+  - first:
+      213: 3782314789634587435
+    second: femaleTraderSprite_217
+  - first:
+      213: 2680599262986684663
+    second: femaleTraderSprite_218
+  - first:
+      213: -1422970458908520141
+    second: femaleTraderSprite_219
+  - first:
+      213: -845814153721063873
+    second: femaleTraderSprite_220
+  - first:
+      213: -3414359036663266942
+    second: femaleTraderSprite_221
+  - first:
+      213: -4279819835553297831
+    second: femaleTraderSprite_222
+  - first:
+      213: -1453416473498440020
+    second: femaleTraderSprite_223
+  - first:
+      213: -8034455748823934384
+    second: femaleTraderSprite_224
+  - first:
+      213: -186809960438300978
+    second: femaleTraderSprite_225
+  - first:
+      213: -5115602743468911556
+    second: femaleTraderSprite_226
+  - first:
+      213: 5657585803195786452
+    second: femaleTraderSprite_227
+  - first:
+      213: 8234241275010206950
+    second: femaleTraderSprite_228
+  - first:
+      213: -749761238984477142
+    second: femaleTraderSprite_229
+  - first:
+      213: -1884221637261130351
+    second: femaleTraderSprite_230
+  - first:
+      213: -8544749755113443314
+    second: femaleTraderSprite_231
+  - first:
+      213: -3490390717095463143
+    second: femaleTraderSprite_232
+  - first:
+      213: -1895553436423128292
+    second: femaleTraderSprite_233
+  - first:
+      213: -2671120305283028812
+    second: femaleTraderSprite_234
+  - first:
+      213: -6456985359522642464
+    second: femaleTraderSprite_235
+  - first:
+      213: -2318435164399976611
+    second: femaleTraderSprite_236
+  - first:
+      213: -4536391052758551919
+    second: femaleTraderSprite_237
+  - first:
+      213: -8100728224876987593
+    second: femaleTraderSprite_238
+  - first:
+      213: -7320309424989644525
+    second: femaleTraderSprite_239
+  - first:
+      213: 6596695513482922529
+    second: femaleTraderSprite_240
+  - first:
+      213: 3157177932896918659
+    second: femaleTraderSprite_241
+  - first:
+      213: -1384442112521854597
+    second: femaleTraderSprite_242
+  - first:
+      213: -1193224038014323741
+    second: femaleTraderSprite_243
+  - first:
+      213: 6681142218375830928
+    second: femaleTraderSprite_244
+  - first:
+      213: -6840316280766580340
+    second: femaleTraderSprite_245
+  - first:
+      213: 5086928004561685568
+    second: femaleTraderSprite_246
+  - first:
+      213: 9025051059578644971
+    second: femaleTraderSprite_247
+  - first:
+      213: 1112399364398368869
+    second: femaleTraderSprite_248
+  - first:
+      213: -8102168162477392874
+    second: femaleTraderSprite_249
+  - first:
+      213: -7898036129744758599
+    second: femaleTraderSprite_250
+  - first:
+      213: 9193098693817631092
+    second: femaleTraderSprite_251
+  - first:
+      213: 3592060052354848289
+    second: femaleTraderSprite_252
+  - first:
+      213: 7500621332332358379
+    second: femaleTraderSprite_253
+  - first:
+      213: 3666929058902076481
+    second: femaleTraderSprite_254
+  - first:
+      213: 8654884175536321779
+    second: femaleTraderSprite_255
+  - first:
+      213: 2970963816105336244
+    second: femaleTraderSprite_256
+  - first:
+      213: -5756838095745383083
+    second: femaleTraderSprite_257
+  - first:
+      213: 7391089386965224507
+    second: femaleTraderSprite_258
+  - first:
+      213: 8801100547608444875
+    second: femaleTraderSprite_259
+  - first:
+      213: 2059921701387587664
+    second: femaleTraderSprite_260
+  - first:
+      213: -883564354005486207
+    second: femaleTraderSprite_261
+  - first:
+      213: 2023942757515120378
+    second: femaleTraderSprite_262
+  - first:
+      213: -8841013139802428452
+    second: femaleTraderSprite_263
+  - first:
+      213: -3728987322940371125
+    second: femaleTraderSprite_264
+  - first:
+      213: 7650402631023222795
+    second: femaleTraderSprite_265
+  - first:
+      213: 4610823186164836572
+    second: femaleTraderSprite_266
+  - first:
+      213: 7406864291872003900
+    second: femaleTraderSprite_267
+  - first:
+      213: -92731092391472195
+    second: femaleTraderSprite_268
+  - first:
+      213: 8046952507209167286
+    second: femaleTraderSprite_269
+  - first:
+      213: -3389809205676280549
+    second: femaleTraderSprite_270
+  - first:
+      213: 2227560020098687652
+    second: femaleTraderSprite_271
+  - first:
+      213: -7656757783120448446
+    second: femaleTraderSprite_272
+  - first:
+      213: 3837212632944170705
+    second: femaleTraderSprite_273
+  - first:
+      213: -2061568902767740906
+    second: femaleTraderSprite_274
+  - first:
+      213: 11131971113859608
+    second: femaleTraderSprite_275
+  - first:
+      213: -1444671123462716504
+    second: femaleTraderSprite_276
+  - first:
+      213: 4177961375452432791
+    second: femaleTraderSprite_277
+  - first:
+      213: 8091924288372952916
+    second: femaleTraderSprite_278
+  - first:
+      213: 2934767210244659668
+    second: femaleTraderSprite_279
+  - first:
+      213: -2844625961338762733
+    second: femaleTraderSprite_280
+  - first:
+      213: 8766159405020685025
+    second: femaleTraderSprite_281
+  - first:
+      213: -2268876381756370003
+    second: femaleTraderSprite_282
+  - first:
+      213: -8670062784366801662
+    second: femaleTraderSprite_283
+  - first:
+      213: 6042171989073912637
+    second: femaleTraderSprite_284
+  - first:
+      213: 4770571398990166977
+    second: femaleTraderSprite_285
+  - first:
+      213: 1668787318362258583
+    second: femaleTraderSprite_286
+  - first:
+      213: 490147281262660598
+    second: femaleTraderSprite_287
+  - first:
+      213: 3591425757701784046
+    second: femaleTraderSprite_288
+  - first:
+      213: 7425507849312074754
+    second: femaleTraderSprite_289
+  - first:
+      213: -1324217503839197805
+    second: femaleTraderSprite_290
+  - first:
+      213: 1011104803253637531
+    second: femaleTraderSprite_291
+  - first:
+      213: -472983106019125260
+    second: femaleTraderSprite_292
+  - first:
+      213: -868611420293887508
+    second: femaleTraderSprite_293
+  - first:
+      213: -5783309515081393057
+    second: femaleTraderSprite_294
+  - first:
+      213: -7357099291963605898
+    second: femaleTraderSprite_295
+  - first:
+      213: -6761584436333222706
+    second: femaleTraderSprite_296
+  - first:
+      213: -6998833909642485539
+    second: femaleTraderSprite_297
+  - first:
+      213: -3325160576626714273
+    second: femaleTraderSprite_298
+  - first:
+      213: 8487632508193993250
+    second: femaleTraderSprite_299
+  - first:
+      213: -444320397782493044
+    second: femaleTraderSprite_300
+  - first:
+      213: -1104986784994940535
+    second: femaleTraderSprite_301
+  - first:
+      213: 375109167001852771
+    second: femaleTraderSprite_302
+  - first:
+      213: -7120325512810634790
+    second: femaleTraderSprite_303
+  - first:
+      213: 7559676085897678075
+    second: femaleTraderSprite_304
+  - first:
+      213: -2712649949647720555
+    second: femaleTraderSprite_305
+  - first:
+      213: 2187911321446272855
+    second: femaleTraderSprite_306
+  - first:
+      213: -9154570468708601196
+    second: femaleTraderSprite_307
+  - first:
+      213: -1262045102141629945
+    second: femaleTraderSprite_308
+  - first:
+      213: 88898572442436979
+    second: femaleTraderSprite_309
+  - first:
+      213: 4284983187016497015
+    second: femaleTraderSprite_310
+  - first:
+      213: -7224627560381054107
+    second: femaleTraderSprite_311
+  - first:
+      213: -5831961955246758568
+    second: femaleTraderSprite_312
+  - first:
+      213: -6464510143599302502
+    second: femaleTraderSprite_313
+  - first:
+      213: 6527021239669668190
+    second: femaleTraderSprite_314
+  - first:
+      213: -1921230197414335565
+    second: femaleTraderSprite_315
+  - first:
+      213: 3017906894734187661
+    second: femaleTraderSprite_316
+  - first:
+      213: 300020394981991474
+    second: femaleTraderSprite_317
+  - first:
+      213: 1592519437013578957
+    second: femaleTraderSprite_318
+  - first:
+      213: 4714446546677249137
+    second: femaleTraderSprite_319
+  - first:
+      213: -4997655299027872005
+    second: femaleTraderSprite_320
+  - first:
+      213: -2883654391207461823
+    second: femaleTraderSprite_321
+  - first:
+      213: 5089884720773115252
+    second: femaleTraderSprite_322
+  - first:
+      213: -5305513685993940171
+    second: femaleTraderSprite_323
+  - first:
+      213: 5966845420468079050
+    second: femaleTraderSprite_324
+  - first:
+      213: -8584903602486755343
+    second: femaleTraderSprite_325
+  - first:
+      213: -515728946936447786
+    second: femaleTraderSprite_326
+  - first:
+      213: -5569527368017938050
+    second: femaleTraderSprite_327
+  - first:
+      213: 78495243629121276
+    second: femaleTraderSprite_328
+  - first:
+      213: -2917082461014171903
+    second: femaleTraderSprite_329
+  - first:
+      213: 4409119062145687692
+    second: femaleTraderSprite_330
+  - first:
+      213: 479880012529014090
+    second: femaleTraderSprite_331
+  - first:
+      213: -4823869603334653184
+    second: femaleTraderSprite_332
+  - first:
+      213: 3769396820160322970
+    second: femaleTraderSprite_333
+  - first:
+      213: 8859049069588472645
+    second: femaleTraderSprite_334
+  - first:
+      213: 4953955566885329165
+    second: femaleTraderSprite_335
+  - first:
+      213: 3721027214822083266
+    second: femaleTraderSprite_336
+  - first:
+      213: -2789059926159307304
+    second: femaleTraderSprite_337
+  - first:
+      213: 5245436552745954042
+    second: femaleTraderSprite_338
+  - first:
+      213: 6693030446775006860
+    second: femaleTraderSprite_339
+  - first:
+      213: 7221073393029163417
+    second: femaleTraderSprite_340
+  - first:
+      213: 1495256447480504958
+    second: femaleTraderSprite_341
+  - first:
+      213: 874178565580093013
+    second: femaleTraderSprite_342
+  - first:
+      213: -3390359550002947434
+    second: femaleTraderSprite_343
+  - first:
+      213: -68989319088722661
+    second: femaleTraderSprite_344
+  - first:
+      213: -3215820141512802087
+    second: femaleTraderSprite_345
+  - first:
+      213: -2690617778375870355
+    second: femaleTraderSprite_346
+  - first:
+      213: -7181263943188493131
+    second: femaleTraderSprite_347
+  - first:
+      213: 7723731777284352150
+    second: femaleTraderSprite_348
+  - first:
+      213: -3343114126355516805
+    second: femaleTraderSprite_349
+  - first:
+      213: -3992724051902072847
+    second: femaleTraderSprite_350
+  - first:
+      213: 5523479641398603164
+    second: femaleTraderSprite_351
+  - first:
+      213: 2829559635728638520
+    second: femaleTraderSprite_352
+  - first:
+      213: 5439554307768909293
+    second: femaleTraderSprite_353
+  - first:
+      213: 2716226786867922307
+    second: femaleTraderSprite_354
+  - first:
+      213: 803493040363140647
+    second: femaleTraderSprite_355
+  - first:
+      213: 2896768795602629176
+    second: femaleTraderSprite_0
+  - first:
+      213: -6532090635354367609
+    second: femaleTraderSprite_1
+  - first:
+      213: -7902780184404346014
+    second: femaleTraderSprite_2
+  - first:
+      213: 6513105816245584853
+    second: femaleTraderSprite_3
+  - first:
+      213: 669568647347616716
+    second: femaleTraderSprite_4
+  - first:
+      213: 971841638182955819
+    second: femaleTraderSprite_5
+  - first:
+      213: 8000021066836633217
+    second: femaleTraderSprite_6
+  - first:
+      213: 8846315818157730699
+    second: femaleTraderSprite_7
+  - first:
+      213: -6705723066485396607
+    second: femaleTraderSprite_8
+  - first:
+      213: 1271609697657826968
+    second: femaleTraderSprite_9
+  - first:
+      213: -8727404513790590408
+    second: femaleTraderSprite_10
+  - first:
+      213: 6243630530756666086
+    second: femaleTraderSprite_11
+  - first:
+      213: 6971027343661790107
+    second: femaleTraderSprite_12
+  - first:
+      213: 2019396961678367409
+    second: femaleTraderSprite_13
+  - first:
+      213: 5639031907609860992
+    second: femaleTraderSprite_14
+  - first:
+      213: -5777935775969859656
+    second: femaleTraderSprite_15
+  - first:
+      213: 3331049929340796122
+    second: femaleTraderSprite_16
+  - first:
+      213: 998761643150126806
+    second: femaleTraderSprite_17
+  - first:
+      213: 298459123448147157
+    second: femaleTraderSprite_18
+  - first:
+      213: -153720803950170913
+    second: femaleTraderSprite_19
+  - first:
+      213: -3365183746205031764
+    second: femaleTraderSprite_20
+  - first:
+      213: 3412485100503683865
+    second: femaleTraderSprite_21
+  - first:
+      213: -5466713626765682685
+    second: femaleTraderSprite_22
+  - first:
+      213: -8906686359773095443
+    second: femaleTraderSprite_23
+  - first:
+      213: -3797456929399320750
+    second: femaleTraderSprite_24
+  - first:
+      213: -5598569517512606335
+    second: femaleTraderSprite_25
+  - first:
+      213: 7135452034162729078
+    second: femaleTraderSprite_26
+  - first:
+      213: -3377408623113433633
+    second: femaleTraderSprite_27
+  - first:
+      213: 8015908705453065811
+    second: femaleTraderSprite_28
+  - first:
+      213: -8852971351306846977
+    second: femaleTraderSprite_29
+  - first:
+      213: 6734532613255029929
+    second: femaleTraderSprite_30
+  - first:
+      213: 2786207431378890903
+    second: femaleTraderSprite_31
+  - first:
+      213: -4016134836172564337
+    second: femaleTraderSprite_32
+  - first:
+      213: 8297863694002459212
+    second: femaleTraderSprite_33
+  - first:
+      213: -8455485324992146741
+    second: femaleTraderSprite_34
+  - first:
+      213: -7186003003008343491
+    second: femaleTraderSprite_35
+  - first:
+      213: 529501978170407190
+    second: femaleTraderSprite_36
+  - first:
+      213: 5609725956134617997
+    second: femaleTraderSprite_37
+  - first:
+      213: -7614852116585742361
+    second: femaleTraderSprite_38
+  - first:
+      213: 9129173469397639910
+    second: femaleTraderSprite_39
+  - first:
+      213: 7300517321313372770
+    second: femaleTraderSprite_40
+  - first:
+      213: 2829035453409146656
+    second: femaleTraderSprite_41
+  - first:
+      213: 1687433974245012118
+    second: femaleTraderSprite_42
+  - first:
+      213: 429241968884303123
+    second: femaleTraderSprite_43
+  - first:
+      213: 1029699212469457392
+    second: femaleTraderSprite_44
+  - first:
+      213: 8617912771883855254
+    second: femaleTraderSprite_45
+  - first:
+      213: -4879692964221960487
+    second: femaleTraderSprite_46
+  - first:
+      213: -5391527495630573434
+    second: femaleTraderSprite_47
+  - first:
+      213: 2854519250938357088
+    second: femaleTraderSprite_48
+  - first:
+      213: -3426450260669822723
+    second: femaleTraderSprite_49
+  - first:
+      213: -3084993892224063798
+    second: femaleTraderSprite_50
+  - first:
+      213: 3328272863837862071
+    second: femaleTraderSprite_51
+  - first:
+      213: -5768066268598292335
+    second: femaleTraderSprite_52
+  - first:
+      213: 2425567494945712390
+    second: femaleTraderSprite_53
+  - first:
+      213: 3672103711030192142
+    second: femaleTraderSprite_54
+  - first:
+      213: -4570573563010456129
+    second: femaleTraderSprite_55
+  - first:
+      213: -7647833286031593290
+    second: femaleTraderSprite_56
+  - first:
+      213: 2166672846387414280
+    second: femaleTraderSprite_57
+  - first:
+      213: -9007287662964938327
+    second: femaleTraderSprite_58
+  - first:
+      213: 3126954332978180985
+    second: femaleTraderSprite_59
+  - first:
+      213: 551628073539448823
+    second: femaleTraderSprite_60
+  - first:
+      213: -8468210240528837570
+    second: femaleTraderSprite_61
+  - first:
+      213: 1519981076101225904
+    second: femaleTraderSprite_62
+  - first:
+      213: 3683204683871853578
+    second: femaleTraderSprite_63
+  - first:
+      213: 5759679040007875062
+    second: femaleTraderSprite_64
+  - first:
+      213: 5763005724769291165
+    second: femaleTraderSprite_65
+  - first:
+      213: -7545546613218873742
+    second: femaleTraderSprite_66
+  - first:
+      213: 4065483491006719575
+    second: femaleTraderSprite_67
+  - first:
+      213: 4329046294914945790
+    second: femaleTraderSprite_68
+  - first:
+      213: 4068278306506899750
+    second: femaleTraderSprite_69
+  - first:
+      213: -772717197663864845
+    second: femaleTraderSprite_70
+  - first:
+      213: 2224011339604860809
+    second: femaleTraderSprite_71
+  - first:
+      213: 7223656827284015304
+    second: femaleTraderSprite_72
+  - first:
+      213: -1520570844539317705
+    second: femaleTraderSprite_73
+  - first:
+      213: 978263895417519096
+    second: femaleTraderSprite_74
+  - first:
+      213: 1578658223029532042
+    second: femaleTraderSprite_75
+  - first:
+      213: 207266933261469740
+    second: femaleTraderSprite_76
+  - first:
+      213: 565675231922079009
+    second: femaleTraderSprite_77
+  - first:
+      213: -7599671502339597417
+    second: femaleTraderSprite_78
+  - first:
+      213: -5669652654298340266
+    second: femaleTraderSprite_79
+  - first:
+      213: -95335620291246871
+    second: femaleTraderSprite_80
+  - first:
+      213: -7071047709994067029
+    second: femaleTraderSprite_81
+  - first:
+      213: -1412585415303258561
+    second: femaleTraderSprite_82
+  - first:
+      213: 3120113904354323686
+    second: femaleTraderSprite_83
+  - first:
+      213: -4024804994690410460
+    second: femaleTraderSprite_84
+  - first:
+      213: -2046631857616541794
+    second: femaleTraderSprite_85
+  - first:
+      213: 1457980705299357995
+    second: femaleTraderSprite_86
+  - first:
+      213: 6435121678602909191
+    second: femaleTraderSprite_87
+  - first:
+      213: -6278755900252958212
+    second: femaleTraderSprite_88
+  - first:
+      213: 8630147808661940146
+    second: femaleTraderSprite_89
+  - first:
+      213: -6019145994212320879
+    second: femaleTraderSprite_90
+  - first:
+      213: -7165717920678197401
+    second: femaleTraderSprite_91
+  - first:
+      213: -3838299405355715401
+    second: femaleTraderSprite_92
+  - first:
+      213: -5168377154748652802
+    second: femaleTraderSprite_93
+  - first:
+      213: -6173763414534809770
+    second: femaleTraderSprite_94
+  - first:
+      213: 786860284397583450
+    second: femaleTraderSprite_95
+  - first:
+      213: 4194861102569593390
+    second: femaleTraderSprite_96
+  - first:
+      213: -9092173245968892757
+    second: femaleTraderSprite_97
+  - first:
+      213: -1349378482441073207
+    second: femaleTraderSprite_98
+  - first:
+      213: 3769213869481743072
+    second: femaleTraderSprite_99
+  - first:
+      213: -2517392376201700313
+    second: femaleTraderSprite_100
+  - first:
+      213: 7007729326442557804
+    second: femaleTraderSprite_101
+  - first:
+      213: -8436634144113282608
+    second: femaleTraderSprite_102
+  - first:
+      213: -4839663437380065451
+    second: femaleTraderSprite_103
+  - first:
+      213: -3756249100209420461
+    second: femaleTraderSprite_104
+  - first:
+      213: -1231171829104187290
+    second: femaleTraderSprite_105
+  - first:
+      213: -1916182038928119405
+    second: femaleTraderSprite_106
+  - first:
+      213: 5748007158676440811
+    second: femaleTraderSprite_107
+  - first:
+      213: -479890920600789386
+    second: femaleTraderSprite_108
+  - first:
+      213: 2005166638360067720
+    second: femaleTraderSprite_109
+  - first:
+      213: 8599071720319460377
+    second: femaleTraderSprite_110
+  - first:
+      213: 1984602788009912529
+    second: femaleTraderSprite_111
+  - first:
+      213: -3635661783728601851
+    second: femaleTraderSprite_112
+  - first:
+      213: 189727682342611599
+    second: femaleTraderSprite_113
+  - first:
+      213: -5338169542420221600
+    second: femaleTraderSprite_114
+  - first:
+      213: 3187430393556149338
+    second: femaleTraderSprite_115
+  - first:
+      213: 9112281665520377296
+    second: femaleTraderSprite_116
+  - first:
+      213: -4704460039833243646
+    second: femaleTraderSprite_117
+  - first:
+      213: 6638356567148247103
+    second: femaleTraderSprite_118
+  - first:
+      213: 2076958571312396760
+    second: femaleTraderSprite_119
+  - first:
+      213: 557017712044157730
+    second: femaleTraderSprite_120
+  - first:
+      213: 9221808091144564568
+    second: femaleTraderSprite_121
+  - first:
+      213: -8188271813455004740
+    second: femaleTraderSprite_122
+  - first:
+      213: 226525471657997795
+    second: femaleTraderSprite_123
+  - first:
+      213: -2878320783432359966
+    second: femaleTraderSprite_124
+  - first:
+      213: -5831603997566549271
+    second: femaleTraderSprite_125
+  - first:
+      213: -2402504908849566681
+    second: femaleTraderSprite_126
+  - first:
+      213: 8239610246973307715
+    second: femaleTraderSprite_127
+  - first:
+      213: -1175614019236276743
+    second: femaleTraderSprite_128
+  - first:
+      213: -9088329805035388518
+    second: femaleTraderSprite_129
+  - first:
+      213: 1018651009025413422
+    second: femaleTraderSprite_130
+  - first:
+      213: -5411472194772092868
+    second: femaleTraderSprite_131
+  - first:
+      213: -1117205803204991360
+    second: femaleTraderSprite_132
+  - first:
+      213: 9175247193859200882
+    second: femaleTraderSprite_133
+  - first:
+      213: -4436255344200613025
+    second: femaleTraderSprite_134
+  - first:
+      213: -5283149154550619634
+    second: femaleTraderSprite_135
+  - first:
+      213: 292779764507390289
+    second: femaleTraderSprite_136
+  - first:
+      213: -3535984739258346273
+    second: femaleTraderSprite_137
+  - first:
+      213: 2282119049396606287
+    second: femaleTraderSprite_138
+  - first:
+      213: 7640628831813632188
+    second: femaleTraderSprite_139
+  - first:
+      213: 4846984359125191286
+    second: femaleTraderSprite_140
+  - first:
+      213: 2607668653471430651
+    second: femaleTraderSprite_141
+  - first:
+      213: -1705562835379808000
+    second: femaleTraderSprite_142
+  - first:
+      213: -5568314403280254039
+    second: femaleTraderSprite_143
+  - first:
+      213: 1860365780038570129
+    second: femaleTraderSprite_144
+  - first:
+      213: -8883737394478287899
+    second: femaleTraderSprite_145
+  - first:
+      213: 6457449802879791185
+    second: femaleTraderSprite_146
+  - first:
+      213: 1296927663213048086
+    second: femaleTraderSprite_147
+  - first:
+      213: 7242689979129128946
+    second: femaleTraderSprite_148
+  - first:
+      213: -5066646834425604455
+    second: femaleTraderSprite_149
+  - first:
+      213: 4140808663701646221
+    second: femaleTraderSprite_150
+  - first:
+      213: 8421209748776799427
+    second: femaleTraderSprite_151
+  - first:
+      213: -1643338278801600703
+    second: femaleTraderSprite_152
+  - first:
+      213: -5805252415663694506
+    second: femaleTraderSprite_153
+  - first:
+      213: -2962249911543712868
+    second: femaleTraderSprite_154
+  - first:
+      213: -7510750472112350155
+    second: femaleTraderSprite_155
+  - first:
+      213: 6697341918218824093
+    second: femaleTraderSprite_156
+  - first:
+      213: -6069668855936813575
+    second: femaleTraderSprite_157
+  - first:
+      213: 7907261325861645749
+    second: femaleTraderSprite_158
+  - first:
+      213: -1555576680352963450
+    second: femaleTraderSprite_159
+  - first:
+      213: -5616428890348297615
+    second: femaleTraderSprite_160
+  - first:
+      213: -7280386176887986371
+    second: femaleTraderSprite_161
+  - first:
+      213: 3228132021613209713
+    second: femaleTraderSprite_162
+  - first:
+      213: 5299363018437651406
+    second: femaleTraderSprite_163
+  - first:
+      213: -6707828466725562203
+    second: femaleTraderSprite_164
+  - first:
+      213: 5970863161726380911
+    second: femaleTraderSprite_165
+  - first:
+      213: 957885662637378165
+    second: femaleTraderSprite_166
+  - first:
+      213: -6305143513220686838
+    second: femaleTraderSprite_167
+  - first:
+      213: 6676844398772778307
+    second: femaleTraderSprite_168
+  - first:
+      213: 5209749907046603574
+    second: femaleTraderSprite_169
+  - first:
+      213: 6090975527372866260
+    second: femaleTraderSprite_170
+  - first:
+      213: -8508244801224587988
+    second: femaleTraderSprite_171
+  - first:
+      213: 5736590552026454778
+    second: femaleTraderSprite_172
+  - first:
+      213: -8045584517479303612
+    second: femaleTraderSprite_173
+  - first:
+      213: 1923031807279290806
+    second: femaleTraderSprite_174
+  - first:
+      213: 6672282581278599369
+    second: femaleTraderSprite_175
+  - first:
+      213: -3119002009600780919
+    second: femaleTraderSprite_176
+  - first:
+      213: -3403082235320127299
+    second: femaleTraderSprite_177
+  - first:
+      213: 6686538928394174527
+    second: femaleTraderSprite_178
+  - first:
+      213: -2528189969257096448
+    second: femaleTraderSprite_179
+  - first:
+      213: -9167365876512539669
+    second: femaleTraderSprite_180
+  - first:
+      213: 3874096811809447585
+    second: femaleTraderSprite_181
+  - first:
+      213: 4120709612830454562
+    second: femaleTraderSprite_182
+  - first:
+      213: 1839054319700996619
+    second: femaleTraderSprite_183
+  - first:
+      213: -175077635919892123
+    second: femaleTraderSprite_184
+  - first:
+      213: -1162627863099989984
+    second: femaleTraderSprite_185
+  - first:
+      213: -1679724013657651009
+    second: femaleTraderSprite_186
+  - first:
+      213: -4571314431952631790
+    second: femaleTraderSprite_187
+  - first:
+      213: 3718447044434219515
+    second: femaleTraderSprite_188
+  - first:
+      213: -6603270811379268461
+    second: femaleTraderSprite_189
+  - first:
+      213: -3121284676044439915
+    second: femaleTraderSprite_190
+  - first:
+      213: -6758695544491514738
+    second: femaleTraderSprite_191
+  - first:
+      213: -6470364943380372617
+    second: femaleTraderSprite_192
+  - first:
+      213: -661282415920965163
+    second: femaleTraderSprite_193
+  - first:
+      213: 2675340224425783609
+    second: femaleTraderSprite_194
+  - first:
+      213: 3081087951152139778
+    second: femaleTraderSprite_195
+  - first:
+      213: -1916454383160199165
+    second: femaleTraderSprite_196
+  - first:
+      213: -505537498629670687
+    second: femaleTraderSprite_197
+  - first:
+      213: -4968219901220994093
+    second: femaleTraderSprite_198
+  - first:
+      213: -6941275169640618514
+    second: femaleTraderSprite_199
+  - first:
+      213: 2154473543518240504
+    second: femaleTraderSprite_200
+  - first:
+      213: -5687456007686597078
+    second: femaleTraderSprite_201
+  - first:
+      213: -3618920336885679300
+    second: femaleTraderSprite_202
+  - first:
+      213: 7085206032300745891
+    second: femaleTraderSprite_203
+  - first:
+      213: -7769320479723230863
+    second: femaleTraderSprite_204
+  - first:
+      213: 3218604249248424498
+    second: femaleTraderSprite_205
+  - first:
+      213: 8107272572201836996
+    second: femaleTraderSprite_206
+  - first:
+      213: -5339988998591273806
+    second: femaleTraderSprite_207
+  - first:
+      213: -6534454727233481904
+    second: femaleTraderSprite_208
+  - first:
+      213: -1912338605287782086
+    second: femaleTraderSprite_209
+  - first:
+      213: 8453811104869316866
+    second: femaleTraderSprite_210
+  - first:
+      213: 1317799067490163756
+    second: femaleTraderSprite_211
+  - first:
+      213: -1968506778676353861
+    second: femaleTraderSprite_212
+  - first:
+      213: -8139537212983764588
+    second: femaleTraderSprite_213
+  - first:
+      213: -7753124125531021719
+    second: femaleTraderSprite_214
+  - first:
+      213: 569535287607742160
+    second: femaleTraderSprite_215
+  - first:
+      213: 8890027948303715676
+    second: femaleTraderSprite_216
+  - first:
+      213: 6976004095220656485
+    second: femaleTraderSprite_217
+  - first:
+      213: 4921029953649318868
+    second: femaleTraderSprite_218
+  - first:
+      213: -7125228824909187037
+    second: femaleTraderSprite_219
+  - first:
+      213: 3966258613123375021
+    second: femaleTraderSprite_220
+  - first:
+      213: 2168315191533924142
+    second: femaleTraderSprite_221
+  - first:
+      213: 8862528837543183347
+    second: femaleTraderSprite_222
+  - first:
+      213: 927365655036044794
+    second: femaleTraderSprite_223
+  - first:
+      213: 2689606969885376111
+    second: femaleTraderSprite_224
+  - first:
+      213: 6152089387381365754
+    second: femaleTraderSprite_225
+  - first:
+      213: -7070803613673533702
+    second: femaleTraderSprite_226
+  - first:
+      213: 2719648305166926226
+    second: femaleTraderSprite_227
+  - first:
+      213: -6823705573315396962
+    second: femaleTraderSprite_228
+  - first:
+      213: -6415231438149999800
+    second: femaleTraderSprite_229
+  - first:
+      213: 1155207882463318505
+    second: femaleTraderSprite_230
+  - first:
+      213: 7803264088425290250
+    second: femaleTraderSprite_231
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: femaleTraderSprite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b4523fd3633820800000000000000
+      internalID: 2896768795602629176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891c07fc2a5955a0800000000000000
+      internalID: -6532090635354367609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b35920b4fa35290800000000000000
+      internalID: -7902780184404346014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d349d16b33336a50800000000000000
+      internalID: 6513105816245584853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb4e12329ca4900800000000000000
+      internalID: 669568647347616716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b24d522dcac7d00800000000000000
+      internalID: 971841638182955819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186607c36c8c50f60800000000000000
+      internalID: 8000021066836633217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be538ed5d64ca70800000000000000
+      internalID: 8846315818157730699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18baef3466c70f2a0800000000000000
+      internalID: -6705723066485396607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e26d1684aa5a110800000000000000
+      internalID: 1271609697657826968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320f50a5d702e680800000000000000
+      internalID: -8727404513790590408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1280
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e88633e4d5a650800000000000000
+      internalID: 6243630530756666086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fe7a5f601eb060800000000000000
+      internalID: 6971027343661790107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba975166d6560c10800000000000000
+      internalID: 2019396961678367409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bdd22a4add14e40800000000000000
+      internalID: 5639031907609860992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ab4a4606a0dfa0800000000000000
+      internalID: -5777935775969859656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb27713444a3e20800000000000000
+      internalID: 3331049929340796122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deaf3b3c605cdd00800000000000000
+      internalID: 998761643150126806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce911ddf6542400800000000000000
+      internalID: 298459123448147157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc66f54ebfddddf0800000000000000
+      internalID: -153720803950170913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1216
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e78b56377c41d0800000000000000
+      internalID: -3365183746205031764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d5d86e159b5f20800000000000000
+      internalID: 3412485100503683865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30818db9be45224b0800000000000000
+      internalID: -5466713626765682685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de958e702f7156480800000000000000
+      internalID: -8906686359773095443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fce41ea09bc4bc0800000000000000
+      internalID: -3797456929399320750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18db452bfa2ed42b0800000000000000
+      internalID: -5598569517512606335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ab10e1d7360360800000000000000
+      internalID: 7135452034162729078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd8bf560c80121d0800000000000000
+      internalID: -3377408623113433633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356cd7c5f7a3e3f60800000000000000
+      internalID: 8015908705453065811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc35a6067de32580800000000000000
+      internalID: -8852971351306846977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1152
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4695d0bbdd57d50800000000000000
+      internalID: 6734532613255029929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79074e995e89aa620800000000000000
+      internalID: 2786207431378890903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88dcd715a2d348c0800000000000000
+      internalID: -4016134836172564337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4290a3d01fe72370800000000000000
+      internalID: 8297863694002459212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2905065e418aa80800000000000000
+      internalID: -8455485324992146741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d322cc28750364c90800000000000000
+      internalID: -7186003003008343491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b6b46e3b295700800000000000000
+      internalID: 529501978170407190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8341b61900c9dd40800000000000000
+      internalID: 5609725956134617997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef76cd585c925690800000000000000
+      internalID: -7614852116585742361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1088
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ed58e6e651be70800000000000000
+      internalID: 9129173469397639910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a487de2d5a05560800000000000000
+      internalID: 7300517321313372770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027307981c0c24720800000000000000
+      internalID: 2829035453409146656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692bcc85248fa6710800000000000000
+      internalID: 1687433974245012118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c906eb49f4f500800000000000000
+      internalID: 429241968884303123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ddb86af93a4e00800000000000000
+      internalID: 1029699212469457392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6071a10af89770800000000000000
+      internalID: 8617912771883855254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb39e4a19d74cb0800000000000000
+      internalID: -4879692964221960487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1024
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680303aee427d25b0800000000000000
+      internalID: -5391527495630573434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e1b4822a4d9720800000000000000
+      internalID: 2854519250938357088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80b3c54adc270d0800000000000000
+      internalID: -3426450260669822723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62cb76666ef25d0800000000000000
+      internalID: -3084993892224063798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8b0a42986603e20800000000000000
+      internalID: 3328272863837862071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190394b0a46b3ffa0800000000000000
+      internalID: -5768066268598292335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60929f219c859a120800000000000000
+      internalID: 2425567494945712390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08295a9edee5f230800000000000000
+      internalID: 3672103711030192142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb568f47f8f0290c0800000000000000
+      internalID: -4570573563010456129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0bda475207dd590800000000000000
+      internalID: -7647833286031593290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80508696971911e10800000000000000
+      internalID: 2166672846387414280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 960
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9673bd79faff280800000000000000
+      internalID: -9007287662964938327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9737806066c256b20800000000000000
+      internalID: 3126954332978180985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa37b6fc6c7a700800000000000000
+      internalID: 551628073539448823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3414f917afda7a80800000000000000
+      internalID: -8468210240528837570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd545a4cbe081510800000000000000
+      internalID: 1519981076101225904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9c31452f5d1330800000000000000
+      internalID: 3683204683871853578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9aeef129d7eef40800000000000000
+      internalID: 5759679040007875062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b8a674c2f4aff40800000000000000
+      internalID: 5763005724769291165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 896
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eefe25555d84790800000000000000
+      internalID: -7545546613218873742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756aba9f1bf7b6830800000000000000
+      internalID: 4065483491006719575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef250a04bacd31c30800000000000000
+      internalID: 4329046294914945790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62185caa09d657830800000000000000
+      internalID: 4068278306506899750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7f8618dc1c645f0800000000000000
+      internalID: -772717197663864845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9691b7864dde10800000000000000
+      internalID: 2224011339604860809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_72
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8c691ac959f3460800000000000000
+      internalID: 7223656827284015304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321b6b8fd8d5eae0800000000000000
+      internalID: -1520570844539317705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb73fe64dd739d00800000000000000
+      internalID: 978263895417519096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_75
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85bc6d2a4588e510800000000000000
+      internalID: 1578658223029532042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280cba7d2c50e200800000000000000
+      internalID: 207266933261469740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 832
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125c3f850aea9d700800000000000000
+      internalID: 565675231922079009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b936d880b888690800000000000000
+      internalID: -7599671502339597417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65462b433f85151b0800000000000000
+      internalID: -5669652654298340266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4491a22cc4daef0800000000000000
+      internalID: -95335620291246871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd6ff52979edd90800000000000000
+      internalID: -7071047709994067029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e93f98c0d756ce0800000000000000
+      internalID: -1412585415303258561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecebcf901fdc4b20800000000000000
+      internalID: 3120113904354323686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42892418e250528c0800000000000000
+      internalID: -4024804994690410460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a4c44b27e893e0800000000000000
+      internalID: -2046631857616541794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 768
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21edbc0ab9cb3410800000000000000
+      internalID: 1457980705299357995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706ba8b62152e4950800000000000000
+      internalID: 6435121678602909191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d80666c06dd8a0800000000000000
+      internalID: -6278755900252958212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7296e15b174c770800000000000000
+      internalID: 8630147808661940146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19952cbeb92b77ca0800000000000000
+      internalID: -6019145994212320879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767435944814e8c90800000000000000
+      internalID: -7165717920678197401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4fd2ae60f9bbac0800000000000000
+      internalID: -3838299405355715401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_93
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef266f96c5c3648b0800000000000000
+      internalID: -5168377154748652802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_94
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657995d62e2625aa0800000000000000
+      internalID: -6173763414534809770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 704
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c716b724d7bea00800000000000000
+      internalID: 786860284397583450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a93cc82f3273a30800000000000000
+      internalID: 4194861102569593390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb6bdea9c12d180800000000000000
+      internalID: -9092173245968892757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd4b866b6b064de0800000000000000
+      internalID: -1349378482441073207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e25fec4b00fe4430800000000000000
+      internalID: 3769213869481743072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9838b8fc601dd0800000000000000
+      internalID: -2517392376201700313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6132b0a1b4704160800000000000000
+      internalID: 7007729326442557804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_102
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d13234f1fd0bea80800000000000000
+      internalID: -8436634144113282608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_103
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e38ecebf06dcb0800000000000000
+      internalID: -4839663437380065451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_104
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3570326485f1fdbc0800000000000000
+      internalID: -3756249100209420461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e6c49ebff9eee0800000000000000
+      internalID: -1231171829104187290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399a4b4869a5865e0800000000000000
+      internalID: -1916182038928119405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6cf4b7e0605cf40800000000000000
+      internalID: 5748007158676440811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e97a210c51759f0800000000000000
+      internalID: -479890920600789386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_109
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e7aea0f68c3db10800000000000000
+      internalID: 2005166638360067720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_110
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914afb77b2a065770800000000000000
+      internalID: 8599071720319460377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_111
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8a49788b9ba8b10800000000000000
+      internalID: 1984602788009912529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505c469ced88b8dc0800000000000000
+      internalID: -3635661783728601851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_113
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae616625c02a200800000000000000
+      internalID: 189727682342611599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061bb3185130be5b0800000000000000
+      internalID: -5338169542420221600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54a2322e070c3c20800000000000000
+      internalID: 3187430393556149338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd95a655e3557e70800000000000000
+      internalID: 9112281665520377296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20038b1e48666beb0800000000000000
+      internalID: -4704460039833243646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_118
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38b045502e202c50800000000000000
+      internalID: 6638356567148247103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_119
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9374001d6d2dc10800000000000000
+      internalID: 2076958571312396760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_120
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b2efb68aceab700800000000000000
+      internalID: 557017712044157730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_121
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 512
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fae7389917aff70800000000000000
+      internalID: 9221808091144564568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbbba24b2a6d5e80800000000000000
+      internalID: -8188271813455004740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b0ce57b7c42300800000000000000
+      internalID: 226525471657997795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd3e95f762e08d0800000000000000
+      internalID: -2878320783432359966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24c46bf0bf11fa0800000000000000
+      internalID: -5831603997566549271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_126
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca3e0b38698aed0800000000000000
+      internalID: -2402504908849566681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b33824dd9f85270800000000000000
+      internalID: 8239610246973307715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_128
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5d37637416fafe0800000000000000
+      internalID: -1175614019236276743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_129
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a914541c134cfd180800000000000000
+      internalID: -9088329805035388518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_130
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219d0712b9f22e00800000000000000
+      internalID: 1018651009025413422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_131
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b4b6c5b696e4b0800000000000000
+      internalID: -5411472194772092868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08626febd33ee70f0800000000000000
+      internalID: -1117205803204991360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2779064d5b6055f70800000000000000
+      internalID: 9175247193859200882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f538efbc4414f62c0800000000000000
+      internalID: -4436255344200613025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_135
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ea93d5db7ea6b0800000000000000
+      internalID: -5283149154550619634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_136
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b2e405a9201400800000000000000
+      internalID: 292779764507390289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4dd453d98adeec0800000000000000
+      internalID: -3535984739258346273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_138
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45df6a2f27bbaf10800000000000000
+      internalID: 2282119049396606287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb00cd4d077f80a60800000000000000
+      internalID: 7640628831813632188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a088d1892f34340800000000000000
+      internalID: 4846984359125191286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f51603dc403420800000000000000
+      internalID: 2607668653471430651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_142
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009141f33af9458e0800000000000000
+      internalID: -1705562835379808000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0aca6d8f59b2b0800000000000000
+      internalID: -5568314403280254039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190dd7ff1d851d910800000000000000
+      internalID: 1860365780038570129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_145
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3744468ef96b480800000000000000
+      internalID: -8883737394478287899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_146
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f097f1687d9950800000000000000
+      internalID: 6457449802879791185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_147
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f03996dc9ff110800000000000000
+      internalID: 1296927663213048086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7e540a924338460800000000000000
+      internalID: 7242689979129128946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99654bf5c87afa9b0800000000000000
+      internalID: -5066646834425604455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bebca6a8b177930800000000000000
+      internalID: 4140808663701646221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_151
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc5e626a52ed470800000000000000
+      internalID: 8421209748776799427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f8a3eca80b139e0800000000000000
+      internalID: -1643338278801600703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d13ec7fa99f6fa0800000000000000
+      internalID: -5805252415663694506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93318e6669f3e6d0800000000000000
+      internalID: -2962249911543712868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_155
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c55214d3474c790800000000000000
+      internalID: -7510750472112350155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_156
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9924c69dfcb1fc50800000000000000
+      internalID: 6697341918218824093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_157
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f572a1855434cba0800000000000000
+      internalID: -6069668855936813575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_158
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdea2a084c3cbd60800000000000000
+      internalID: 7907261325861645749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842ea2404b796ae0800000000000000
+      internalID: -1555576680352963450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_160
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726c8c6eaf6e02b0800000000000000
+      internalID: -5616428890348297615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d376de2685fd6fa90800000000000000
+      internalID: -7280386176887986371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_162
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178a15468f0accc20800000000000000
+      internalID: 3228132021613209713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb61d9869e1b8940800000000000000
+      internalID: 5299363018437651406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_164
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8d1929c8109e2a0800000000000000
+      internalID: -6707828466725562203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_165
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6baa2d1964ccd250800000000000000
+      internalID: 5970863161726380911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac0f06fe71b4d00800000000000000
+      internalID: 957885662637378165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5f9c7161af78a0800000000000000
+      internalID: -6305143513220686838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_168
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457861fa9ae8ac50800000000000000
+      internalID: 6676844398772778307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_169
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b132220ffbc4840800000000000000
+      internalID: 5209749907046603574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_170
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d248a488fd778450800000000000000
+      internalID: 6090975527372866260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_171
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c1f09e64ace980800000000000000
+      internalID: -8508244801224587988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_172
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa166b96b67c9f40800000000000000
+      internalID: 5736590552026454778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_173
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44673493287585090800000000000000
+      internalID: -8045584517479303612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_174
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d8a47d3bffaa10800000000000000
+      internalID: 1923031807279290806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_175
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8232a08a5b89c50800000000000000
+      internalID: 6672282581278599369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_176
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985140c823417b4d0800000000000000
+      internalID: -3119002009600780919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_177
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03d4ebcb2d5c0d0800000000000000
+      internalID: -3403082235320127299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_178
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3081c38abb5bcc50800000000000000
+      internalID: 6686538928394174527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_179
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b99bd2e901aecd0800000000000000
+      internalID: -2528189969257096448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_180
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebbe6c5e49f6c080800000000000000
+      internalID: -9167365876512539669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_181
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1065468e83c530800000000000000
+      internalID: 3874096811809447585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_182
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223fb477f83bf2930800000000000000
+      internalID: 4120709612830454562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_183
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02fc68f822a58910800000000000000
+      internalID: 1839054319700996619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_184
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 192
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56131e651dff19df0800000000000000
+      internalID: -175077635919892123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02024fd4e148ddfe0800000000000000
+      internalID: -1162627863099989984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_186
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80e3db8eb60b8e0800000000000000
+      internalID: -1679724013657651009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218c8d67ebd6f80c0800000000000000
+      internalID: -4571314431952631790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_188
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf15a9fb2e39a9330800000000000000
+      internalID: 3718447044434219515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_189
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948804ce287c54a0800000000000000
+      internalID: -6603270811379268461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_190
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3089df18fea4d0800000000000000
+      internalID: -3121284676044439915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_191
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84619d163a4432a0800000000000000
+      internalID: -6758695544491514738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_192
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732cae8d55a436a0800000000000000
+      internalID: -6470364943380372617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_193
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d991d67527a2d6f0800000000000000
+      internalID: -661282415920965163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_194
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931763272c7b02520800000000000000
+      internalID: 2675340224425783609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_195
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec822da2932ca20800000000000000
+      internalID: 3081087951152139778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_196
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fe7f64e26765e0800000000000000
+      internalID: -1916454383160199165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_197
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 128
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8f98dc258fbf8f0800000000000000
+      internalID: -505537498629670687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_198
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d342b592565d0bb0800000000000000
+      internalID: -4968219901220994093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_199
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5e4597203abaf90800000000000000
+      internalID: -6941275169640618514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_200
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feb16fd54a36ed10800000000000000
+      internalID: 2154473543518240504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_201
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26dd2af4e81211b0800000000000000
+      internalID: -5687456007686597078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_202
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bfd71a02307cdc0800000000000000
+      internalID: -3618920336885679300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_203
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4adbbe855b35260800000000000000
+      internalID: 7085206032300745891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_204
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ede3ff24dd2490800000000000000
+      internalID: -7769320479723230863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_205
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e3050387caac20800000000000000
+      internalID: 3218604249248424498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_206
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ab534371d28070800000000000000
+      internalID: 8107272572201836996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_207
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4297a5c4c84e5b0800000000000000
+      internalID: -5339988998591273806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_208
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053506eeb04f055a0800000000000000
+      internalID: -6534454727233481904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_209
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394e85ab220675e0800000000000000
+      internalID: -1912338605287782086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_210
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209fcffd868f15570800000000000000
+      internalID: 8453811104869316866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_211
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c97171543c94210800000000000000
+      internalID: 1317799067490163756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_212
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb42c0fa3857ea4e0800000000000000
+      internalID: -1968506778676353861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_213
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4999708a70e8a0f80800000000000000
+      internalID: -8139537212983764588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_214
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e56368fae576490800000000000000
+      internalID: -7753124125531021719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_215
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec8e8935567e700800000000000000
+      internalID: 569535287607742160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_216
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d00fd4159bf5b70800000000000000
+      internalID: 8890027948303715676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_217
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692c4f93cebfc060800000000000000
+      internalID: 6976004095220656485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_218
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db135c8ba20b4440800000000000000
+      internalID: 4921029953649318868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_219
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f9e3822a1e1d90800000000000000
+      internalID: -7125228824909187037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_220
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5d8ac13bfa0730800000000000000
+      internalID: 3966258613123375021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_221
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6670bd27671e10800000000000000
+      internalID: 2168315191533924142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ca65a5070efa70800000000000000
+      internalID: 8862528837543183347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_223
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5225d562aaedc00800000000000000
+      internalID: 927365655036044794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_224
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ebe69f947635520800000000000000
+      internalID: 2689606969885376111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_225
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb1151e3bc906550800000000000000
+      internalID: 6152089387381365754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_226
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec07a73957fdd90800000000000000
+      internalID: -7070803613673533702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_227
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291c77769b12eb520800000000000000
+      internalID: 2719648305166926226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_228
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9abea24fe35d41a0800000000000000
+      internalID: -6823705573315396962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_229
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a6211ff488f6a0800000000000000
+      internalID: -6415231438149999800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_230
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e115f3d27f180010800000000000000
+      internalID: 1155207882463318505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleTraderSprite_231
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ad62f4853ca4c60800000000000000
+      internalID: 7803264088425290250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
