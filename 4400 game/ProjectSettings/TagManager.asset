@@ -23,6 +23,11 @@ TagManager:
   - NPCTextBox
   - EnemyTier
   - MoneyText
+  - TraderUI
+  - TraderText
+  - PotionQuantity
+  - PotionTotal
+  - TraderButton
   layers:
   - Default
   - TransparentFX

@@ -1,28 +1,29 @@
 ﻿<Properties StartupConfiguration="{A5D2153D-E3F8-6890-2EA3-68C6D8CD833F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BattleSystem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPC scripts/TraderScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="148" Column="53" />
-      <File FileName="Assets/Scripts/CameraMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/NPC scripts/old_man_in_house.cs" />
-      <File FileName="Assets/Scripts/Sign.cs" />
-      <File FileName="Assets/Scripts/UI_controller_battle.cs" />
-      <File FileName="Assets/Scripts/dontDestroyOnLoad_health_bar.cs" />
-      <File FileName="Assets/Scripts/enemyHealthBar.cs" />
-      <File FileName="Assets/Scripts/HealthBar.cs" />
-      <File FileName="Assets/Scripts/canvas_dont_destroy.cs" />
-      <File FileName="Assets/Scripts/roomOneBarrierVarSetting.cs" />
-      <File FileName="Assets/Scripts/oldManRoomOne.cs" />
-      <File FileName="Assets/Scripts/dialogueTrigger.cs" />
-      <File FileName="Assets/Scripts/RandomEncounterTest.cs" />
-      <File FileName="Assets/Scripts/enemies/Unit.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/dontDestroy.cs" />
-      <File FileName="Assets/Scripts/EncounterManager.cs" />
-      <File FileName="Assets/Scripts/encounterControllers/encounterControllerMainRoom.cs" />
-      <File FileName="Assets/Scripts/oldManInForest.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/LoadingSceneButtonManager.cs" Line="16" Column="34" />
-      <File FileName="Assets/Scripts/stats_controller.cs" Line="44" Column="97" />
-      <File FileName="Assets/Scripts/SceneChange.cs" Line="15" Column="65" />
-      <File FileName="Assets/Scripts/BattleSystem.cs" Line="167" Column="13" />
+      <File FileName="Assets/Scripts/dialogueTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="355" Column="30" NotebookId="1" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/NPC scripts/old_man_in_house.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/Sign.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/UI_controller_battle.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/dontDestroyOnLoad_health_bar.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/enemyHealthBar.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/HealthBar.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/canvas_dont_destroy.cs" Line="52" Column="36" NotebookId="1" />
+      <File FileName="Assets/Scripts/roomOneBarrierVarSetting.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/oldManRoomOne.cs" Line="15" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/RandomEncounterTest.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/enemies/Unit.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/dontDestroy.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/EncounterManager.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/encounterControllers/encounterControllerMainRoom.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/oldManInForest.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/LoadingSceneButtonManager.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/stats_controller.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/SceneChange.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/BattleSystem.cs" NotebookId="1" />
+      <File FileName="Assets/Scripts/NPC scripts/TraderScript.cs" Line="7" Column="5" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -30,22 +31,20 @@
           <Node name="4400 game" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="BattleSystem.cs" selected="True" />
+                <Node name="enemies" expanded="True" />
+                <Node name="NPC scripts" expanded="True">
+                  <Node name="TraderScript.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="4400 game" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0c41aa4b-a06e-4bbd-b6cd-88a0dc7fdbeb" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="738e6385-df22-4330-9df3-011d4c196f12" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

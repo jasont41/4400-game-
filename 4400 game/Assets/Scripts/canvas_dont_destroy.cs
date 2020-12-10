@@ -21,10 +21,12 @@ public class canvas_dont_destroy : MonoBehaviour
     public Text potionCount;
     public GameObject NPCdialogue;
     public Text NPCText;
-    public Text MoneyText; 
+    public Text MoneyText;
+    public GameObject traderUI; 
     public static canvas_dont_destroy Instance { get; private set; }
     private void Awake()
     {
+        traderUI = GameObject.FindGameObjectWithTag("TraderUI"); 
         MoneyText = GameObject.FindGameObjectWithTag("MoneyText").GetComponent<Text>(); 
         HealPotionIcon = GameObject.FindGameObjectWithTag("healPotionIcon");
         if (HealPotionIcon == null) { Debug.Log("erroed out");  }
@@ -46,7 +48,8 @@ public class canvas_dont_destroy : MonoBehaviour
         dialogBox.SetActive(false);
         stats_UI.SetActive(false);
         HealPotionIcon.SetActive(false);
-        NPCdialogue.SetActive(false); 
+        NPCdialogue.SetActive(false);
+        traderUI.SetActive(false); 
 
         if (Instance == null)
         {
