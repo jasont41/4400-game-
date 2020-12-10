@@ -11469,6 +11469,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerInRange: 0
   TraderUI: {fileID: 0}
+  potionQuan: 0
+  potionTotal: 0
+  cartTotal: 0
+  potionCost: 0
+  potionCostText: {fileID: 0}
 --- !u!61 &861312832
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19441,7 +19446,7 @@ GameObject:
   - component: {fileID: 1174792411}
   m_Layer: 5
   m_Name: PotionCost
-  m_TagString: Untagged
+  m_TagString: PotionCostText
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19498,7 +19503,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Cost: 50 Gold'
+  m_Text: 
 --- !u!222 &1174792412
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19506,7 +19511,7 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1174792409}
-  m_CullTransparentMesh: 0
+  m_CullTransparentMesh: 1
 --- !u!1001 &1184036381
 PrefabInstance:
   m_ObjectHideFlags: 0

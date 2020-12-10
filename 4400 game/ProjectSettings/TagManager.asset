@@ -28,6 +28,7 @@ TagManager:
   - PotionQuantity
   - PotionTotal
   - TraderButton
+  - PotionCostText
   layers:
   - Default
   - TransparentFX
