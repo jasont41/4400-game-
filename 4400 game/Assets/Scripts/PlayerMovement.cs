@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     public int current_health;
     public int player_experience;
     public int player_tier; // Tier == level 
-    public int experienceForNextTier = 100; //base, will increase for each tier
+    public int experienceForNextTier = 20; //base, will increase for each tier
     public int player_money;
     //basic variables 
     public float speed;
@@ -35,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
     public int heal_value; 
     public int attack_damage;
     public Vector3 player_pos_before_encounter;
-    public Vector3 player_battle_pos = new Vector3(-4, 0, 0);
+    public Vector3 player_battle_pos = new Vector3(-4.5f, 0, 0);
 
     //Below is a holder for the enemy prefab that is chosen in the previous scene
     public GameObject enemyPrefab; 
@@ -81,8 +81,8 @@ public class PlayerMovement : MonoBehaviour
         {
             hasSeenInventoryItemsBefore[0] = false;
             player_tier = 1;
-            attack_damage = 5;
-            heal_value = 5;
+            attack_damage = 10;
+            heal_value = 20;
             current_health = max_health;
             player_money = 100;  
         }
@@ -125,6 +125,7 @@ public class PlayerMovement : MonoBehaviour
     // End of the code that makes this instance a singleton 
     void Update()
     {
+        checkIfDead(); 
         SceneManager.sceneLoaded += OnSceneLoaded; 
         canvas_dont_destroy.Instance.potionCount.text = inventoryItemQuantity[0].ToString();
         change = Vector3.zero;
@@ -426,6 +427,13 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             return 0; 
+        }
+    }
+    public void checkIfDead()
+    {
+        if(current_health <= 0)
+        {
+            SceneManager.LoadScene("LoadingScene"); 
         }
     }
 }

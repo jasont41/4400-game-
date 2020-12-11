@@ -10,7 +10,7 @@ public class Unit : MonoBehaviour
     public int level; 
     public int maxHP;
     public int currentHP;
-    public int exp_given = 5;
+    public int exp_given = 10;
     public int money_given = 2; 
     public void setStats(int val)
     {

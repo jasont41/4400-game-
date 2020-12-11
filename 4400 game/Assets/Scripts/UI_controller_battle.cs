@@ -22,7 +22,8 @@ public class UI_controller_battle : MonoBehaviour
     public void run_button_press()
     {
         PlayerMovement.Instance.transform.position = spawnLocation;
-        PlayerMovement.Instance.prevent_movement = true;  
+        PlayerMovement.Instance.prevent_movement = true;
+        PlayerPrefs.SetString("PreviousScene", "Encounter"); 
         SceneManager.LoadScene(newLevel);
     }
 

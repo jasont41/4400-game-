@@ -34,7 +34,7 @@ public class BattleSystem : MonoBehaviour
     
     void Start()
     {
-
+        PlayerMovement.Instance.transform.position = new Vector3(-4.5f, 0, 0); 
         enemy_level = PlayerPrefs.GetInt("EnemyLevel", 1); 
         enemyTierText.text = enemy_level.ToString();
         PlayerPrefs.DeleteKey("EnemyLevel"); 
@@ -56,7 +56,7 @@ public class BattleSystem : MonoBehaviour
         PlayerMovement.Instance.setBattlePOS();
         set_equal_to_player_instance();
         enemyHealthBar.SetHealth(enemyUnit.currentHP);
-        
+        playerUnit.currentHP = PlayerMovement.Instance.current_health;
     }
 
     
@@ -65,6 +65,8 @@ public class BattleSystem : MonoBehaviour
     { 
         GameObject playerGo = Instantiate(playerPrefab, playerSpawn);
         playerUnit = playerGo.GetComponent<Unit>();
+        playerUnit.maxHP = PlayerMovement.Instance.max_health;
+        playerUnit.damage = PlayerMovement.Instance.attack_damage; 
         playerUnit.currentHP = PlayerMovement.Instance.current_health; // JE added. Gets players health before battle 
         GameObject enemyGo = Instantiate(enemyPrefab, enemySpawn);
         enemyUnit = enemyGo.GetComponent<Unit>();
@@ -110,15 +112,14 @@ public class BattleSystem : MonoBehaviour
 
     IEnumerator PlayerHeal()
     {
-        int player_current_heal_after_randomization = val_variance(PlayerMovement.Instance.heal_value);
-        playerUnit.Heal(player_current_heal_after_randomization);
-        PlayerMovement.Instance.addHealth(player_current_heal_after_randomization); // JE added 
+        playerUnit.Heal(PlayerMovement.Instance.heal_value);
+        PlayerMovement.Instance.addHealth(PlayerMovement.Instance.heal_value); // JE added 
 
 
         dialogueText.text = "You cast heal on yourself";
         yield return new WaitForSeconds(1f);
 
-        dialogueText.text = "You healed for" + player_current_heal_after_randomization + " health";
+        dialogueText.text = "You healed for" + PlayerMovement.Instance.heal_value + " health";
         yield return new WaitForSeconds(1f);
 
         state = BattleState.ENEMYTURN;

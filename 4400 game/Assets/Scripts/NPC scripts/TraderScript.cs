@@ -26,7 +26,7 @@ public class TraderScript : MonoBehaviour
         potionQuanText = GameObject.FindGameObjectWithTag("PotionQuantity").GetComponent<Text>();
         potionTotalText = GameObject.FindGameObjectWithTag("PotionTotal").GetComponent<Text>();
         TraderUI.SetActive(false); 
-        potionCost = 50;
+        potionCost = 20;
         
     }
     private void Update()
