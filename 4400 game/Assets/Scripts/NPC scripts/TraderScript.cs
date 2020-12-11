@@ -12,19 +12,31 @@ public class TraderScript : MonoBehaviour
     public int cartTotal;
     public int potionCost;
     public Text potionCostText;
-    public Text potionQuanText; 
+    public Text potionQuanText;
+    public Text potionTotalText; 
+    
+
     private void Start()
     {
-        potionQuan = potionTotal = cartTotal = 0; //zero it all out 
+        potionQuan = 1;
+        potionTotal = potionCost * potionQuan;
         TraderUI = canvas_dont_destroy.Instance.traderUI;
+        TraderUI.SetActive(true);
+        potionCostText = GameObject.FindGameObjectWithTag("PotionCostText").GetComponent<Text>();
+        potionQuanText = GameObject.FindGameObjectWithTag("PotionQuantity").GetComponent<Text>();
+        potionTotalText = GameObject.FindGameObjectWithTag("PotionTotal").GetComponent<Text>();
+        TraderUI.SetActive(false); 
         potionCost = 50;
         
     }
     private void Update()
     {
+        potionTotal = potionCost * potionQuan; 
         if (TraderUI.activeInHierarchy == true)
         {
-             
+            potionQuanText.text = potionQuan.ToString();
+            potionCostText.text = "Cost: $" + potionCost.ToString();
+            potionTotalText.text = "$" + potionTotal.ToString();
         }
         if(Input.GetKeyDown(KeyCode.Space) && playerInRange)
         {
@@ -37,15 +49,30 @@ public class TraderScript : MonoBehaviour
             else
             {
                 TraderUI.SetActive(true);
-                potionCostText = GameObject.FindGameObjectWithTag("PotionCostText").GetComponent<Text>();
-                potionCostText = GameObject.FindGameObjectWithTag("PotionQuantity").GetComponent<Text>();
-                potionQuanText.text = potionQuan.ToString(); 
-                potionCostText.text = "Cost: $" + potionCost.ToString();
                 
                 PlayerMovement.Instance.prevent_movement = false; 
             }
+           
+        }
+        
+    }
+
+    public void increasePotion()
+    {
+        if (PlayerMovement.Instance.player_money >= (potionQuan * potionCost))
+        {
+            potionQuan++;
         }
     }
+
+    public void decreasePotion()
+    {
+        if (potionQuan > 0)
+        {
+            potionQuan--;
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))

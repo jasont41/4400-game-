@@ -18,12 +18,12 @@ public class PlayerMovement : MonoBehaviour
 
     // For the randomized encounter trigger. A 5 here would mean a 1 in 5 chance of a random battle at each time 
     public int encounter_seed = 5;
-
+    
     public int current_health;
     public int player_experience;
     public int player_tier; // Tier == level 
     public int experienceForNextTier = 100; //base, will increase for each tier
-    public int player_money; 
+    public int player_money;
     //basic variables 
     public float speed;
     private Rigidbody2D myRigidBody;
@@ -81,7 +81,7 @@ public class PlayerMovement : MonoBehaviour
             attack_damage = 5;
             heal_value = 5;
             current_health = max_health;
-            player_money = 50; 
+            player_money = 100;  
         }
         animator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
