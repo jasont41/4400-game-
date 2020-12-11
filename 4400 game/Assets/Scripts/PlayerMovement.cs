@@ -149,6 +149,8 @@ public class PlayerMovement : MonoBehaviour
         else if(PlayerPrefs.GetString("PreviousScene") == "Encounter")
         {
             transform.position = player_pos_before_encounter;
+            prevent_movement = true; 
+            setMovingTrue(); 
             PlayerPrefs.DeleteKey("PreviousScene"); 
         }
         else if(PlayerPrefs.GetString("PreviousScene") == "Main")
