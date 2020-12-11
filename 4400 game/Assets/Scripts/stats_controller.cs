@@ -20,7 +20,7 @@ public class stats_controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) && PlayerMovement.Instance.preventStatsUI == false)
         {
             if (canvas_dont_destroy.Instance.stats_UI.activeInHierarchy)
             {

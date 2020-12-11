@@ -63,10 +63,13 @@ public class PlayerMovement : MonoBehaviour
 
     public Vector2 maxPosition;
     public Vector2 minPosition;
+
+
+    public bool preventStatsUI; 
     //Starting values for all player functions. Will certainly add this as the game gets larger 
     void Start()
     {
-
+        preventStatsUI = false; 
         healthPotionIcon = canvas_dont_destroy.Instance.HealPotionIcon;
         canvas_dont_destroy.Instance.potionCount.text = inventoryItemQuantity[0].ToString(); 
         inventoryItemNames[0] = "Normal Potion";
@@ -335,7 +338,7 @@ public class PlayerMovement : MonoBehaviour
     }
     public void useHealthPotion()
     {
-        if(inventoryItemQuantity[0] != 0)
+        if(inventoryItemQuantity[0] != 0 && current_health != max_health)
         {
             inventoryItemQuantity[0]--; //decrementing regular potion quantity
             addHealth(10); 
