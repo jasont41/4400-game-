@@ -23,11 +23,11 @@
 <h3>Screenshots</h3>
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/1.PNG" width=25% height=25%></td>
-    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/2.PNG" width=25% height=25%></td>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/1.PNG"></td>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/2.PNG"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/3.PNG" width=25% height=25%></td>
-    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/4.PNG" width=25% height=25%></td>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/3.PNG"></td>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/4.PNG"></td>
   </tr>
   </table>
