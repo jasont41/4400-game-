@@ -1,0 +1,12 @@
+﻿  Running il2cpp.exe in server GC mode.
+  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\cl.exe
+  
+  	Output directory: C:\Users\Jason\Documents\GitHub\4400-game-\4400 game\buildsPresent\build\bin\x64\Release
+  	Cache directory: C:\Users\Jason\Documents\GitHub\4400-game-\4400 game\buildsPresent\build\obj\il2cppOutputProject\x64\Release
+  ObjectFiles: 202 of which compiled: 0
+  Total compilation time: 162 milliseconds.
+  Cleaned up 2 object files.
