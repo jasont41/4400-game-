@@ -21,7 +21,13 @@
 <p>Ultimately this game was a big learning experience for me. If I could go back and start from scratch I would certainly design the game first, then research how to develope each mechanic and lastly begin building the game itself. Part of me wants to go back and improve it but I've decided I will let this game stay the way it is for a few reasons. One, I don't have the time it deserves, and two I would rather spend what time I do have developing a game from scratch instead of spending most of my limited time fixing previous mistakes</p>
 
 <h3>Screenshots</h3>
-<img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/1.PNG" width=25% height=25% style="padding-left:40px"><br>
-<img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/2.PNG" width=25% height=25% style="padding-left:40px"><br>
-<img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/3.PNG" width=25% height=25% style="padding-left:40px"><br>
-<img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/4.PNG" width=25% height=25% style="padding-left:40px">
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/1.PNG" width=25% height=25%></td>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/2.PNG" width=25% height=25%></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/3.PNG" width=25% height=25%></td>
+    <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/4.PNG" width=25% height=25%></td>
+  </tr>
+  </table>
