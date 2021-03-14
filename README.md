@@ -31,3 +31,9 @@
     <td><img src="https://raw.githubusercontent.com/jasont41/4400-game-/master/Screenshots/4.PNG"></td>
   </tr>
   </table>
+
+<h4>Sources</h4>
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu">Zelda Tutorial </a></li>
+  <li><a href="https://opengameart.org/content/zelda-like-tilesets-and-sprites">Game Assets</a></li>
+</ul>
